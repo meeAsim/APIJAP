@@ -1,6 +1,6 @@
-[
-  { "lesson": "第２課",
-    "vocabulary"[
+
+  { "第２課":
+    [
 {"lesson":2,"kana":"これ","kanji":"これ","english":"this"},
 {"lesson":2,"kana":"それ","kanji":"それ","english":"that (near listener)"},
 {"lesson":2,"kana":"あれ","kanji":"あれ","english":"that (far from both)"},
@@ -43,4 +43,4 @@
 
 ]
  }
-]
+
