@@ -1,46 +1,22 @@
+{
+  "第1課": [
+    {
+      "kana": "これ",
+      "kanji": "此れ",
+      "english": "this"
+    },
+    {
+      "kana": "それ",
+      "kanji": "其れ",
+      "english": "that"
+    }
+  ],
 
-  { "第２課":
-    [
-{"lesson":2,"kana":"これ","kanji":"これ","english":"this"},
-{"lesson":2,"kana":"それ","kanji":"それ","english":"that (near listener)"},
-{"lesson":2,"kana":"あれ","kanji":"あれ","english":"that (far from both)"},
-{"lesson":2,"kana":"ほん","kanji":"本","english":"book"},
-{"lesson":2,"kana":"じしょ","kanji":"辞書","english":"dictionary"},
-{"lesson":2,"kana":"ざっし","kanji":"雑誌","english":"magazine"},
-{"lesson":2,"kana":"しんぶん","kanji":"新聞","english":"newspaper"},
-{"lesson":2,"kana":"てちょう","kanji":"手帳","english":"pocket notebook"},
-{"lesson":2,"kana":"めいし","kanji":"名刺","english":"business card"},
-{"lesson":2,"kana":"カード","kanji":"カード","english":"card"},
-{"lesson":2,"kana":"テレホンカード","kanji":"テレホンカード","english":"telephone card"},
-{"lesson":2,"kana":"えんぴつ","kanji":"鉛筆","english":"pencil"},
-{"lesson":2,"kana":"ボールペン","kanji":"ボールペン","english":"ballpoint pen"},
-{"lesson":2,"kana":"ノート","kanji":"ノート","english":"notebook"},
-{"lesson":2,"kana":"かばん","kanji":"鞄","english":"bag"},
-{"lesson":2,"kana":"テレビ","kanji":"テレビ","english":"television"},
-{"lesson":2,"kana":"ラジオ","kanji":"ラジオ","english":"radio"},
-{"lesson":2,"kana":"とけい","kanji":"時計","english":"watch / clock"},
-{"lesson":2,"kana":"かさ","kanji":"傘","english":"umbrella"},
-{"lesson":2,"kana":"でんわ","kanji":"電話","english":"telephone"},
-{"lesson":2,"kana":"つくえ","kanji":"机","english":"desk"},
-{"lesson":2,"kana":"いす","kanji":"椅子","english":"chair"},
-{"lesson":2,"kana":"ほんだな","kanji":"本棚","english":"bookshelf"},
-{"lesson":2,"kana":"くつ","kanji":"靴","english":"shoes"},
-{"lesson":2,"kana":"シャツ","kanji":"シャツ","english":"shirt"},
-{"lesson":2,"kana":"COAT","kanji":"コート","english":"coat"},
-{"lesson":2,"kana":"きょうしつ","kanji":"教室","english":"classroom"},
-{"lesson":2,"kana":"しごと","kanji":"仕事","english":"work / job"},
-{"lesson":2,"kana":"うけつけ","kanji":"受付","english":"reception"},
-{"lesson":2,"kana":"じむしょ","kanji":"事務所","english":"office"},
-{"lesson":2,"kana":"こうえん","kanji":"公園","english":"park"},
-{"lesson":2,"kana":"えいがかん","kanji":"映画館","english":"movie theater"},
-{"lesson":2,"kana":"あさ","kanji":"朝","english":"morning"},
-{"lesson":2,"kana":"ひる","kanji":"昼","english":"noon / afternoon"},
-{"lesson":2,"kana":"ばん","kanji":"晩","english":"evening"},
-{"lesson":2,"kana":"よる","kanji":"夜","english":"night"},
-{"lesson":2,"kana":"いま","kanji":"今","english":"now"},
-{"lesson":2,"kana":"〜じ","kanji":"〜時","english":"hour / o'clock"},
-{"lesson":2,"kana":"〜ふん","kanji":"〜分","english":"minute"}
-
-]
- }
-
+  "第2課": [
+    {
+      "kana": "これ",
+      "kanji": "本",
+      "english": "book"
+    }
+  ]
+}
