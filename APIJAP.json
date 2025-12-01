@@ -1,22 +1,48 @@
 {
   "第1課": [
-    {
-      "kana": "これ",
-      "kanji": "此れ",
-      "english": "this"
-    },
-    {
-      "kana": "それ",
-      "kanji": "其れ",
-      "english": "that"
-    }
+    {"kana": "わたし", "kanji": "私", "english": "I / me", "nepali": "म"},
+    {"kana": "あなた", "kanji": "", "english": "you", "nepali": "तपाईं"},
+    {"kana": "せんせい", "kanji": "先生", "english": "teacher", "nepali": "अध्यापक"},
+    {"kana": "がくせい", "kanji": "学生", "english": "student", "nepali": "विद्यार्थी"},
+    {"kana": "かいしゃいん", "kanji": "会社員", "english": "company employee", "nepali": "कम्पनी कर्मचारी"},
+    {"kana": "これ", "kanji": "", "english": "this", "nepali": "यो"},
+    {"kana": "それ", "kanji": "", "english": "that", "nepali": "त्यो"},
+    {"kana": "あれ", "kanji": "", "english": "that (over there)", "nepali": "उता त्यो"}
   ],
 
   "第2課": [
-    {
-      "kana": "これ",
-      "kanji": "本",
-      "english": "book"
-    }
+    {"kana": "ほん", "kanji": "本", "english": "book", "nepali": "पुस्तक"},
+    {"kana": "かばん", "kanji": "", "english": "bag", "nepali": "झोला"},
+    {"kana": "とけい", "kanji": "時計", "english": "clock / watch", "nepali": "घडी"},
+    {"kana": "くるま", "kanji": "車", "english": "car", "nepali": "गाडी"},
+    {"kana": "つくえ", "kanji": "机", "english": "desk", "nepali": "टेबल"},
+    {"kana": "いす", "kanji": "", "english": "chair", "nepali": "कुर्सी"}
+  ],
+
+  "第3課": [
+    {"kana": "ここ", "kanji": "", "english": "here", "nepali": "यहाँ"},
+    {"kana": "そこ", "kanji": "", "english": "there", "nepali": "त्यहाँ"},
+    {"kana": "あそこ", "kanji": "", "english": "over there", "nepali": "उहाँ त्यहाँ"},
+    {"kana": "トイレ", "kanji": "", "english": "toilet", "nepali": "शौचालय"},
+    {"kana": "うけつけ", "kanji": "受付", "english": "reception", "nepali": "रिसेप्शन"},
+    {"kana": "じむしょ", "kanji": "事務所", "english": "office", "nepali": "कार्यालय"}
+  ],
+
+  "第4課": [
+    {"kana": "おきます", "kanji": "起きます", "english": "get up / wake up", "nepali": "उठ्नु"},
+    {"kana": "ねます", "kanji": "寝ます", "english": "sleep / go to bed", "nepali": "सुत्नु"},
+    {"kana": "はたらきます", "kanji": "働きます", "english": "work", "nepali": "काम गर्नु"},
+    {"kana": "べんきょうします", "kanji": "勉強します", "english": "study", "nepali": "पढ्नु"},
+    {"kana": "やすみます", "kanji": "休みます", "english": "rest / take a break", "nepali": "आराम गर्नु"},
+    {"kana": "いま", "kanji": "今", "english": "now", "nepali": "अहिले"}
+  ],
+
+  "第5課": [
+    {"kana": "いきます", "kanji": "行きます", "english": "go", "nepali": "जानु"},
+    {"kana": "きます", "kanji": "来ます", "english": "come", "nepali": "आउनु"},
+    {"kana": "かえります", "kanji": "帰ります", "english": "return / go home", "nepali": "फर्किनु"},
+    {"kana": "ひこうき", "kanji": "飛行機", "english": "airplane", "nepali": "उडान / विमान"},
+    {"kana": "でんしゃ", "kanji": "電車", "english": "train", "nepali": "रेल"},
+    {"kana": "バス", "kanji": "", "english": "bus", "nepali": "बस"}
   ]
 }
