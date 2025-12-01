@@ -1,48 +1,176 @@
 {
   "第1課": [
-    {"kana": "わたし", "kanji": "私", "english": "I / me", "nepali": "म"},
-    {"kana": "あなた", "kanji": "", "english": "you", "nepali": "तपाईं"},
-    {"kana": "せんせい", "kanji": "先生", "english": "teacher", "nepali": "अध्यापक"},
-    {"kana": "がくせい", "kanji": "学生", "english": "student", "nepali": "विद्यार्थी"},
-    {"kana": "かいしゃいん", "kanji": "会社員", "english": "company employee", "nepali": "कम्पनी कर्मचारी"},
-    {"kana": "これ", "kanji": "", "english": "this", "nepali": "यो"},
-    {"kana": "それ", "kanji": "", "english": "that", "nepali": "त्यो"},
-    {"kana": "あれ", "kanji": "", "english": "that (over there)", "nepali": "उता त्यो"}
+    {"kana": "わたし", "kanji": "私", "english": "I / me", "nepali": "म",
+      "jp_example": "私は学生です。",
+      "np_example": "म विद्यार्थी हुँ।",
+      "en_example": "I am a student."
+    },
+    {"kana": "あなた", "kanji": "", "english": "you", "nepali": "तपाईं",
+      "jp_example": "あなたは先生ですか？",
+      "np_example": "के तपाईं शिक्षक हुनुहुन्छ?",
+      "en_example": "Are you a teacher?"
+    },
+    {"kana": "せんせい", "kanji": "先生", "english": "teacher", "nepali": "अध्यापक",
+      "jp_example": "先生は日本人です。",
+      "np_example": "शिक्षक जापानी हुन्।",
+      "en_example": "The teacher is Japanese."
+    },
+    {"kana": "がくせい", "kanji": "学生", "english": "student", "nepali": "विद्यार्थी",
+      "jp_example": "私は学生です。",
+      "np_example": "म विद्यार्थी हुँ।",
+      "en_example": "I am a student."
+    },
+    {"kana": "かいしゃいん", "kanji": "会社員", "english": "company employee", "nepali": "कम्पनी कर्मचारी",
+      "jp_example": "彼は会社員です。",
+      "np_example": "उनी कम्पनी कर्मचारी हुन्।",
+      "en_example": "He is a company employee."
+    },
+    {"kana": "これ", "kanji": "", "english": "this", "nepali": "यो",
+      "jp_example": "これは本です。",
+      "np_example": "यो पुस्तक हो।",
+      "en_example": "This is a book."
+    },
+    {"kana": "それ", "kanji": "", "english": "that", "nepali": "त्यो",
+      "jp_example": "それは私のかばんです。",
+      "np_example": "त्यो मेरो झोला हो।",
+      "en_example": "That is my bag."
+    },
+    {"kana": "あれ", "kanji": "", "english": "that (over there)", "nepali": "उता त्यो",
+      "jp_example": "あれは学校です。",
+      "np_example": "उता त्यो विद्यालय हो।",
+      "en_example": "That over there is a school."
+    }
   ],
 
   "第2課": [
-    {"kana": "ほん", "kanji": "本", "english": "book", "nepali": "पुस्तक"},
-    {"kana": "かばん", "kanji": "", "english": "bag", "nepali": "झोला"},
-    {"kana": "とけい", "kanji": "時計", "english": "clock / watch", "nepali": "घडी"},
-    {"kana": "くるま", "kanji": "車", "english": "car", "nepali": "गाडी"},
-    {"kana": "つくえ", "kanji": "机", "english": "desk", "nepali": "टेबल"},
-    {"kana": "いす", "kanji": "", "english": "chair", "nepali": "कुर्सी"}
+    {"kana": "ほん", "kanji": "本", "english": "book", "nepali": "पुस्तक",
+      "jp_example": "私は本を読みます。",
+      "np_example": "म पुस्तक पढ्छु।",
+      "en_example": "I read a book."
+    },
+    {"kana": "かばん", "kanji": "", "english": "bag", "nepali": "झोला",
+      "jp_example": "かばんを持っています。",
+      "np_example": "मसँग झोला छ।",
+      "en_example": "I am carrying a bag."
+    },
+    {"kana": "とけい", "kanji": "時計", "english": "clock / watch", "nepali": "घडी",
+      "jp_example": "時計を見ます。",
+      "np_example": "म घडी हेर्छु।",
+      "en_example": "I look at the clock."
+    },
+    {"kana": "くるま", "kanji": "車", "english": "car", "nepali": "गाडी",
+      "jp_example": "車で行きます。",
+      "np_example": "म गाडीमा जान्छु।",
+      "en_example": "I go by car."
+    },
+    {"kana": "つくえ", "kanji": "机", "english": "desk", "nepali": "टेबल",
+      "jp_example": "机の上に本があります。",
+      "np_example": "टेबल माथि पुस्तक छ।",
+      "en_example": "There is a book on the desk."
+    },
+    {"kana": "いす", "kanji": "", "english": "chair", "nepali": "कुर्सी",
+      "jp_example": "椅子に座ります。",
+      "np_example": "म कुर्सीमा बस्छु।",
+      "en_example": "I sit on a chair."
+    }
   ],
 
   "第3課": [
-    {"kana": "ここ", "kanji": "", "english": "here", "nepali": "यहाँ"},
-    {"kana": "そこ", "kanji": "", "english": "there", "nepali": "त्यहाँ"},
-    {"kana": "あそこ", "kanji": "", "english": "over there", "nepali": "उहाँ त्यहाँ"},
-    {"kana": "トイレ", "kanji": "", "english": "toilet", "nepali": "शौचालय"},
-    {"kana": "うけつけ", "kanji": "受付", "english": "reception", "nepali": "रिसेप्शन"},
-    {"kana": "じむしょ", "kanji": "事務所", "english": "office", "nepali": "कार्यालय"}
+    {"kana": "ここ", "kanji": "", "english": "here", "nepali": "यहाँ",
+      "jp_example": "ここは静かです。",
+      "np_example": "यहाँ शान्त छ।",
+      "en_example": "It is quiet here."
+    },
+    {"kana": "そこ", "kanji": "", "english": "there", "nepali": "त्यहाँ",
+      "jp_example": "そこに本があります。",
+      "np_example": "त्यहाँ पुस्तक छ।",
+      "en_example": "There is a book there."
+    },
+    {"kana": "あそこ", "kanji": "", "english": "over there", "nepali": "उहाँ त्यहाँ",
+      "jp_example": "あそこに店があります。",
+      "np_example": "उहाँ त्यहाँ पसल छ।",
+      "en_example": "There is a shop over there."
+    },
+    {"kana": "トイレ", "kanji": "", "english": "toilet", "nepali": "शौचालय",
+      "jp_example": "トイレはどこですか？",
+      "np_example": "शौचालय कहाँ छ?",
+      "en_example": "Where is the toilet?"
+    },
+    {"kana": "うけつけ", "kanji": "受付", "english": "reception", "nepali": "रिसेप्शन",
+      "jp_example": "受付で聞いてください。",
+      "np_example": "कृपया रिसेप्शनमा सोध्नुहोस्।",
+      "en_example": "Please ask at reception."
+    },
+    {"kana": "じむしょ", "kanji": "事務所", "english": "office", "nepali": "कार्यालय",
+      "jp_example": "事務所は3階にあります。",
+      "np_example": "कार्यालय तेस्रो तलामा छ।",
+      "en_example": "The office is on the third floor."
+    }
   ],
 
   "第4課": [
-    {"kana": "おきます", "kanji": "起きます", "english": "get up / wake up", "nepali": "उठ्नु"},
-    {"kana": "ねます", "kanji": "寝ます", "english": "sleep / go to bed", "nepali": "सुत्नु"},
-    {"kana": "はたらきます", "kanji": "働きます", "english": "work", "nepali": "काम गर्नु"},
-    {"kana": "べんきょうします", "kanji": "勉強します", "english": "study", "nepali": "पढ्नु"},
-    {"kana": "やすみます", "kanji": "休みます", "english": "rest / take a break", "nepali": "आराम गर्नु"},
-    {"kana": "いま", "kanji": "今", "english": "now", "nepali": "अहिले"}
+    {"kana": "おきます", "kanji": "起きます", "english": "get up / wake up", "nepali": "उठ्नु",
+      "jp_example": "毎日6時に起きます。",
+      "np_example": "म प्रत्येक दिन ६ बजे उठ्छु।",
+      "en_example": "I wake up at 6 every day."
+    },
+    {"kana": "ねます", "kanji": "寝ます", "english": "sleep / go to bed", "nepali": "सुत्नु",
+      "jp_example": "11時に寝ます。",
+      "np_example": "म ११ बजे सुत्छु।",
+      "en_example": "I go to bed at 11."
+    },
+    {"kana": "はたらきます", "kanji": "働きます", "english": "work", "nepali": "काम गर्नु",
+      "jp_example": "会社で働きます。",
+      "np_example": "म कम्पनीमा काम गर्छु।",
+      "en_example": "I work at a company."
+    },
+    {"kana": "べんきょうします", "kanji": "勉強します", "english": "study", "nepali": "पढ्नु",
+      "jp_example": "日本語を勉強します。",
+      "np_example": "म जापानी अध्ययन गर्छु।",
+      "en_example": "I study Japanese."
+    },
+    {"kana": "やすみます", "kanji": "休みます", "english": "rest / take a break", "nepali": "आराम गर्नु",
+      "jp_example": "少し休みます。",
+      "np_example": "म अलिकति आराम गर्छु।",
+      "en_example": "I rest a little."
+    },
+    {"kana": "いま", "kanji": "今", "english": "now", "nepali": "अहिले",
+      "jp_example": "今勉強しています。",
+      "np_example": "म अहिले पढ्दैछु।",
+      "en_example": "I am studying now."
+    }
   ],
 
   "第5課": [
-    {"kana": "いきます", "kanji": "行きます", "english": "go", "nepali": "जानु"},
-    {"kana": "きます", "kanji": "来ます", "english": "come", "nepali": "आउनु"},
-    {"kana": "かえります", "kanji": "帰ります", "english": "return / go home", "nepali": "फर्किनु"},
-    {"kana": "ひこうき", "kanji": "飛行機", "english": "airplane", "nepali": "उडान / विमान"},
-    {"kana": "でんしゃ", "kanji": "電車", "english": "train", "nepali": "रेल"},
-    {"kana": "バス", "kanji": "", "english": "bus", "nepali": "बस"}
+    {"kana": "いきます", "kanji": "行きます", "english": "go", "nepali": "जानु",
+      "jp_example": "学校へ行きます。",
+      "np_example": "म स्कूल जान्छु।",
+      "en_example": "I go to school."
+    },
+    {"kana": "きます", "kanji": "来ます", "english": "come", "nepali": "आउनु",
+      "jp_example": "友達が来ます。",
+      "np_example": "मित्र आउँदैछन्।",
+      "en_example": "A friend is coming."
+    },
+    {"kana": "かえります", "kanji": "帰ります", "english": "return / go home", "nepali": "फर्किनु",
+      "jp_example": "家へ帰ります。",
+      "np_example": "म घर फर्कन्छु।",
+      "en_example": "I return home."
+    },
+    {"kana": "ひこうき", "kanji": "飛行機", "english": "airplane", "nepali": "उडान / विमान",
+      "jp_example": "飛行機で東京へ行きます。",
+      "np_example": "म विमानमा टोकियो जान्छु।",
+      "en_example": "I go to Tokyo by airplane."
+    },
+    {"kana": "でんしゃ", "kanji": "電車", "english": "train", "nepali": "रेल",
+      "jp_example": "電車に乗ります。",
+      "np_example": "म रेल चढ्छु।",
+      "en_example": "I ride a train."
+    },
+    {"kana": "バス", "kanji": "", "english": "bus", "nepali": "बस",
+      "jp_example": "バスで行きます。",
+      "np_example": "म बसमा जान्छु।",
+      "en_example": "I go by bus."
+    }
   ]
 }
