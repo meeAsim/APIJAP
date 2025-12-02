@@ -1,0 +1,218 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "「こんにちは」 means what in English?",
+      "options": ["Good morning", "Good afternoon", "Good evening", "Good night"],
+      "answer": "Good afternoon"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "What is the hiragana for “water”?",
+      "options": ["みず", "もり", "むし", "まど"],
+      "answer": "みず"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Select the correct reading: 人",
+      "options": ["ひと", "みず", "ねこ", "うち"],
+      "answer": "ひと"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "What does 「ありがとう」 mean?",
+      "options": ["Sorry", "Thank you", "Excuse me", "Please"],
+      "answer": "Thank you"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Choose the correct particle: わたし ___ がくせいです。",
+      "options": ["は", "を", "に", "が"],
+      "answer": "は"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Which number is 「よん」?",
+      "options": ["2", "3", "4", "6"],
+      "answer": "4"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "What is the English meaning of 食べます?",
+      "options": ["to see", "to sleep", "to eat", "to go"],
+      "answer": "to eat"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Select the correct kana: 'cat'",
+      "options": ["いぬ", "ねこ", "さかな", "とり"],
+      "answer": "ねこ"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "“Where” in Japanese is?",
+      "options": ["いつ", "どこ", "なに", "だれ"],
+      "answer": "どこ"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Choose the correct answer: いまなんじですか？ (7:00)",
+      "options": ["しちじです", "はちじです", "くじです", "ごじです"],
+      "answer": "しちじです"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Which is the kanji for 'mountain'?",
+      "options": ["川", "山", "木", "天"],
+      "answer": "山"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "What is the meaning of 行きます?",
+      "options": ["to come", "to return", "to go", "to speak"],
+      "answer": "to go"
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Choose the correct particle: にほん ___ いきます。",
+      "options": ["で", "を", "に", "が"],
+      "answer": "に"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Select the correct reading: 大きい",
+      "options": ["ちいさい", "おおきい", "たかい", "ながい"],
+      "answer": "おおきい"
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "What does 「すみません」 mean?",
+      "options": ["Goodbye", "Excuse me / I'm sorry", "See you", "Welcome"],
+      "answer": "Excuse me / I'm sorry"
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Choose the correct translation: わたしはせんせいです。",
+      "options": ["I am a teacher.", "I am a student.", "I am tired.", "I am busy."],
+      "answer": "I am a teacher."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Which is the kana for 'tree'?",
+      "options": ["き", "く", "か", "け"],
+      "answer": "き"
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "What does の indicate?",
+      "options": ["Location", "Possession", "Direction", "Time"],
+      "answer": "Possession"
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Choose the correct question word: ___ ですか？ (Who?)",
+      "options": ["どこ", "なん", "いつ", "だれ"],
+      "answer": "だれ"
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Select the correct meaning: 見ます",
+      "options": ["to listen", "to see/watch", "to write", "to drink"],
+      "answer": "to see/watch"
+    },
+
+    /* Fill in the blanks (1–5) */
+    {
+      "id": 21,
+      "type": "fill_in_blank",
+      "sentence": "わたしは きょう ___ いきます。",
+      "options": ["がっこう", "ほん", "ねこ", "みず"],
+      "answer": "がっこう"
+    },
+    {
+      "id": 22,
+      "type": "fill_in_blank",
+      "sentence": "これは わたしの ___ です。",
+      "options": ["かさ", "いぬ", "き", "かわ"],
+      "answer": "かさ"
+    },
+    {
+      "id": 23,
+      "type": "fill_in_blank",
+      "sentence": "あした ___ を たべます。",
+      "options": ["りんご", "いす", "みず", "はな"],
+      "answer": "りんご"
+    },
+    {
+      "id": 24,
+      "type": "fill_in_blank",
+      "sentence": "にほんご ___ べんきょうします。",
+      "options": ["を", "が", "に", "で"],
+      "answer": "を"
+    },
+    {
+      "id": 25,
+      "type": "fill_in_blank",
+      "sentence": "いま ___ じですか。",
+      "options": ["なん", "どこ", "だれ", "なに"],
+      "answer": "なん"
+    },
+
+    /* Fill in the blanks (6–10) */
+    {
+      "id": 26,
+      "type": "fill_in_blank",
+      "sentence": "わたしは ___ を のみます。",
+      "options": ["みず", "ねこ", "いえ", "かわ"],
+      "answer": "みず"
+    },
+    {
+      "id": 27,
+      "type": "fill_in_blank",
+      "sentence": "このほんは ___ の です。",
+      "options": ["わたし", "どこ", "いつ", "だれ"],
+      "answer": "わたし"
+    },
+    {
+      "id": 28,
+      "type": "fill_in_blank",
+      "sentence": "きのう ともだち ___ あいました。",
+      "options": ["に", "で", "へ", "を"],
+      "answer": "に"
+    },
+    {
+      "id": 29,
+      "type": "fill_in_blank",
+      "sentence": "わたしの へやに ねこ ___ います。",
+      "options": ["が", "は", "を", "で"],
+      "answer": "が"
+    },
+    {
+      "id": 30,
+      "type": "fill_in_blank",
+      "sentence": "まいにち 7じに ___ ます。",
+      "options": ["おき", "み", "いき", "かい"],
+      "answer": "おき"
+    }
+  ]
+}
