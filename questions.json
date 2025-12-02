@@ -141,7 +141,6 @@
       "answer": "to see/watch"
     },
 
-    /* Fill in the blanks (1–5) */
     {
       "id": 21,
       "type": "fill_in_blank",
@@ -177,8 +176,6 @@
       "options": ["なん", "どこ", "だれ", "なに"],
       "answer": "なん"
     },
-
-    /* Fill in the blanks (6–10) */
     {
       "id": 26,
       "type": "fill_in_blank",
