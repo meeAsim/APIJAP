@@ -1,0 +1,232 @@
+{
+  "questions": [
+  {
+    "id": 1,
+    "type": "multiple_choice",
+    "question": "Select the correct meaning: 行きます",
+    "options": ["to go", "to come", "to return", "to sleep"],
+    "answer": "to go"
+  },
+  {
+    "id": 2,
+    "type": "fill_in_blank",
+    "sentence": "わたしは あした えき ___ 行きます。",
+    "options": ["へ", "を", "で", "が"],
+    "answer": "へ"
+  },
+  {
+    "id": 3,
+    "type": "multiple_choice",
+    "question": "Select the correct meaning: ください",
+    "options": ["please give me", "I don't know", "I can do it", "I like it"],
+    "answer": "please give me"
+  },
+  {
+    "id": 4,
+    "type": "fill_in_blank",
+    "sentence": "７時に ここ ___ 会いましょう。",
+    "options": ["に", "を", "で", "へ"],
+    "answer": "で"
+  },
+  {
+    "id": 5,
+    "type": "multiple_choice",
+    "question": "Select the correct meaning: あげます",
+    "options": ["to give", "to receive", "to borrow", "to open"],
+    "answer": "to give"
+  },
+  {
+    "id": 6,
+    "type": "fill_in_blank",
+    "sentence": "この漢字の 読み方を ___ ください。",
+    "options": ["教えて", "見て", "書いて", "言って"],
+    "answer": "教えて"
+  },
+  {
+    "id": 7,
+    "type": "multiple_choice",
+    "question": "What is the correct phrase?",
+    "options": ["日本語で『yes』は なんといいますか。", "日本語を『yes』は なんといいますか。"],
+    "answer": "日本語で『yes』は なんといいますか。"
+  },
+  {
+    "id": 8,
+    "type": "multiple_choice",
+    "question": "Select the meaning: もらいます",
+    "options": ["to receive", "to give", "to send", "to hold"],
+    "answer": "to receive"
+  },
+  {
+    "id": 9,
+    "type": "fill_in_blank",
+    "sentence": "このへやは 広く ___ 明るいです。",
+    "options": ["て", "に", "を", "が"],
+    "answer": "て"
+  },
+  {
+    "id": 10,
+    "type": "multiple_choice",
+    "question": "Select the correct meaning: きれい",
+    "options": ["noisy", "clean/beautiful", "dangerous", "slow"],
+    "answer": "clean/beautiful"
+  },
+  {
+    "id": 11,
+    "type": "multiple_choice",
+    "question": "Choose the correct adjective form:",
+    "options": ["しずかな まち", "しずかい まち"],
+    "answer": "しずかな まち"
+  },
+  {
+    "id": 12,
+    "type": "multiple_choice",
+    "question": "Select the meaning: つめたい",
+    "options": ["cold (to touch)", "hot", "bright", "strong"],
+    "answer": "cold (to touch)"
+  },
+  {
+    "id": 13,
+    "type": "multiple_choice",
+    "question": "Select the meaning: 好きです",
+    "options": ["to like", "to hate", "to study", "to count"],
+    "answer": "to like"
+  },
+  {
+    "id": 14,
+    "type": "fill_in_blank",
+    "sentence": "りんごと みかんと どちら ___ 好きですか。",
+    "options": ["が", "を", "に", "で"],
+    "answer": "が"
+  },
+  {
+    "id": 15,
+    "type": "multiple_choice",
+    "question": "Which sentence means 'I can listen to Japanese'?",
+    "options": ["日本語を聞くことができます。", "日本語を聞きませんでした。"],
+    "answer": "日本語を聞くことができます。"
+  },
+  {
+    "id": 16,
+    "type": "multiple_choice",
+    "question": "Meaning of: なにも 食べませんでした",
+    "options": ["I didn’t eat anything", "I ate too much", "I ate breakfast", "I want to eat"],
+    "answer": "I didn’t eat anything"
+  },
+  {
+    "id": 17,
+    "type": "fill_in_blank",
+    "sentence": "部屋の中に ねこ ___ います。",
+    "options": ["が", "を", "に", "へ"],
+    "answer": "が"
+  },
+  {
+    "id": 18,
+    "type": "multiple_choice",
+    "question": "Select the meaning: あります",
+    "options": ["there is (non-living)", "there is (living)", "to read", "to go home"],
+    "answer": "there is (non-living)"
+  },
+  {
+    "id": 19,
+    "type": "multiple_choice",
+    "question": "Which is correct?",
+    "options": [
+      "公園に 子どもが います。",
+      "公園に 子どもが あります。"
+    ],
+    "answer": "公園に 子どもが います。"
+  },
+  {
+    "id": 20,
+    "type": "multiple_choice",
+    "question": "Meaning of: 家の近くに コンビニがあります。",
+    "options": [
+      "There is a convenience store near my house.",
+      "There are many people near my house.",
+      "My house is new.",
+      "I bought something near my house."
+    ],
+    "answer": "There is a convenience store near my house."
+  },
+  {
+    "id": 21,
+    "type": "fill_in_blank",
+    "sentence": "いっしょに 昼ごはんを ___ ましょうか。",
+    "options": ["食べ", "飲み", "行き", "来"],
+    "answer": "食べ"
+  },
+  {
+    "id": 22,
+    "type": "multiple_choice",
+    "question": "Meaning of: 見せてくれませんか。",
+    "options": ["Can you show me?", "Can you buy it?", "Do you want this?", "Where is it?"],
+    "answer": "Can you show me?"
+  },
+  {
+    "id": 23,
+    "type": "fill_in_blank",
+    "sentence": "このへやは きれい ___ 静かです。",
+    "options": ["で", "て", "の", "に"],
+    "answer": "で"
+  },
+  {
+    "id": 24,
+    "type": "multiple_choice",
+    "question": "Meaning of: どんな映画を 見ますか。",
+    "options": [
+      "What kind of movie do you watch?",
+      "Where is the movie?",
+      "Do you like movies?",
+      "How long is the movie?"
+    ],
+    "answer": "What kind of movie do you watch?"
+  },
+  {
+    "id": 25,
+    "type": "fill_in_blank",
+    "sentence": "教室の前 ___ 何がありますか。",
+    "options": ["に", "を", "が", "へ"],
+    "answer": "に"
+  },
+  {
+    "id": 26,
+    "type": "multiple_choice",
+    "question": "Translate to English: 会います",
+    "options": ["to meet", "to drink", "to sleep", "to run"],
+    "answer": "to meet"
+  },
+  {
+    "id": 27,
+    "type": "fill_in_blank",
+    "sentence": "日曜日に 友だち ___ あいます。",
+    "options": ["に", "を", "が", "で"],
+    "answer": "に"
+  },
+  {
+    "id": 28,
+    "type": "multiple_choice",
+    "question": "Select the correct meaning: あつい（暑い）",
+    "options": ["hot (weather)", "cold", "tall", "easy"],
+    "answer": "hot (weather)"
+  },
+  {
+    "id": 29,
+    "type": "multiple_choice",
+    "question": "Select the meaning: あります / います difference",
+    "options": [
+      "あります = non-living, います = living",
+      "あります = living, います = non-living",
+      "Both are same",
+      "Both mean to eat"
+    ],
+    "answer": "あります = non-living, います = living"
+  },
+  {
+    "id": 30,
+    "type": "fill_in_blank",
+    "sentence": "わたしは 日本語の勉強 ___ 好きです。",
+    "options": ["が", "を", "に", "へ"],
+    "answer": "が"
+  }
+]
+}
