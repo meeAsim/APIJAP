@@ -3,7 +3,7 @@
     {
       "id": 1,
       "type": "fill_in_blank",
-      "question": "Der Mann gibt ___ Frau das Buch.",
+      "sentence": "Der Mann gibt ___ Frau das Buch.",
       "options": ["der", "die", "das", "den"],
       "answer": "der"
     },
@@ -22,7 +22,7 @@
     {
       "id": 3,
       "type": "fill_in_blank",
-      "question": "Wir gehen ___ Kino.",
+      "sentence": "Wir gehen ___ Kino.",
       "options": ["in den", "im", "auf das", "bei dem"],
       "answer": "in den"
     },
@@ -36,7 +36,7 @@
     {
       "id": 5,
       "type": "fill_in_blank",
-      "question": "Das sind ___ Bücher.",
+      "sentence": "Das sind ___ Bücher.",
       "options": ["der", "die", "das", "den"],
       "answer": "die"
     },
@@ -50,7 +50,7 @@
     {
       "id": 7,
       "type": "fill_in_blank",
-      "question": "Er ___ heute nicht kommen. (können)",
+      "sentence": "Er ___ heute nicht kommen. (können)",
       "options": ["kann", "könnt", "können", "konnt"],
       "answer": "kann"
     },
@@ -64,7 +64,7 @@
     {
       "id": 9,
       "type": "fill_in_blank",
-      "question": "Ich sehe ___ Hund im Park.",
+      "sentence": "Ich sehe ___ Hund im Park.",
       "options": ["der", "die", "das", "den"],
       "answer": "den"
     },
@@ -83,7 +83,7 @@
     {
       "id": 11,
       "type": "fill_in_blank",
-      "question": "Wir fahren ___ Auto zur Arbeit.",
+      "sentence": "Wir fahren ___ Auto zur Arbeit.",
       "options": ["mit dem", "mit den", "auf dem", "bei dem"],
       "answer": "mit dem"
     },
@@ -97,7 +97,7 @@
     {
       "id": 13,
       "type": "fill_in_blank",
-      "question": "Ich habe ___ Hunger.",
+      "sentence": "Ich habe ___ Hunger.",
       "options": ["einen", "ein", "eine", "der"],
       "answer": "einen"
     },
@@ -116,7 +116,7 @@
     {
       "id": 15,
       "type": "fill_in_blank",
-      "question": "Er steht jeden Tag um 6 Uhr ___ .",
+      "sentence": "Er steht jeden Tag um 6 Uhr ___ .",
       "options": ["auf", "an", "ein", "ab"],
       "answer": "auf"
     },
@@ -135,7 +135,7 @@
     {
       "id": 17,
       "type": "fill_in_blank",
-      "question": "Ich arbeite ___ einer Firma in Berlin.",
+      "sentence": "Ich arbeite ___ einer Firma in Berlin.",
       "options": ["bei", "mit", "von", "zu"],
       "answer": "bei"
     },
@@ -149,7 +149,7 @@
     {
       "id": 19,
       "type": "fill_in_blank",
-      "question": "Das Handy liegt ___ Tasche.",
+      "sentence": "Das Handy liegt ___ Tasche.",
       "options": ["in der", "auf der", "an die", "unter den"],
       "answer": "in der"
     },
@@ -163,7 +163,7 @@
     {
       "id": 21,
       "type": "fill_in_blank",
-      "question": "Ich trinke ___ kalten Tee.",
+      "sentence": "Ich trinke ___ kalten Tee.",
       "options": ["einen", "ein", "eine", "der"],
       "answer": "einen"
     },
@@ -177,7 +177,7 @@
     {
       "id": 23,
       "type": "fill_in_blank",
-      "question": "Heute ___ wir keine Schule.",
+      "sentence": "Heute ___ wir keine Schule.",
       "options": ["haben", "hat", "seid", "sind"],
       "answer": "haben"
     },
@@ -196,7 +196,7 @@
     {
       "id": 25,
       "type": "fill_in_blank",
-      "question": "Ich bleibe heute ___ Hause.",
+      "sentence": "Ich bleibe heute ___ Hause.",
       "options": ["zu", "nach", "bei", "von"],
       "answer": "zu"
     },
@@ -215,7 +215,7 @@
     {
       "id": 27,
       "type": "fill_in_blank",
-      "question": "Das ist ___ beste Freund.",
+      "sentence": "Das ist ___ beste Freund.",
       "options": ["mein", "meine", "meinen", "meiner"],
       "answer": "mein"
     },
@@ -229,7 +229,7 @@
     {
       "id": 29,
       "type": "fill_in_blank",
-      "question": "Sie ___ gestern lange gelernt.",
+      "sentence": "Sie ___ gestern lange gelernt.",
       "options": ["hat", "haben", "ist", "sind"],
       "answer": "hat"
     },
