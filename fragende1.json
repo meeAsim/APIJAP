@@ -17,7 +17,7 @@
     {
       "id": 3,
       "type": "fill_in_blank",
-      "question": "Ich ___ Maria. (heißen)",
+      "sentence": "Ich ___ Maria. (heißen)",
       "options": ["heiße", "heißt", "heißt du", "heißen"],
       "answer": "heiße"
     },
@@ -31,7 +31,7 @@
     {
       "id": 5,
       "type": "fill_in_blank",
-      "question": "Ich komme ___ Deutschland.",
+      "sentence": "Ich komme ___ Deutschland.",
       "options": ["aus", "in", "von", "bei"],
       "answer": "aus"
     },
@@ -45,7 +45,7 @@
     {
       "id": 7,
       "type": "fill_in_blank",
-      "question": "Er ___ in Berlin. (wohnen)",
+      "sentence": "Er ___ in Berlin. (wohnen)",
       "options": ["wohne", "wohnst", "wohnt", "wohnen"],
       "answer": "wohnt"
     },
@@ -59,7 +59,7 @@
     {
       "id": 9,
       "type": "fill_in_blank",
-      "question": "Wir ___ Deutsch. (lernen)",
+      "sentence": "Wir ___ Deutsch. (lernen)",
       "options": ["lerne", "lernt", "lernen", "lernst"],
       "answer": "lernen"
     },
@@ -73,7 +73,7 @@
     {
       "id": 11,
       "type": "fill_in_blank",
-      "question": "Das ist ___ Apfel. (ein)",
+      "sentence": "Das ist ___ Apfel. (ein)",
       "options": ["eine", "ein", "einen", "einem"],
       "answer": "ein"
     },
@@ -87,8 +87,8 @@
     {
       "id": 13,
       "type": "fill_in_blank",
-      "question": "Ich trinke ___ Kaffee.",
-      "options": ["ein", "eine", "der", "die"],
+      "sentence": "Ich trinke ___ Kaffee.",
+      "options": ["ein", "eine", "einen", "der", "die"],
       "answer": "einen"
     },
     {
@@ -101,7 +101,7 @@
     {
       "id": 15,
       "type": "fill_in_blank",
-      "question": "___ kommst du? – Aus Spanien.",
+      "sentence": "___ kommst du? – Aus Spanien.",
       "options": ["Wo", "Wann", "Woher", "Warum"],
       "answer": "Woher"
     },
@@ -115,7 +115,7 @@
     {
       "id": 17,
       "type": "fill_in_blank",
-      "question": "Sie ___ Lehrerin. (sein)",
+      "sentence": "Sie ___ Lehrerin. (sein)",
       "options": ["bin", "bist", "ist", "seid"],
       "answer": "ist"
     },
@@ -123,13 +123,13 @@
       "id": 18,
       "type": "multiple_choice",
       "question": "Welche Präposition passt? Ich gehe ___ Schule.",
-      "options": ["zu", "mit", "von", "bei"],
+      "options": ["zu", "zur", "mit", "von", "bei"],
       "answer": "zur"
     },
     {
       "id": 19,
       "type": "fill_in_blank",
-      "question": "Wir ___ um 7 Uhr auf. (aufstehen)",
+      "sentence": "Wir ___ um 7 Uhr auf. (aufstehen)",
       "options": ["stehst", "stehe", "stehen", "stehen auf"],
       "answer": "stehen"
     },
@@ -143,7 +143,7 @@
     {
       "id": 21,
       "type": "fill_in_blank",
-      "question": "Das Buch ist ___ Tisch.",
+      "sentence": "Das Buch ist ___ Tisch.",
       "options": ["auf dem", "in der", "an den", "unter die"],
       "answer": "auf dem"
     },
@@ -157,7 +157,7 @@
     {
       "id": 23,
       "type": "fill_in_blank",
-      "question": "Heute ___ Montag.",
+      "sentence": "Heute ___ Montag.",
       "options": ["ist", "sind", "bin", "seid"],
       "answer": "ist"
     },
@@ -171,7 +171,7 @@
     {
       "id": 25,
       "type": "fill_in_blank",
-      "question": "Er fährt ___ Bus.",
+      "sentence": "Er fährt ___ Bus.",
       "options": ["mit dem", "in die", "zu der", "auf den"],
       "answer": "mit dem"
     },
@@ -185,7 +185,7 @@
     {
       "id": 27,
       "type": "fill_in_blank",
-      "question": "Wir haben ___ Pause.",
+      "sentence": "Wir haben ___ Pause.",
       "options": ["eine", "ein", "einen", "einem"],
       "answer": "eine"
     },
@@ -199,7 +199,7 @@
     {
       "id": 29,
       "type": "fill_in_blank",
-      "question": "Ich ___ um 6 Uhr. (aufstehen)",
+      "sentence": "Ich ___ um 6 Uhr. (aufstehen)",
       "options": ["stehe auf", "steht auf", "stehen auf", "stehst"],
       "answer": "stehe auf"
     },
