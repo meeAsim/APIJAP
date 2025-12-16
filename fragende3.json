@@ -68,7 +68,7 @@
       "id": 8,
       "type": "fill_in_blank",
       "question": "Das Licht ist an. Bitte ___ es ___ . (ausmachen)",
-      "options": ["mach / aus", "mache / an", "machst / aus", "machen / aus"],
+      "options": ["mach / aus", "machst / aus", "machen / aus", "macht / aus"],
       "answer": "mach / aus"
     },
     {
@@ -122,12 +122,7 @@
       "id": 15,
       "type": "multiple_choice",
       "question": "Welche Form ist korrekt? Wir ___ morgen früher ___ . (abfahren)",
-      "options": [
-        "fahren / ab",
-        "abfahren /",
-        "ab / fahren",
-        "fahren / an"
-      ],
+      "options": ["fahren / ab", "abfahren /", "ab / fahren", "fahren / an"],
       "answer": "fahren / ab"
     },
     {
@@ -182,8 +177,8 @@
       "options": [
         "Nach der Arbeit kaufe ich noch ein.",
         "Nach der Arbeit ich kaufe noch ein.",
-        "Ich kaufe nach der Arbeit noch ein.",
-        "Ich noch kaufe nach der Arbeit ein."
+        "Ich noch kaufe nach der Arbeit ein.",
+        "Nach der Arbeit ich noch kaufe ein."
       ],
       "answer": "Nach der Arbeit kaufe ich noch ein."
     },
@@ -191,7 +186,7 @@
       "id": 22,
       "type": "fill_in_blank",
       "question": "Bitte ___ mir heute ___ . (anrufen)",
-      "options": ["ruf / an", "rufe / an", "rufst / an", "rufen / an"],
+      "options": ["ruf / an", "rufst / an", "rufen / an", "ruft / an"],
       "answer": "ruf / an"
     },
     {
@@ -239,8 +234,8 @@
       "options": [
         "Zu Hause ich lerne Deutsch.",
         "Ich lerne Deutsch zu Hause.",
-        "Ich lerne zu Hause Deutsch.",
-        "Deutsch ich lerne zu Hause."
+        "Deutsch lerne ich zu Hause.",
+        "Ich zu Hause lerne Deutsch."
       ],
       "answer": "Ich lerne Deutsch zu Hause."
     },
