@@ -1,0 +1,82 @@
+"Lektion 1": [
+  {
+    "german": "Guten Morgen",
+    "english": "good morning",
+    "nepali": "शुभप्रभात",
+    "de_example": "Guten Morgen! Wie geht es dir?",
+    "np_example": "शुभप्रभात! तपाईंलाई कस्तो छ?",
+    "en_example": "Good morning! How are you?"
+  },
+  {
+    "german": "Guten Tag",
+    "english": "good day",
+    "nepali": "शुभ दिन",
+    "de_example": "Guten Tag, ich heiße Anna.",
+    "np_example": "नमस्कार, मेरो नाम आना हो।",
+    "en_example": "Good day, my name is Anna."
+  },
+  {
+    "german": "Guten Abend",
+    "english": "good evening",
+    "nepali": "शुभसन्ध्या",
+    "de_example": "Guten Abend! Willkommen.",
+    "np_example": "शुभसन्ध्या! स्वागत छ।",
+    "en_example": "Good evening! Welcome."
+  },
+  {
+    "german": "Hallo",
+    "english": "hello",
+    "nepali": "नमस्ते",
+    "de_example": "Hallo! Wie heißt du?",
+    "np_example": "नमस्ते! तिम्रो नाम के हो?",
+    "en_example": "Hello! What is your name?"
+  },
+  {
+    "german": "Tschüss",
+    "english": "bye",
+    "nepali": "बिदा",
+    "de_example": "Tschüss! Bis morgen.",
+    "np_example": "बिदा! भोलि भेटौँला।",
+    "en_example": "Bye! See you tomorrow."
+  },
+  {
+    "german": "ich",
+    "english": "I",
+    "nepali": "म",
+    "de_example": "Ich bin Student.",
+    "np_example": "म विद्यार्थी हुँ।",
+    "en_example": "I am a student."
+  },
+  {
+    "german": "du",
+    "english": "you (singular)",
+    "nepali": "तिमी",
+    "de_example": "Du bist sehr nett.",
+    "np_example": "तिमी धेरै राम्रो छौ।",
+    "en_example": "You are very nice."
+  },
+  {
+    "german": "heißen",
+    "english": "to be called",
+    "nepali": "भनिनु",
+    "de_example": "Ich heiße Tom.",
+    "np_example": "मेरो नाम टम हो।",
+    "en_example": "My name is Tom."
+  },
+  {
+    "german": "sein",
+    "english": "to be",
+    "nepali": "हुनु",
+    "de_example": "Ich bin müde.",
+    "np_example": "म थाकेको छु।",
+    "en_example": "I am tired."
+  },
+  {
+    "german": "kommen",
+    "english": "to come",
+    "nepali": "आउनु",
+    "de_example": "Ich komme aus Nepal.",
+    "np_example": "म नेपालबाट आएको हुँ।",
+    "en_example": "I come from Nepal."
+  }
+]
