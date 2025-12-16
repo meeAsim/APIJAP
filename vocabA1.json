@@ -1,4 +1,5 @@
-"Lektion 1": [
+{ 
+  "Lektion 1": [
   {
     "german": "Guten Morgen",
     "english": "good morning",
@@ -79,4 +80,4 @@
     "np_example": "म नेपालबाट आएको हुँ।",
     "en_example": "I come from Nepal."
   }
-]
+] }
