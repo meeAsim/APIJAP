@@ -1,0 +1,269 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Welcher Satz ist richtig?",
+      "options": [
+        "Ich bleibe zu Hause, weil ich bin krank.",
+        "Ich bleibe zu Hause, weil ich krank bin.",
+        "Ich bleibe, weil zu Hause ich krank bin.",
+        "Ich bleibe zu Hause, weil bin ich krank."
+      ],
+      "answer": "Ich bleibe zu Hause, weil ich krank bin."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "question": "Ich ___ um 6 Uhr ___ . (aufstehen)",
+      "options": ["stehe / auf", "aufstehe /", "stehe / an", "auf / stehe"],
+      "answer": "stehe / auf"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Welche Konjunktion passt? Ich lerne Deutsch, ___ ich in Deutschland arbeite.",
+      "options": ["aber", "weil", "oder", "und"],
+      "answer": "weil"
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "question": "Er ___ gestern sehr früh ___ . (ankommen)",
+      "options": ["ist / angekommen", "hat / angekommen", "ist / ankommen", "hat / ankommen"],
+      "answer": "ist / angekommen"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Welcher Satz hat die richtige Wortstellung?",
+      "options": [
+        "Morgen ich kaufe im Supermarkt ein.",
+        "Morgen kaufe ich im Supermarkt ein.",
+        "Ich kaufe morgen ein im Supermarkt.",
+        "Ich morgen kaufe ein im Supermarkt."
+      ],
+      "answer": "Morgen kaufe ich im Supermarkt ein."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "question": "Wir bleiben zu Hause, ___ es regnet.",
+      "options": ["aber", "weil", "und", "oder"],
+      "answer": "weil"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Welche Form ist korrekt?",
+      "options": [
+        "Ich habe den Bus verpasst.",
+        "Ich bin den Bus verpasst.",
+        "Ich habe den Bus verpassen.",
+        "Ich bin den Bus verpassen."
+      ],
+      "answer": "Ich habe den Bus verpasst."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "question": "Das Licht ist an. Bitte ___ es ___ . (ausmachen)",
+      "options": ["mach / aus", "mache / an", "machst / aus", "machen / aus"],
+      "answer": "mach / aus"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Welche Präposition ist richtig? Ich warte ___ den Bus.",
+      "options": ["auf", "für", "an", "mit"],
+      "answer": "auf"
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "question": "Sie geht nicht mit, ___ sie keine Zeit hat.",
+      "options": ["aber", "denn", "weil", "oder"],
+      "answer": "weil"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Welcher Satz ist richtig?",
+      "options": [
+        "Ich muss heute lange arbeiten, aber ich bin müde.",
+        "Ich muss heute lange arbeiten, weil ich bin müde.",
+        "Ich muss arbeiten heute lange, aber bin ich müde.",
+        "Ich muss heute arbeiten lange, weil müde ich bin."
+      ],
+      "answer": "Ich muss heute lange arbeiten, aber ich bin müde."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "question": "Er ___ die Rechnung noch nicht ___ . (bezahlen)",
+      "options": ["hat / bezahlt", "ist / bezahlt", "hat / bezahlen", "ist / bezahlen"],
+      "answer": "hat / bezahlt"
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Welches Verb ist trennbar?",
+      "options": ["besuchen", "verstehen", "einkaufen", "studieren"],
+      "answer": "einkaufen"
+    },
+    {
+      "id": 14,
+      "type": "fill_in_blank",
+      "question": "Ich komme später, ___ der Zug Verspätung hat.",
+      "options": ["aber", "weil", "und", "oder"],
+      "answer": "weil"
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Welche Form ist korrekt? Wir ___ morgen früher ___ . (abfahren)",
+      "options": [
+        "fahren / ab",
+        "abfahren /",
+        "ab / fahren",
+        "fahren / an"
+      ],
+      "answer": "fahren / ab"
+    },
+    {
+      "id": 16,
+      "type": "fill_in_blank",
+      "question": "Das Restaurant ist geschlossen, ___ es Sonntag ist.",
+      "options": ["aber", "weil", "und", "denn"],
+      "answer": "weil"
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Welcher Satz ist richtig?",
+      "options": [
+        "Ich habe meine Schlüssel zu Hause vergessen.",
+        "Ich bin meine Schlüssel zu Hause vergessen.",
+        "Ich habe vergessen meine Schlüssel zu Hause.",
+        "Ich bin vergessen meine Schlüssel zu Hause."
+      ],
+      "answer": "Ich habe meine Schlüssel zu Hause vergessen."
+    },
+    {
+      "id": 18,
+      "type": "fill_in_blank",
+      "question": "Er ___ sehr müde, deshalb ___ er früh ___ . (sein / einschlafen)",
+      "options": [
+        "ist / schläft / ein",
+        "hat / schläft / ein",
+        "ist / schlaft / ein",
+        "war / schläft / an"
+      ],
+      "answer": "ist / schläft / ein"
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Welche Präposition passt? Ich interessiere mich ___ Musik.",
+      "options": ["für", "auf", "an", "mit"],
+      "answer": "für"
+    },
+    {
+      "id": 20,
+      "type": "fill_in_blank",
+      "question": "Wir gehen spazieren, ___ das Wetter schön ist.",
+      "options": ["aber", "weil", "oder", "denn"],
+      "answer": "weil"
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Welcher Satz ist korrekt?",
+      "options": [
+        "Nach der Arbeit kaufe ich noch ein.",
+        "Nach der Arbeit ich kaufe noch ein.",
+        "Ich kaufe nach der Arbeit noch ein.",
+        "Ich noch kaufe nach der Arbeit ein."
+      ],
+      "answer": "Nach der Arbeit kaufe ich noch ein."
+    },
+    {
+      "id": 22,
+      "type": "fill_in_blank",
+      "question": "Bitte ___ mir heute ___ . (anrufen)",
+      "options": ["ruf / an", "rufe / an", "rufst / an", "rufen / an"],
+      "answer": "ruf / an"
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "Welche Form ist richtig? Er ___ gestern nach Hause ___ . (zurückkommen)",
+      "options": [
+        "ist / zurückgekommen",
+        "hat / zurückgekommen",
+        "ist / zurückkommen",
+        "hat / zurückkommen"
+      ],
+      "answer": "ist / zurückgekommen"
+    },
+    {
+      "id": 24,
+      "type": "fill_in_blank",
+      "question": "Ich trinke keinen Kaffee, ___ ich schlecht schlafe.",
+      "options": ["aber", "weil", "und", "oder"],
+      "answer": "weil"
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "Welcher Satz passt zu einer Entschuldigung?",
+      "options": [
+        "Es tut mir leid, ich habe keine Zeit.",
+        "Ich freue mich, keine Zeit zu haben.",
+        "Danke schön für keine Zeit.",
+        "Kein Problem, ich habe Zeit."
+      ],
+      "answer": "Es tut mir leid, ich habe keine Zeit."
+    },
+    {
+      "id": 26,
+      "type": "fill_in_blank",
+      "question": "Der Kurs fängt um 9 Uhr ___ .",
+      "options": ["an", "auf", "ein", "ab"],
+      "answer": "an"
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "Welche Wortstellung ist richtig?",
+      "options": [
+        "Zu Hause ich lerne Deutsch.",
+        "Ich lerne Deutsch zu Hause.",
+        "Ich lerne zu Hause Deutsch.",
+        "Deutsch ich lerne zu Hause."
+      ],
+      "answer": "Ich lerne Deutsch zu Hause."
+    },
+    {
+      "id": 28,
+      "type": "fill_in_blank",
+      "question": "Er kauft ein, ___ er Besuch bekommt.",
+      "options": ["aber", "weil", "oder", "und"],
+      "answer": "weil"
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "Welches Wort passt? Ich habe heute einen ___ Termin.",
+      "options": ["wichtig", "Wichtigkeit", "wichtigen", "wichtiges"],
+      "answer": "wichtigen"
+    },
+    {
+      "id": 30,
+      "type": "fill_in_blank",
+      "question": "Wir bleiben länger, ___ der Film sehr spannend ist.",
+      "options": ["aber", "weil", "oder", "und"],
+      "answer": "weil"
+    }
+  ]
+}
