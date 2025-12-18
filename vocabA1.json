@@ -1,76 +1,367 @@
 { 
-  "Lektion 1": [
+  "Lektion 1": 
+    [
   {
-    "german": "Guten Morgen",
-    "english": "good morning",
-    "nepali": "शुभप्रभात",
-    "de_example": "Guten Morgen! Wie geht es dir?",
-    "np_example": "शुभप्रभात! तपाईंलाई कस्तो छ?",
-    "en_example": "Good morning! How are you?"
+    "german": "gut",
+    "english": "good",
+    "nepali": "राम्रो",
+    "de_example": "Der Unterricht ist gut.",
+    "np_example": "पाठ राम्रो छ।",
+    "en_example": "The lesson is good."
   },
   {
     "german": "Guten Tag",
-    "english": "good day",
-    "nepali": "शुभ दिन",
-    "de_example": "Guten Tag, ich heiße Anna.",
-    "np_example": "नमस्कार, मेरो नाम आना हो।",
-    "en_example": "Good day, my name is Anna."
+    "english": "Good day / Hello",
+    "nepali": "नमस्ते",
+    "de_example": "Guten Tag! Ich bin neu.",
+    "np_example": "नमस्ते! म नयाँ हुँ।",
+    "en_example": "Good day! I am new."
+  },
+  {
+    "german": "Guten Morgen",
+    "english": "Good morning",
+    "nepali": "शुभप्रभात",
+    "de_example": "Guten Morgen, Herr Becker.",
+    "np_example": "शुभप्रभात, श्री बेकर।",
+    "en_example": "Good morning, Mr. Becker."
   },
   {
     "german": "Guten Abend",
-    "english": "good evening",
+    "english": "Good evening",
     "nepali": "शुभसन्ध्या",
     "de_example": "Guten Abend! Willkommen.",
     "np_example": "शुभसन्ध्या! स्वागत छ।",
     "en_example": "Good evening! Welcome."
   },
   {
+    "german": "Gute Nacht",
+    "english": "Good night",
+    "nepali": "शुभरात्रि",
+    "de_example": "Gute Nacht! Bis morgen.",
+    "np_example": "शुभरात्रि! भोलि भेटौंला।",
+    "en_example": "Good night! See you tomorrow."
+  },
+  {
     "german": "Hallo",
-    "english": "hello",
-    "nepali": "नमस्ते",
+    "english": "Hello",
+    "nepali": "नमस्ते / हाय",
     "de_example": "Hallo! Wie heißt du?",
     "np_example": "नमस्ते! तिम्रो नाम के हो?",
     "en_example": "Hello! What is your name?"
   },
   {
     "german": "Tschüss",
-    "english": "bye",
+    "english": "Bye",
     "nepali": "बिदा",
-    "de_example": "Tschüss! Bis morgen.",
-    "np_example": "बिदा! भोलि भेटौँला।",
-    "en_example": "Bye! See you tomorrow."
+    "de_example": "Tschüss! Bis bald.",
+    "np_example": "बिदा! चाँडै भेटौंला।",
+    "en_example": "Bye! See you soon."
+  },
+  {
+    "german": "Auf Wiedersehen",
+    "english": "Goodbye",
+    "nepali": "फेरि भेटौंला",
+    "de_example": "Auf Wiedersehen, Frau Müller.",
+    "np_example": "फेरि भेटौंला, श्रीमती म्युलर।",
+    "en_example": "Goodbye, Mrs. Müller."
+  },
+  {
+    "german": "Danke",
+    "english": "Thank you",
+    "nepali": "धन्यवाद",
+    "de_example": "Danke für Ihre Hilfe.",
+    "np_example": "तपाईंको सहयोगको लागि धन्यवाद।",
+    "en_example": "Thank you for your help."
+  },
+  {
+    "german": "Bitte",
+    "english": "Please / You're welcome",
+    "nepali": "कृपया / स्वागत छ",
+    "de_example": "Bitte kommen Sie rein.",
+    "np_example": "कृपया भित्र आउनुहोस्।",
+    "en_example": "Please come in."
+  },
+  {
+    "german": "auch",
+    "english": "also",
+    "nepali": "पनि",
+    "de_example": "Ich bin auch hier.",
+    "np_example": "म पनि यहाँ छु।",
+    "en_example": "I am also here."
+  },
+  {
+    "german": "bis bald",
+    "english": "see you soon",
+    "nepali": "चाँडै भेटौंला",
+    "de_example": "Tschüss, bis bald!",
+    "np_example": "बिदा, चाँडै भेटौंला!",
+    "en_example": "Bye, see you soon!"
+  },
+  {
+    "german": "ciao",
+    "english": "hi / bye",
+    "nepali": "हाय / बिदा",
+    "de_example": "Ciao! Bis morgen.",
+    "np_example": "हाय! भोलि भेटौंला।",
+    "en_example": "Hi! See you tomorrow."
+  },
+  {
+    "german": "wie",
+    "english": "how",
+    "nepali": "कसरी",
+    "de_example": "Wie geht es dir?",
+    "np_example": "तिमीलाई कस्तो छ?",
+    "en_example": "How are you?"
+  },
+  {
+    "german": "was",
+    "english": "what",
+    "nepali": "के",
+    "de_example": "Was ist das?",
+    "np_example": "यो के हो?",
+    "en_example": "What is that?"
+  },
+  {
+    "german": "wer",
+    "english": "who",
+    "nepali": "को",
+    "de_example": "Wer bist du?",
+    "np_example": "तिमी को हौ?",
+    "en_example": "Who are you?"
+  },
+  {
+    "german": "oder",
+    "english": "or",
+    "nepali": "वा",
+    "de_example": "Anna oder Paul?",
+    "np_example": "आन्ना वा पाउल?",
+    "en_example": "Anna or Paul?"
+  },
+  {
+    "german": "und",
+    "english": "and",
+    "nepali": "र",
+    "de_example": "Tom und Maria",
+    "np_example": "टम र मारिया",
+    "en_example": "Tom and Maria"
   },
   {
     "german": "ich",
     "english": "I",
     "nepali": "म",
-    "de_example": "Ich bin Student.",
-    "np_example": "म विद्यार्थी हुँ।",
-    "en_example": "I am a student."
+    "de_example": "Ich lerne Deutsch.",
+    "np_example": "म जर्मन सिक्दैछु।",
+    "en_example": "I am learning German."
   },
   {
     "german": "du",
-    "english": "you (singular)",
+    "english": "you (informal)",
     "nepali": "तिमी",
-    "de_example": "Du bist sehr nett.",
-    "np_example": "तिमी धेरै राम्रो छौ।",
-    "en_example": "You are very nice."
+    "de_example": "Du bist hier.",
+    "np_example": "तिमी यहाँ छौ।",
+    "en_example": "You are here."
   },
   {
-    "german": "heißen",
-    "english": "to be called",
-    "nepali": "भनिनु",
-    "de_example": "Ich heiße Tom.",
-    "np_example": "मेरो नाम टम हो।",
-    "en_example": "My name is Tom."
+    "german": "Sie",
+    "english": "you (formal)",
+    "nepali": "तपाईं",
+    "de_example": "Wie geht es Ihnen?",
+    "np_example": "तपाईंलाई कस्तो छ?",
+    "en_example": "How are you?"
+  },
+  {
+    "german": "dir",
+    "english": "you (dative, informal)",
+    "nepali": "तिमीलाई",
+    "de_example": "Mir geht es gut, und dir?",
+    "np_example": "मलाई राम्रो छ, अनि तिमीलाई?",
+    "en_example": "I am fine, and you?"
+  },
+  {
+    "german": "Ihnen",
+    "english": "you (dative, formal)",
+    "nepali": "तपाईंलाई",
+    "de_example": "Wie geht es Ihnen heute?",
+    "np_example": "आज तपाईंलाई कस्तो छ?",
+    "en_example": "How are you today?"
   },
   {
     "german": "sein",
     "english": "to be",
     "nepali": "हुनु",
-    "de_example": "Ich bin müde.",
-    "np_example": "म थाकेको छु।",
-    "en_example": "I am tired."
+    "de_example": "Ich bin Student.",
+    "np_example": "म विद्यार्थी हुँ।",
+    "en_example": "I am a student."
+  },
+  {
+    "german": "heißen",
+    "english": "to be called",
+    "nepali": "नाम हुनु",
+    "de_example": "Ich heiße Lukas.",
+    "np_example": "मेरो नाम लुकास हो।",
+    "en_example": "My name is Lukas."
+  },
+  {
+    "german": "gehen",
+    "english": "to go",
+    "nepali": "जानु",
+    "de_example": "Wie geht es dir?",
+    "np_example": "तिमीलाई कस्तो छ?",
+    "en_example": "How are you?"
+  },
+  {
+    "german": "sehr",
+    "english": "very",
+    "nepali": "धेरै",
+    "de_example": "Mir geht es sehr gut.",
+    "np_example": "मलाई धेरै राम्रो छ।",
+    "en_example": "I am very well."
+  },
+  {
+    "german": "ganz",
+    "english": "quite",
+    "nepali": "एकदम",
+    "de_example": "Mir geht es ganz gut.",
+    "np_example": "मलाई एकदम ठीक छ।",
+    "en_example": "I am quite well."
+  },
+  {
+    "german": "die Person",
+    "english": "person",
+    "nepali": "व्यक्ति",
+    "de_example": "Die Person ist neu.",
+    "np_example": "व्यक्ति नयाँ छ।",
+    "en_example": "The person is new."
+  },
+  {
+    "german": "der Name",
+    "english": "name",
+    "nepali": "नाम",
+    "de_example": "Mein Name ist Anna.",
+    "np_example": "मेरो नाम आन्ना हो।",
+    "en_example": "My name is Anna."
+  },
+  {
+    "german": "der Vorname",
+    "english": "first name",
+    "nepali": "पहिलो नाम",
+    "de_example": "Mein Vorname ist Tim.",
+    "np_example": "मेरो पहिलो नाम टिम हो।",
+    "en_example": "My first name is Tim."
+  },
+  {
+    "german": "der Nachname",
+    "english": "last name",
+    "nepali": "थर",
+    "de_example": "Mein Nachname ist Keller.",
+    "np_example": "मेरो थर केलर हो।",
+    "en_example": "My last name is Keller."
+  },
+  {
+    "german": "Frau",
+    "english": "Mrs / Ms",
+    "nepali": "श्रीमती",
+    "de_example": "Guten Tag, Frau Schmidt.",
+    "np_example": "नमस्ते, श्रीमती श्मिट।",
+    "en_example": "Good day, Mrs. Schmidt."
+  },
+  {
+    "german": "Herr",
+    "english": "Mr",
+    "nepali": "श्रीमान",
+    "de_example": "Guten Abend, Herr Braun.",
+    "np_example": "शुभसन्ध्या, श्रीमान ब्राउन।",
+    "en_example": "Good evening, Mr. Braun."
+  },
+  {
+    "german": "formell",
+    "english": "formal",
+    "nepali": "औपचारिक",
+    "de_example": "Das Gespräch ist formell.",
+    "np_example": "संवाद औपचारिक छ।",
+    "en_example": "The conversation is formal."
+  },
+  {
+    "german": "informell",
+    "english": "informal",
+    "nepali": "अनौपचारिक",
+    "de_example": "Wir sprechen informell.",
+    "np_example": "हामी अनौपचारिक बोल्छौं।",
+    "en_example": "We speak informally."
+  },
+  {
+    "german": "die Entschuldigung",
+    "english": "apology",
+    "nepali": "माफी",
+    "de_example": "Eine Entschuldigung bitte.",
+    "np_example": "कृपया माफी।",
+    "en_example": "An apology please."
+  },
+  {
+    "german": "Entschuldigung",
+    "english": "excuse me / sorry",
+    "nepali": "माफ गर्नुहोस्",
+    "de_example": "Entschuldigung, wie heißen Sie?",
+    "np_example": "माफ गर्नुहोस्, तपाईंको नाम के हो?",
+    "en_example": "Excuse me, what is your name?"
+  }
+],
+"Lektion 2":  [
+  {
+    "german": "der Freund",
+    "english": "friend (male)",
+    "nepali": "साथी",
+    "de_example": "Er ist mein Freund.",
+    "np_example": "उहाँ मेरो साथी हुनुहुन्छ।",
+    "en_example": "He is my friend."
+  },
+  {
+    "german": "die Freundin",
+    "english": "friend (female)",
+    "nepali": "साथी",
+    "de_example": "Sie ist meine Freundin.",
+    "np_example": "उनी मेरी साथी हुन्।",
+    "en_example": "She is my friend."
+  },
+  {
+    "german": "der Kollege",
+    "english": "colleague (male)",
+    "nepali": "सहकर्मी",
+    "de_example": "Mein Kollege arbeitet hier.",
+    "np_example": "मेरो सहकर्मी यहाँ काम गर्छ।",
+    "en_example": "My colleague works here."
+  },
+  {
+    "german": "die Kollegin",
+    "english": "colleague (female)",
+    "nepali": "सहकर्मी",
+    "de_example": "Die Kollegin ist sehr nett.",
+    "np_example": "सहकर्मी धेरै राम्रो छिन्।",
+    "en_example": "The colleague is very nice."
+  },
+  {
+    "german": "arbeiten",
+    "english": "to work",
+    "nepali": "काम गर्नु",
+    "de_example": "Ich arbeite in Berlin.",
+    "np_example": "म बर्लिनमा काम गर्छु।",
+    "en_example": "I work in Berlin."
+  },
+  {
+    "german": "lernen",
+    "english": "to learn",
+    "nepali": "सिक्नु",
+    "de_example": "Ich lerne Deutsch.",
+    "np_example": "म जर्मन सिक्दैछु।",
+    "en_example": "I am learning German."
+  },
+  {
+    "german": "sprechen",
+    "english": "to speak",
+    "nepali": "बोल्नु",
+    "de_example": "Ich spreche Englisch.",
+    "np_example": "म अंग्रेजी बोल्छु।",
+    "en_example": "I speak English."
   },
   {
     "german": "kommen",
@@ -79,5 +370,3714 @@
     "de_example": "Ich komme aus Nepal.",
     "np_example": "म नेपालबाट आएको हुँ।",
     "en_example": "I come from Nepal."
+  },
+  {
+    "german": "wohnen",
+    "english": "to live",
+    "nepali": "बस्नु",
+    "de_example": "Ich wohne in Hamburg.",
+    "np_example": "म ह्याम्बर्गमा बस्छु।",
+    "en_example": "I live in Hamburg."
+  },
+  {
+    "german": "der Beruf",
+    "english": "profession",
+    "nepali": "पेशा",
+    "de_example": "Was ist dein Beruf?",
+    "np_example": "तिम्रो पेशा के हो?",
+    "en_example": "What is your profession?"
+  },
+  {
+    "german": "der Student",
+    "english": "student (male)",
+    "nepali": "विद्यार्थी",
+    "de_example": "Er ist Student.",
+    "np_example": "उहाँ विद्यार्थी हुनुहुन्छ।",
+    "en_example": "He is a student."
+  },
+  {
+    "german": "die Studentin",
+    "english": "student (female)",
+    "nepali": "विद्यार्थी",
+    "de_example": "Sie ist Studentin.",
+    "np_example": "उनी विद्यार्थी हुन्।",
+    "en_example": "She is a student."
+  },
+  {
+    "german": "der Lehrer",
+    "english": "teacher (male)",
+    "nepali": "शिक्षक",
+    "de_example": "Der Lehrer erklärt viel.",
+    "np_example": "शिक्षक धेरै कुरा बुझाउनुहुन्छ।",
+    "en_example": "The teacher explains a lot."
+  },
+  {
+    "german": "die Lehrerin",
+    "english": "teacher (female)",
+    "nepali": "शिक्षिका",
+    "de_example": "Die Lehrerin ist nett.",
+    "np_example": "शिक्षिका राम्रो हुनुहुन्छ।",
+    "en_example": "The teacher is nice."
+  },
+  {
+    "german": "das Land",
+    "english": "country",
+    "nepali": "देश",
+    "de_example": "Deutschland ist ein Land.",
+    "np_example": "जर्मनी एउटा देश हो।",
+    "en_example": "Germany is a country."
+  },
+  {
+    "german": "die Sprache",
+    "english": "language",
+    "nepali": "भाषा",
+    "de_example": "Deutsch ist eine Sprache.",
+    "np_example": "जर्मन एउटा भाषा हो।",
+    "en_example": "German is a language."
+  },
+  {
+    "german": "Deutsch",
+    "english": "German (language)",
+    "nepali": "जर्मन भाषा",
+    "de_example": "Ich lerne Deutsch.",
+    "np_example": "म जर्मन भाषा सिक्दैछु।",
+    "en_example": "I am learning German."
+  },
+  {
+    "german": "Englisch",
+    "english": "English",
+    "nepali": "अंग्रेजी",
+    "de_example": "Sie spricht Englisch.",
+    "np_example": "उनी अंग्रेजी बोल्छिन्।",
+    "en_example": "She speaks English."
+  },
+  {
+    "german": "ein bisschen",
+    "english": "a little",
+    "nepali": "अलिकति",
+    "de_example": "Ich spreche ein bisschen Deutsch.",
+    "np_example": "म अलिकति जर्मन बोल्छु।",
+    "en_example": "I speak a little German."
+  },
+  {
+    "german": "sehr gut",
+    "english": "very good",
+    "nepali": "धेरै राम्रो",
+    "de_example": "Deutsch ist sehr gut.",
+    "np_example": "जर्मन धेरै राम्रो छ।",
+    "en_example": "German is very good."
+  },
+  {
+    "german": "nicht",
+    "english": "not",
+    "nepali": "होइन",
+    "de_example": "Ich arbeite nicht heute.",
+    "np_example": "म आज काम गर्दिन।",
+    "en_example": "I do not work today."
+  },
+  {
+    "german": "und",
+    "english": "and",
+    "nepali": "र",
+    "de_example": "Ich arbeite und lerne.",
+    "np_example": "म काम गर्छु र सिक्छु।",
+    "en_example": "I work and learn."
+  },
+  {
+    "german": "auch",
+    "english": "also",
+    "nepali": "पनि",
+    "de_example": "Ich bin auch hier.",
+    "np_example": "म पनि यहाँ छु।",
+    "en_example": "I am also here."
+  },
+  {
+    "german": "wo",
+    "english": "where",
+    "nepali": "कहाँ",
+    "de_example": "Wo wohnst du?",
+    "np_example": "तिमी कहाँ बस्छौ?",
+    "en_example": "Where do you live?"
+  },
+  {
+    "german": "was",
+    "english": "what",
+    "nepali": "के",
+    "de_example": "Was machst du?",
+    "np_example": "तिमी के गर्छौ?",
+    "en_example": "What do you do?"
+  },
+  {
+    "german": "wer",
+    "english": "who",
+    "nepali": "को",
+    "de_example": "Wer ist das?",
+    "np_example": "यो को हो?",
+    "en_example": "Who is that?"
+  },
+  {
+    "german": "der Mann",
+    "english": "man",
+    "nepali": "पुरुष",
+    "de_example": "Der Mann arbeitet hier.",
+    "np_example": "पुरुष यहाँ काम गर्छ।",
+    "en_example": "The man works here."
+  },
+  {
+    "german": "die Frau",
+    "english": "woman",
+    "nepali": "महिला",
+    "de_example": "Die Frau lernt Deutsch.",
+    "np_example": "महिला जर्मन सिक्दैछिन्।",
+    "en_example": "The woman is learning German."
   }
-] }
+], "Lektion 3": [
+  {
+    "german": "die Stadt",
+    "english": "city",
+    "nepali": "सहर",
+    "de_example": "Hamburg ist eine große Stadt.",
+    "np_example": "ह्याम्बर्ग ठूलो सहर हो।",
+    "en_example": "Hamburg is a big city."
+  },
+  {
+    "german": "Hamburg",
+    "english": "Hamburg",
+    "nepali": "ह्याम्बर्ग",
+    "de_example": "Ich wohne in Hamburg.",
+    "np_example": "म ह्याम्बर्गमा बस्छु।",
+    "en_example": "I live in Hamburg."
+  },
+  {
+    "german": "wohnen",
+    "english": "to live",
+    "nepali": "बस्नु",
+    "de_example": "Wir wohnen hier.",
+    "np_example": "हामी यहाँ बस्छौं।",
+    "en_example": "We live here."
+  },
+  {
+    "german": "kommen",
+    "english": "to come",
+    "nepali": "आउनु",
+    "de_example": "Ich komme aus Berlin.",
+    "np_example": "म बर्लिनबाट आएको हुँ।",
+    "en_example": "I come from Berlin."
+  },
+  {
+    "german": "gehen",
+    "english": "to go",
+    "nepali": "जानु",
+    "de_example": "Wir gehen in die Stadt.",
+    "np_example": "हामी सहर जान्छौं।",
+    "en_example": "We go to the city."
+  },
+  {
+    "german": "fahren",
+    "english": "to go by transport / drive",
+    "nepali": "सवारी साधनबाट जानु",
+    "de_example": "Ich fahre mit dem Bus.",
+    "np_example": "म बसबाट जान्छु।",
+    "en_example": "I go by bus."
+  },
+  {
+    "german": "arbeiten",
+    "english": "to work",
+    "nepali": "काम गर्नु",
+    "de_example": "Ich arbeite in Hamburg.",
+    "np_example": "म ह्याम्बर्गमा काम गर्छु।",
+    "en_example": "I work in Hamburg."
+  },
+  {
+    "german": "das Haus",
+    "english": "house",
+    "nepali": "घर",
+    "de_example": "Das Haus ist groß.",
+    "np_example": "घर ठूलो छ।",
+    "en_example": "The house is big."
+  },
+  {
+    "german": "die Straße",
+    "english": "street",
+    "nepali": "सडक",
+    "de_example": "Die Straße ist lang.",
+    "np_example": "सडक लामो छ।",
+    "en_example": "The street is long."
+  },
+  {
+    "german": "der Platz",
+    "english": "square / place",
+    "nepali": "चोक / स्थान",
+    "de_example": "Der Platz ist schön.",
+    "np_example": "स्थान सुन्दर छ।",
+    "en_example": "The place is beautiful."
+  },
+  {
+    "german": "der Bahnhof",
+    "english": "train station",
+    "nepali": "रेल स्टेशन",
+    "de_example": "Der Bahnhof ist dort.",
+    "np_example": "रेल स्टेशन त्यहाँ छ।",
+    "en_example": "The train station is there."
+  },
+  {
+    "german": "die U-Bahn",
+    "english": "subway",
+    "nepali": "अन्डरग्राउन्ड रेल",
+    "de_example": "Ich fahre mit der U-Bahn.",
+    "np_example": "म अन्डरग्राउन्ड रेलबाट जान्छु।",
+    "en_example": "I go by subway."
+  },
+  {
+    "german": "der Bus",
+    "english": "bus",
+    "nepali": "बस",
+    "de_example": "Der Bus kommt jetzt.",
+    "np_example": "बस अहिले आउँदैछ।",
+    "en_example": "The bus is coming now."
+  },
+  {
+    "german": "das Taxi",
+    "english": "taxi",
+    "nepali": "ट्याक्सी",
+    "de_example": "Wir nehmen ein Taxi.",
+    "np_example": "हामी ट्याक्सी लिन्छौं।",
+    "en_example": "We take a taxi."
+  },
+  {
+    "german": "das Geschäft",
+    "english": "shop",
+    "nepali": "पसल",
+    "de_example": "Das Geschäft ist offen.",
+    "np_example": "पसल खुला छ।",
+    "en_example": "The shop is open."
+  },
+  {
+    "german": "der Supermarkt",
+    "english": "supermarket",
+    "nepali": "सुपरमार्केट",
+    "de_example": "Ich gehe in den Supermarkt.",
+    "np_example": "म सुपरमार्केट जान्छु।",
+    "en_example": "I go to the supermarket."
+  },
+  {
+    "german": "das Café",
+    "english": "café",
+    "nepali": "क्याफे",
+    "de_example": "Wir sitzen im Café.",
+    "np_example": "हामी क्याफेमा बस्छौं।",
+    "en_example": "We sit in the café."
+  },
+  {
+    "german": "das Restaurant",
+    "english": "restaurant",
+    "nepali": "रेस्टुरेन्ट",
+    "de_example": "Das Restaurant ist gut.",
+    "np_example": "रेस्टुरेन्ट राम्रो छ।",
+    "en_example": "The restaurant is good."
+  },
+  {
+    "german": "das Hotel",
+    "english": "hotel",
+    "nepali": "होटल",
+    "de_example": "Das Hotel ist hier.",
+    "np_example": "होटल यहाँ छ।",
+    "en_example": "The hotel is here."
+  },
+  {
+    "german": "die Arbeit",
+    "english": "work",
+    "nepali": "काम",
+    "de_example": "Die Arbeit beginnt um neun.",
+    "np_example": "काम नौ बजे सुरु हुन्छ।",
+    "en_example": "Work starts at nine."
+  },
+  {
+    "german": "hier",
+    "english": "here",
+    "nepali": "यहाँ",
+    "de_example": "Ich bin hier.",
+    "np_example": "म यहाँ छु।",
+    "en_example": "I am here."
+  },
+  {
+    "german": "dort",
+    "english": "there",
+    "nepali": "त्यहाँ",
+    "de_example": "Der Bahnhof ist dort.",
+    "np_example": "रेल स्टेशन त्यहाँ छ।",
+    "en_example": "The station is there."
+  },
+  {
+    "german": "links",
+    "english": "left",
+    "nepali": "बायाँ",
+    "de_example": "Links ist das Café.",
+    "np_example": "बायाँ क्याफे छ।",
+    "en_example": "The café is on the left."
+  },
+  {
+    "german": "rechts",
+    "english": "right",
+    "nepali": "दायाँ",
+    "de_example": "Rechts ist der Bahnhof.",
+    "np_example": "दायाँ रेल स्टेशन छ।",
+    "en_example": "The station is on the right."
+  },
+  {
+    "german": "geradeaus",
+    "english": "straight ahead",
+    "nepali": "सीधै",
+    "de_example": "Bitte gehen Sie geradeaus.",
+    "np_example": "कृपया सीधै जानुहोस्।",
+    "en_example": "Please go straight ahead."
+  },
+  {
+    "german": "mit",
+    "english": "with / by",
+    "nepali": "सँग / द्वारा",
+    "de_example": "Ich fahre mit dem Bus.",
+    "np_example": "म बसबाट जान्छु।",
+    "en_example": "I go by bus."
+  },
+  {
+    "german": "zu",
+    "english": "to",
+    "nepali": "तर्फ",
+    "de_example": "Wir gehen zum Bahnhof.",
+    "np_example": "हामी रेल स्टेशनतर्फ जान्छौं।",
+    "en_example": "We go to the station."
+  },
+  {
+    "german": "in",
+    "english": "in",
+    "nepali": "मा",
+    "de_example": "Ich wohne in Hamburg.",
+    "np_example": "म ह्याम्बर्गमा बस्छु।",
+    "en_example": "I live in Hamburg."
+  }
+],
+
+
+"Lektion 4": [
+  {
+    "german": "essen",
+    "english": "to eat",
+    "nepali": "खानु",
+    "de_example": "Wir essen zusammen.",
+    "np_example": "हामी सँगै खान्छौं।",
+    "en_example": "We eat together."
+  },
+  {
+    "german": "trinken",
+    "english": "to drink",
+    "nepali": "पिउनु",
+    "de_example": "Ich trinke Wasser.",
+    "np_example": "म पानी पिउँछु।",
+    "en_example": "I drink water."
+  },
+  {
+    "german": "das Essen",
+    "english": "food",
+    "nepali": "खाना",
+    "de_example": "Das Essen ist lecker.",
+    "np_example": "खाना स्वादिलो छ।",
+    "en_example": "The food is tasty."
+  },
+  {
+    "german": "das Getränk",
+    "english": "drink",
+    "nepali": "पेय पदार्थ",
+    "de_example": "Das Getränk ist kalt.",
+    "np_example": "पेय पदार्थ चिसो छ।",
+    "en_example": "The drink is cold."
+  },
+  {
+    "german": "das Brot",
+    "english": "bread",
+    "nepali": "रोटी",
+    "de_example": "Ich esse Brot zum Frühstück.",
+    "np_example": "म बिहान रोटी खान्छु।",
+    "en_example": "I eat bread for breakfast."
+  },
+  {
+    "german": "das Brötchen",
+    "english": "bread roll",
+    "nepali": "सानो रोटी",
+    "de_example": "Das Brötchen ist frisch.",
+    "np_example": "सानो रोटी ताजा छ।",
+    "en_example": "The bread roll is fresh."
+  },
+  {
+    "german": "die Butter",
+    "english": "butter",
+    "nepali": "मक्खन",
+    "de_example": "Ich esse Brot mit Butter.",
+    "np_example": "म मक्खनसँग रोटी खान्छु।",
+    "en_example": "I eat bread with butter."
+  },
+  {
+    "german": "der Käse",
+    "english": "cheese",
+    "nepali": "चिज",
+    "de_example": "Der Käse schmeckt gut.",
+    "np_example": "चिज स्वादिलो छ।",
+    "en_example": "The cheese tastes good."
+  },
+  {
+    "german": "die Wurst",
+    "english": "sausage",
+    "nepali": "ससेज",
+    "de_example": "Ich esse Wurst.",
+    "np_example": "म ससेज खान्छु।",
+    "en_example": "I eat sausage."
+  },
+  {
+    "german": "das Fleisch",
+    "english": "meat",
+    "nepali": "मासु",
+    "de_example": "Fleisch ist teuer.",
+    "np_example": "मासु महँगो छ।",
+    "en_example": "Meat is expensive."
+  },
+  {
+    "german": "das Gemüse",
+    "english": "vegetables",
+    "nepali": "तरकारी",
+    "de_example": "Gemüse ist gesund.",
+    "np_example": "तरकारी स्वस्थकर हुन्छ।",
+    "en_example": "Vegetables are healthy."
+  },
+  {
+    "german": "das Obst",
+    "english": "fruit",
+    "nepali": "फलफूल",
+    "de_example": "Ich esse gern Obst.",
+    "np_example": "म फलफूल खान मन पराउँछु।",
+    "en_example": "I like to eat fruit."
+  },
+  {
+    "german": "der Apfel",
+    "english": "apple",
+    "nepali": "स्याउ",
+    "de_example": "Der Apfel ist süß.",
+    "np_example": "स्याउ गुलियो छ।",
+    "en_example": "The apple is sweet."
+  },
+  {
+    "german": "die Banane",
+    "english": "banana",
+    "nepali": "केरा",
+    "de_example": "Die Banane ist gelb.",
+    "np_example": "केरा पहेंलो छ।",
+    "en_example": "The banana is yellow."
+  },
+  {
+    "german": "die Suppe",
+    "english": "soup",
+    "nepali": "सूप",
+    "de_example": "Die Suppe ist heiß.",
+    "np_example": "सूप तातो छ।",
+    "en_example": "The soup is hot."
+  },
+  {
+    "german": "der Salat",
+    "english": "salad",
+    "nepali": "सलाद",
+    "de_example": "Ich esse einen Salat.",
+    "np_example": "म सलाद खान्छु।",
+    "en_example": "I eat a salad."
+  },
+  {
+    "german": "der Kuchen",
+    "english": "cake",
+    "nepali": "केक",
+    "de_example": "Der Kuchen schmeckt gut.",
+    "np_example": "केक स्वादिलो छ।",
+    "en_example": "The cake tastes good."
+  },
+  {
+    "german": "der Zucker",
+    "english": "sugar",
+    "nepali": "चिनी",
+    "de_example": "Ich nehme Zucker im Tee.",
+    "np_example": "म चियामा चिनी हाल्छु।",
+    "en_example": "I take sugar in my tea."
+  },
+  {
+    "german": "das Salz",
+    "english": "salt",
+    "nepali": "नुन",
+    "de_example": "Bitte etwas Salz.",
+    "np_example": "कृपया अलिकति नुन।",
+    "en_example": "Please some salt."
+  },
+  {
+    "german": "der Kaffee",
+    "english": "coffee",
+    "nepali": "कफी",
+    "de_example": "Ich trinke Kaffee am Morgen.",
+    "np_example": "म बिहान कफी पिउँछु।",
+    "en_example": "I drink coffee in the morning."
+  },
+  {
+    "german": "der Tee",
+    "english": "tea",
+    "nepali": "चिया",
+    "de_example": "Der Tee ist warm.",
+    "np_example": "चिया न्यानो छ।",
+    "en_example": "The tea is warm."
+  },
+  {
+    "german": "das Wasser",
+    "english": "water",
+    "nepali": "पानी",
+    "de_example": "Ich trinke viel Wasser.",
+    "np_example": "म धेरै पानी पिउँछु।",
+    "en_example": "I drink a lot of water."
+  },
+  {
+    "german": "der Saft",
+    "english": "juice",
+    "nepali": "रस",
+    "de_example": "Der Saft ist frisch.",
+    "np_example": "रस ताजा छ।",
+    "en_example": "The juice is fresh."
+  },
+  {
+    "german": "das Bier",
+    "english": "beer",
+    "nepali": "बियर",
+    "de_example": "Er trinkt ein Bier.",
+    "np_example": "उहाँ बियर पिउनुहुन्छ।",
+    "en_example": "He drinks a beer."
+  },
+  {
+    "german": "der Wein",
+    "english": "wine",
+    "nepali": "वाइन",
+    "de_example": "Der Wein ist teuer.",
+    "np_example": "वाइन महँगो छ।",
+    "en_example": "The wine is expensive."
+  },
+  {
+    "german": "das Frühstück",
+    "english": "breakfast",
+    "nepali": "नास्ता",
+    "de_example": "Frühstück ist um acht.",
+    "np_example": "नास्ता आठ बजे हुन्छ।",
+    "en_example": "Breakfast is at eight."
+  },
+  {
+    "german": "das Mittagessen",
+    "english": "lunch",
+    "nepali": "दिउँसोको खाना",
+    "de_example": "Wir essen Mittagessen um zwölf.",
+    "np_example": "हामी बाह्र बजे खाना खान्छौं।",
+    "en_example": "We eat lunch at twelve."
+  },
+  {
+    "german": "das Abendessen",
+    "english": "dinner",
+    "nepali": "बेलुकाको खाना",
+    "de_example": "Das Abendessen ist fertig.",
+    "np_example": "बेलुकाको खाना तयार छ।",
+    "en_example": "Dinner is ready."
+  },
+  {
+    "german": "lecker",
+    "english": "delicious",
+    "nepali": "स्वादिलो",
+    "de_example": "Das Essen ist lecker.",
+    "np_example": "खाना स्वादिलो छ।",
+    "en_example": "The food is delicious."
+  },
+  {
+    "german": "hungrig",
+    "english": "hungry",
+    "nepali": "भोक लागेको",
+    "de_example": "Ich bin hungrig.",
+    "np_example": "मलाई भोक लागेको छ।",
+    "en_example": "I am hungry."
+  },
+  {
+    "german": "durstig",
+    "english": "thirsty",
+    "nepali": "तिर्खा लागेको",
+    "de_example": "Ich bin durstig.",
+    "np_example": "मलाई तिर्खा लागेको छ।",
+    "en_example": "I am thirsty."
+  }
+],
+
+
+"Lektion 5": [
+  {
+    "german": "der Alltag",
+    "english": "everyday life",
+    "nepali": "दैनिक जीवन",
+    "de_example": "Mein Alltag ist oft stressig.",
+    "np_example": "मेरो दैनिक जीवन प्रायः व्यस्त हुन्छ।",
+    "en_example": "My everyday life is often busy."
+  },
+  {
+    "german": "aufstehen",
+    "english": "to get up",
+    "nepali": "उठ्नु",
+    "de_example": "Ich stehe um sechs Uhr auf.",
+    "np_example": "म छ बजे उठ्छु।",
+    "en_example": "I get up at six."
+  },
+  {
+    "german": "frühstücken",
+    "english": "to have breakfast",
+    "nepali": "नास्ता खानु",
+    "de_example": "Ich frühstücke zu Hause.",
+    "np_example": "म घरमै नास्ता खान्छु।",
+    "en_example": "I have breakfast at home."
+  },
+  {
+    "german": "arbeiten",
+    "english": "to work",
+    "nepali": "काम गर्नु",
+    "de_example": "Er arbeitet im Büro.",
+    "np_example": "उहाँ कार्यालयमा काम गर्नुहुन्छ।",
+    "en_example": "He works in the office."
+  },
+  {
+    "german": "lernen",
+    "english": "to learn",
+    "nepali": "सिक्नु",
+    "de_example": "Sie lernt Deutsch.",
+    "np_example": "उनी जर्मन सिक्दैछिन्।",
+    "en_example": "She learns German."
+  },
+  {
+    "german": "zur Arbeit gehen",
+    "english": "to go to work",
+    "nepali": "काममा जानु",
+    "de_example": "Ich gehe um acht zur Arbeit.",
+    "np_example": "म आठ बजे काममा जान्छु।",
+    "en_example": "I go to work at eight."
+  },
+  {
+    "german": "nach Hause gehen",
+    "english": "to go home",
+    "nepali": "घर जानु",
+    "de_example": "Ich gehe abends nach Hause.",
+    "np_example": "म बेलुका घर जान्छु।",
+    "en_example": "I go home in the evening."
+  },
+  {
+    "german": "kochen",
+    "english": "to cook",
+    "nepali": "पकाउनु",
+    "de_example": "Wir kochen zusammen.",
+    "np_example": "हामी सँगै पकाउँछौं।",
+    "en_example": "We cook together."
+  },
+  {
+    "german": "essen",
+    "english": "to eat",
+    "nepali": "खानु",
+    "de_example": "Wir essen um sieben.",
+    "np_example": "हामी सात बजे खान्छौं।",
+    "en_example": "We eat at seven."
+  },
+  {
+    "german": "fernsehen",
+    "english": "to watch TV",
+    "nepali": "टिभी हेर्नु",
+    "de_example": "Ich sehe abends fern.",
+    "np_example": "म बेलुका टिभी हेर्छु।",
+    "en_example": "I watch TV in the evening."
+  },
+  {
+    "german": "lesen",
+    "english": "to read",
+    "nepali": "पढ्नु",
+    "de_example": "Ich lese ein Buch.",
+    "np_example": "म किताब पढ्छु।",
+    "en_example": "I read a book."
+  },
+  {
+    "german": "schlafen",
+    "english": "to sleep",
+    "nepali": "सुत्नु",
+    "de_example": "Ich schlafe acht Stunden.",
+    "np_example": "म आठ घण्टा सुत्छु।",
+    "en_example": "I sleep eight hours."
+  },
+  {
+    "german": "der Morgen",
+    "english": "morning",
+    "nepali": "बिहान",
+    "de_example": "Am Morgen trinke ich Kaffee.",
+    "np_example": "बिहान म कफी पिउँछु।",
+    "en_example": "In the morning I drink coffee."
+  },
+  {
+    "german": "der Vormittag",
+    "english": "late morning",
+    "nepali": "पूर्वाह्न",
+    "de_example": "Am Vormittag arbeite ich.",
+    "np_example": "पूर्वाह्न म काम गर्छु।",
+    "en_example": "In the late morning I work."
+  },
+  {
+    "german": "der Mittag",
+    "english": "noon",
+    "nepali": "दिउँसो",
+    "de_example": "Zu Mittag esse ich Reis.",
+    "np_example": "दिउँसो म भात खान्छु।",
+    "en_example": "At noon I eat rice."
+  },
+  {
+    "german": "der Nachmittag",
+    "english": "afternoon",
+    "nepali": "दिउँसो",
+    "de_example": "Am Nachmittag lerne ich.",
+    "np_example": "दिउँसो म पढ्छु।",
+    "en_example": "In the afternoon I study."
+  },
+  {
+    "german": "der Abend",
+    "english": "evening",
+    "nepali": "साँझ",
+    "de_example": "Am Abend bin ich zu Hause.",
+    "np_example": "साँझ म घरमै हुन्छु।",
+    "en_example": "In the evening I am at home."
+  },
+  {
+    "german": "die Nacht",
+    "english": "night",
+    "nepali": "रात",
+    "de_example": "In der Nacht schlafe ich.",
+    "np_example": "राति म सुत्छु।",
+    "en_example": "At night I sleep."
+  },
+  {
+    "german": "jeden Tag",
+    "english": "every day",
+    "nepali": "हरेक दिन",
+    "de_example": "Ich lerne jeden Tag Deutsch.",
+    "np_example": "म हरेक दिन जर्मन सिक्छु।",
+    "en_example": "I learn German every day."
+  },
+  {
+    "german": "oft",
+    "english": "often",
+    "nepali": "प्रायः",
+    "de_example": "Ich arbeite oft viel.",
+    "np_example": "म प्रायः धेरै काम गर्छु।",
+    "en_example": "I often work a lot."
+  },
+  {
+    "german": "manchmal",
+    "english": "sometimes",
+    "nepali": "कहिलेकाहीँ",
+    "de_example": "Manchmal lese ich abends.",
+    "np_example": "कहिलेकाहीँ म बेलुका पढ्छु।",
+    "en_example": "Sometimes I read in the evening."
+  },
+  {
+    "german": "nie",
+    "english": "never",
+    "nepali": "कहिल्यै होइन",
+    "de_example": "Ich trinke nie Kaffee.",
+    "np_example": "म कहिल्यै कफी पिउँदिन।",
+    "en_example": "I never drink coffee."
+  },
+  {
+    "german": "früh",
+    "english": "early",
+    "nepali": "चाँडै",
+    "de_example": "Ich stehe früh auf.",
+    "np_example": "म चाँडै उठ्छु।",
+    "en_example": "I get up early."
+  },
+  {
+    "german": "spät",
+    "english": "late",
+    "nepali": "ढिलो",
+    "de_example": "Ich gehe spät ins Bett.",
+    "np_example": "म ढिलो सुत्न जान्छु।",
+    "en_example": "I go to bed late."
+  }
+], 
+
+
+"Lektion 6": 
+  [
+    {
+      "german": "die Freizeit",
+      "english": "free time",
+      "nepali": "रिक्त समय",
+      "de_example": "In meiner Freizeit gehe ich spazieren.",
+      "np_example": "मेरो रिक्त समयमा म हिँड्न जान्छु।",
+      "en_example": "In my free time I go for a walk."
+    },
+    {
+      "german": "die Freizeitaktivität",
+      "english": "leisure activity",
+      "nepali": "मनोरञ्जन गतिविधि",
+      "de_example": "Welche Freizeitaktivität magst du?",
+      "np_example": "तिमी कुन मनोरञ्जन गतिविधि मन पराउँछौ?",
+      "en_example": "Which leisure activity do you like?"
+    },
+    {
+      "german": "der Treffpunkt",
+      "english": "meeting point",
+      "nepali": "भेट्ने स्थान",
+      "de_example": "Wir treffen uns am Treffpunkt.",
+      "np_example": "हामी भेट्ने स्थानमा भेटिन्छौँ।",
+      "en_example": "We meet at the meeting point."
+    },
+    {
+      "german": "joggen",
+      "english": "to jog",
+      "nepali": "जगिङ गर्नु",
+      "de_example": "Am Morgen gehe ich joggen.",
+      "np_example": "बिहान म जोगिङ गर्छु।",
+      "en_example": "In the morning I go jogging."
+    },
+    {
+      "german": "wandern",
+      "english": "to hike",
+      "nepali": "हाइकिङ गर्नु",
+      "de_example": "Wir wandern im Wald.",
+      "np_example": "हामी जंगलमा हाइक गर्छौँ।",
+      "en_example": "We hike in the forest."
+    },
+    {
+      "german": "Fahrrad fahren",
+      "english": "to ride a bicycle",
+      "nepali": "साइकल चलाउनु",
+      "de_example": "Am Sonntag fahre ich Fahrrad.",
+      "np_example": "आईतबार म साइकल चलाउँछु।",
+      "en_example": "On Sunday I ride a bike."
+    },
+    {
+      "german": "die Fahrradtour",
+      "english": "bike tour",
+      "nepali": "साइकल यात्रा",
+      "de_example": "Wir machen eine Fahrradtour.",
+      "np_example": "हामी साइकल यात्रा गर्छौँ।",
+      "en_example": "We are going on a bike tour."
+    },
+    {
+      "german": "grillen",
+      "english": "to grill / barbecue",
+      "nepali": "ग्रिल गर्नु",
+      "de_example": "Wir grillen im Garten.",
+      "np_example": "हामी बगैँचामा ग्रिल गर्छौँ।",
+      "en_example": "We grill in the garden."
+    },
+    {
+      "german": "fotografieren",
+      "english": "to take photos",
+      "nepali": "फोटो लिनु",
+      "de_example": "Er fotografiert seine Freunde.",
+      "np_example": "ऊ आफ्ना साथीहरूलाई फोटो खिच्छ।",
+      "en_example": "He takes photos of his friends."
+    },
+    {
+      "german": "tanzen",
+      "english": "to dance",
+      "nepali": "नाच्नु",
+      "de_example": "Wir tanzen auf der Party.",
+      "np_example": "हामी पार्टीमा नाच्छौँ।",
+      "en_example": "We dance at the party."
+    },
+    {
+      "german": "schwimmen",
+      "english": "to swim",
+      "nepali": "हताउनु",
+      "de_example": "Im Sommer gehe ich schwimmen.",
+      "np_example": "गर्मीमा म हताउने जान्छु।",
+      "en_example": "In summer I go swimming."
+    },
+    {
+      "german": "Computer spielen",
+      "english": "to play computer games",
+      "nepali": "कम्प्युटर खेल्नु",
+      "de_example": "Am Abend spiele ich Computer.",
+      "np_example": "साँझ म कम्प्युटर खेल्छु।",
+      "en_example": "In the evening I play computer games."
+    },
+    {
+      "german": "ins Café gehen",
+      "english": "to go to a café",
+      "nepali": "क्याफे जानु",
+      "de_example": "Wir gehen ins Café.",
+      "np_example": "हामी क्याफेमा जान्छौँ।",
+      "en_example": "We go to a café."
+    },
+    {
+      "german": "einen Film sehen",
+      "english": "to watch a movie",
+      "nepali": "फिल्म हेर्नु",
+      "de_example": "Wir sehen am Wochenende einen Film.",
+      "np_example": "हामी सप्ताहन्तमा फिल्म हेर्छौँ।",
+      "en_example": "We watch a movie on the weekend."
+    },
+    {
+      "german": "Spiele spielen",
+      "english": "to play games",
+      "nepali": "खेल खेल्नु",
+      "de_example": "Wir spielen Spiele.",
+      "np_example": "हामी खेलेखेल गर्छौँ।",
+      "en_example": "We play games together."
+    },
+    {
+      "german": "Fußball spielen",
+      "english": "to play soccer",
+      "nepali": "फुटबल खेल्नु",
+      "de_example": "Am Nachmittag spiele ich Fußball.",
+      "np_example": "दिउँसो म फुटबल खेल्छु।",
+      "en_example": "I play soccer in the afternoon."
+    },
+    {
+      "german": "Ski fahren",
+      "english": "to ski",
+      "nepali": "स्की चलाउनु",
+      "de_example": "Im Winter fahre ich Ski.",
+      "np_example": "जाडोमा म स्की गर्छु।",
+      "en_example": "In winter I go skiing."
+    },
+    {
+      "german": "das Picknick",
+      "english": "picnic",
+      "nepali": "पिकनिक",
+      "de_example": "Wir machen ein Picknick im Park.",
+      "np_example": "हामी पार्कमा पिकनिक गर्छौँ।",
+      "en_example": "We are having a picnic in the park."
+    },
+    {
+      "german": "das Fest",
+      "english": "festival / party",
+      "nepali": "पार्टी / उत्सव",
+      "de_example": "Am Wochenende ist ein Fest.",
+      "np_example": "सप्ताहन्तमा एक उत्सव छ।",
+      "en_example": "There is a festival this weekend."
+    },
+    {
+      "german": "das Datum",
+      "english": "date",
+      "nepali": "मिति",
+      "de_example": "Welches Datum ist heute?",
+      "np_example": "आज कस्तो मिति हो?",
+      "en_example": "What is the date today?"
+    },
+    {
+      "german": "der Geburtstag",
+      "english": "birthday",
+      "nepali": "जन्मदिन",
+      "de_example": "Ich habe am Dienstag Geburtstag.",
+      "np_example": "मेरो जन्मदिन मंगलबार हो।",
+      "en_example": "My birthday is on Tuesday."
+    },
+    {
+      "german": "das Geschenk",
+      "english": "present / gift",
+      "nepali": "उपहार",
+      "de_example": "Ich kaufe ein Geschenk.",
+      "np_example": "म एक उपहार किन्दैछु।",
+      "en_example": "I’m buying a present."
+    },
+    {
+      "german": "die Überraschung",
+      "english": "surprise",
+      "nepali": "आश्चर्य",
+      "de_example": "Die Überraschung war toll!",
+      "np_example": "आश्चर्य धेरै राम्रो थियो!",
+      "en_example": "The surprise was great!"
+    },
+    {
+      "german": "einladen",
+      "english": "to invite",
+      "nepali": "आमन्त्रित गर्नु",
+      "de_example": "Ich lade dich ein.",
+      "np_example": "म तिमीलाई आमन्त्रित गर्छु।",
+      "en_example": "I invite you."
+    },
+    {
+      "german": "klar",
+      "english": "of course",
+      "nepali": "पक्कै",
+      "de_example": "Kommst du? – Klar!",
+      "np_example": "तिमी आउँछौ? – पक्कै!",
+      "en_example": "Are you coming? – Of course!"
+    },
+    {
+      "german": "glauben",
+      "english": "to believe",
+      "nepali": "विश्वास गर्नु",
+      "de_example": "Ich glaube, er kommt später.",
+      "np_example": "म विश्वास गर्छु, ऊ पछि आउँछ।",
+      "en_example": "I believe he’s coming later."
+    }
+  ],
+
+
+"Lektion 7":
+    [   
+  
+    {
+      "german": "der Arbeitsalltag",
+      "english": "workday / everyday work life",
+      "nepali": "काम गर्ने दैनिक जीवन",
+      "de_example": "Im Arbeitsalltag hat er viele Aufgaben.",
+      "np_example": "काम गर्ने दैनिक जीवनमा उसले धेरै कामहरू गर्छ।",
+      "en_example": "He has many tasks in his workday."
+    },
+    {
+      "german": "der Kollege",
+      "english": "colleague (male)",
+      "nepali": "सहकर्मी (पुरुष)",
+      "de_example": "Mein Kollege hilft mir oft.",
+      "np_example": "मेरो सहकर्मी मलाई प्रायः मद्दत गर्छ।",
+      "en_example": "My colleague often helps me."
+    },
+    {
+      "german": "die Kollegin",
+      "english": "colleague (female)",
+      "nepali": "सहकर्मी (महिला)",
+      "de_example": "Die Kollegin ist sehr freundlich.",
+      "np_example": "सहकर्मी महिला धेरै मैत्रीपूर्ण छ।",
+      "en_example": "The female colleague is very friendly."
+    },
+    {
+      "german": "die Pause",
+      "english": "break",
+      "nepali": "ब्रेक / विश्राम",
+      "de_example": "Wir machen um 10 Uhr eine Pause.",
+      "np_example": "हामी १० बजे विश्राम गर्छौँ।",
+      "en_example": "We take a break at 10 o’clock."
+    },
+    {
+      "german": "das Praktikum",
+      "english": "internship",
+      "nepali": "इन्टर्नशिप",
+      "de_example": "Ich mache ein Praktikum in einer Firma.",
+      "np_example": "म एक कम्पनीमा इन्टर्नशिप गर्दैछु।",
+      "en_example": "I am doing an internship at a company."
+    },
+    {
+      "german": "die Firma",
+      "english": "company",
+      "nepali": "कम्पनी",
+      "de_example": "Die Firma ist international.",
+      "np_example": "कम्पनी अन्तर्राष्ट्रिय छ।",
+      "en_example": "The company is international."
+    },
+    {
+      "german": "die Besprechung",
+      "english": "meeting",
+      "nepali": "बैठक",
+      "de_example": "Heute ist eine Besprechung um 14 Uhr.",
+      "np_example": "आज साढे दुई बजे बैठक छ।",
+      "en_example": "There is a meeting at 2 p.m. today."
+    },
+    {
+      "german": "der Urlaub",
+      "english": "vacation / holiday",
+      "nepali": "बिदा",
+      "de_example": "Ich habe nächste Woche Urlaub.",
+      "np_example": "मेरो अर्को हप्ता बिदा छ।",
+      "en_example": "I have vacation next week."
+    },
+    {
+      "german": "die Arbeitszeit",
+      "english": "working hours",
+      "nepali": "काम गर्ने समय",
+      "de_example": "Meine Arbeitszeit ist von 9 bis 17 Uhr.",
+      "np_example": "मको काम गर्ने समय बिहान ९ देखि ५ बजे सम्म हो।",
+      "en_example": "My working hours are from 9 to 5."
+    },
+    {
+      "german": "der Termin",
+      "english": "appointment",
+      "nepali": "समय मिलाउनु / भेटघाटको समय",
+      "de_example": "Ich habe einen Termin beim Arzt.",
+      "np_example": "म डाक्टरसँग भेटघाटको समय छ।",
+      "en_example": "I have a medical appointment."
+    },
+    {
+      "german": "annehmen",
+      "english": "to accept",
+      "nepali": "स्वीकार गर्नु",
+      "de_example": "Kannst du das Paket annehmen?",
+      "np_example": "के तिमी प्याकेज स्वीकार गर्न सक्छौ?",
+      "en_example": "Can you accept the package?"
+    },
+    {
+      "german": "mitnehmen",
+      "english": "to take along",
+      "nepali": "संगै लैजानु",
+      "de_example": "Ich nehme den Kaffee mit.",
+      "np_example": "म कफी सँगै लैजान्छु।",
+      "en_example": "I take the coffee with me."
+    },
+    {
+      "german": "das Paket",
+      "english": "package / parcel",
+      "nepali": "प्याकेज / पार्सल",
+      "de_example": "Das Paket kommt morgen.",
+      "np_example": "प्याकेज भोलि आउँछ।",
+      "en_example": "The package arrives tomorrow."
+    },
+    {
+      "german": "nach Hause",
+      "english": "to home",
+      "nepali": "घर तर्फ",
+      "de_example": "Ich gehe nach Hause.",
+      "np_example": "म घर तर्फ जान्छु।",
+      "en_example": "I am going home."
+    },
+    {
+      "german": "der Nachbar",
+      "english": "neighbor (male)",
+      "nepali": "छिमेकी (पुरुष)",
+      "de_example": "Mein Nachbar ist sehr nett.",
+      "np_example": "मेरो छिमेकी धेरै राम्रो छ।",
+      "en_example": "My neighbor is very nice."
+    },
+    {
+      "german": "das Sprachinstitut",
+      "english": "language institute",
+      "nepali": "भाषा संस्थान",
+      "de_example": "Ich lerne Deutsch im Sprachinstitut.",
+      "np_example": "म भाषा संस्थानमा जर्मन पढ्छु।",
+      "en_example": "I study German at the language institute."
+    },
+    {
+      "german": "denken",
+      "english": "to think",
+      "nepali": "सोच्नु",
+      "de_example": "Ich denke oft an meine Arbeit.",
+      "np_example": "म प्रायः मेरो कामबारे सोच्दछु।",
+      "en_example": "I often think about my work."
+    },
+    {
+      "german": "bleiben",
+      "english": "to stay / remain",
+      "nepali": "बस्नु / रहनु",
+      "de_example": "Ich bleibe heute länger im Büro.",
+      "np_example": "म आज कार्यालयमा ढिलो सम्म बस्छु।",
+      "en_example": "I stay longer at the office today."
+    },
+    {
+      "german": "bedeuten",
+      "english": "to mean",
+      "nepali": "अर्थ हुनु / जनाउनु",
+      "de_example": "Was bedeutet dieses Wort?",
+      "np_example": "यो शब्दको अर्थ के हो?",
+      "en_example": "What does this word mean?"
+    },
+    {
+      "german": "dauernd / dauern",
+      "english": "to last / continuous",
+      "nepali": "लगातार / समय लाग्नु",
+      "de_example": "Das Meeting dauert eine Stunde.",
+      "np_example": "बैठक एक घण्टा समय लाग्छ।",
+      "en_example": "The meeting lasts an hour."
+    },
+    {
+      "german": "leicht",
+      "english": "easy / light",
+      "nepali": "सजिलो / हल्का",
+      "de_example": "Die Aufgabe ist leicht.",
+      "np_example": "काम सजिलो छ।",
+      "en_example": "The task is easy."
+    },
+    {
+      "german": "schwer",
+      "english": "heavy / difficult",
+      "nepali": "गहिरो / कठिन",
+      "de_example": "Die Arbeit ist heute sehr schwer.",
+      "np_example": "आजको काम धेरै कठिन छ।",
+      "en_example": "The work is very difficult today."
+    },
+    {
+      "german": "die Einladung",
+      "english": "invitation",
+      "nepali": "आमन्त्रण",
+      "de_example": "Ich habe eine Einladung zur Party bekommen.",
+      "np_example": "मैले पार्टीको लागि आमन्त्रण पाएको छु।",
+      "en_example": "I received an invitation to the party."
+    },
+    {
+      "german": "der Tandempartner",
+      "english": "tandem partner (language exchange)",
+      "nepali": "टान्डेम पार्टनर (भाषा आदान‑प्रदान साथी)",
+      "de_example": "Mein Tandempartner hilft mir beim Deutschlernen.",
+      "np_example": "मेरो टान्डेम पार्टनरले मलाई जर्मन सिक्न मद्दत गर्छ।",
+      "en_example": "My tandem partner helps me learn German."
+    },
+    {
+      "german": "das Monatstreffen",
+      "english": "monthly meeting",
+      "nepali": "मासिक बैठक",
+      "de_example": "Das Monatstreffen ist am ersten Freitag.",
+      "np_example": "मासिक बैठक पहिलो शुक्रबार छ।",
+      "en_example": "The monthly meeting is on the first Friday."
+    },
+    {
+      "german": "das Mitglied",
+      "english": "member",
+      "nepali": "सदस्य",
+      "de_example": "Ich bin Mitglied im Verein.",
+      "np_example": "म क्लबको सदस्य हुँ।",
+      "en_example": "I am a member of the club."
+    },
+    {
+      "german": "anmelden",
+      "english": "to sign up / register",
+      "nepali": "दर्ता गर्नु / नाम सुम्पनु",
+      "de_example": "Ich möchte mich für den Kurs anmelden.",
+      "np_example": "म कक्षा लागि दर्ता गर्न चाहन्छु।",
+      "en_example": "I want to register for the course."
+    },
+    {
+      "german": "der Trainer / die Trainerin",
+      "english": "trainer (male/female)",
+      "nepali": "प्रशिक्षक / प्रशिक्षक (महिला)",
+      "de_example": "Die Trainerin erklärt die Regeln.",
+      "np_example": "प्रशिक्षकले नियमहरू बताइरहेकी छिन्।",
+      "en_example": "The trainer explains the rules."
+    },
+    {
+      "german": "Fitness‑Training",
+      "english": "fitness training",
+      "nepali": "फिटनेस प्रशिक्षण",
+      "de_example": "Ich gehe zweimal pro Woche zum Fitness‑Training.",
+      "np_example": "म हप्तामा दुई पटक फिटनेस प्रशिक्षण गर्छु।",
+      "en_example": "I go to fitness training twice a week."
+    },
+    {
+      "german": "abends",
+      "english": "in the evening",
+      "nepali": "साँझमा",
+      "de_example": "Abends treffe ich Freunde.",
+      "np_example": "साँझमा म साथीहरूलाई भेट्छु।",
+      "en_example": "In the evening I meet friends."
+    },
+    {
+      "german": "zur Arbeit",
+      "english": "to work",
+      "nepali": "काममा",
+      "de_example": "Ich gehe jeden Tag zur Arbeit.",
+      "np_example": "म हरेक दिन काममा जान्छु।",
+      "en_example": "I go to work every day."
+    },
+    {
+      "german": "der Ticketkauf",
+      "english": "ticket purchase",
+      "nepali": "टिकट किन्नु",
+      "de_example": "Beim Ticketkauf war viel los.",
+      "np_example": "टिकट किन्न धेरै भिड थियो।",
+      "en_example": "There was a lot going on at the ticket purchase."
+    },
+    {
+      "german": "bar zahlen",
+      "english": "to pay in cash",
+      "nepali": "नगद तिर्नु",
+      "de_example": "Kann ich bar zahlen?",
+      "np_example": "के म नगद तिर्न सक्छु?",
+      "en_example": "Can I pay in cash?"
+    },
+    {
+      "german": "das Konto",
+      "english": "bank account",
+      "nepali": "बैंक खाता",
+      "de_example": "Ich habe ein Konto bei der Bank.",
+      "np_example": "मसँग बैंकमा खाता छ।",
+      "en_example": "I have an account at the bank."
+    },
+    {
+      "german": "überweisen",
+      "english": "to transfer (money)",
+      "nepali": "पैसा स्थानान्तरण गर्नु",
+      "de_example": "Ich überweise das Geld heute.",
+      "np_example": "म आज पैसा स्थानान्तरण गर्छु।",
+      "en_example": "I transfer the money today."
+    },
+    {
+      "german": "die Kreditkarte",
+      "english": "credit card",
+      "nepali": "क्रेडिट कार्ड",
+      "de_example": "Ich bezahle mit der Kreditkarte.",
+      "np_example": "म क्रेडिट कार्डले तिर्छु।",
+      "en_example": "I pay with the credit card."
+    },
+    {
+      "german": "das Geld",
+      "english": "money",
+      "nepali": "पैसा",
+      "de_example": "Ich habe nicht genug Geld.",
+      "np_example": "मसँग पर्याप्त पैसा छैन।",
+      "en_example": "I don’t have enough money."
+    },
+    {
+      "german": "die Bank",
+      "english": "bank",
+      "nepali": "बैंक",
+      "de_example": "Ich gehe zur Bank.",
+      "np_example": "म बैंकमा जान्छु।",
+      "en_example": "I go to the bank."
+    },
+    {
+      "german": "die Kontonummer",
+      "english": "account number",
+      "nepali": "खातानम्बर",
+      "de_example": "Bitte geben Sie Ihre Kontonummer ein.",
+      "np_example": "कृपया आफ्नो खातानम्बर लेख्नुहोस्।",
+      "en_example": "Please enter your account number."
+    },
+    {
+      "german": "noch einmal",
+      "english": "once again",
+      "nepali": "फेरि एकपटक",
+      "de_example": "Können Sie das noch einmal sagen?",
+      "np_example": "के तपाईं यो फेरि भन्न सक्नुहुन्छ?",
+      "en_example": "Can you say that once again?"
+    },
+    {
+      "german": "bis dann",
+      "english": "see you then",
+      "nepali": "त्यो बेला भेटौँला",
+      "de_example": "Okay, bis dann!",
+      "np_example": "ठीक छ, त्यो बेला भेटौँला!",
+      "en_example": "Okay, see you then!"
+    },
+    {
+      "german": "doch",
+      "english": "on the contrary / yes (after no)",
+      "nepali": "तर / हो (पछि होइन)",
+      "de_example": "Doch, ich komme mit.",
+      "np_example": "हो, म सँगै आउँछु।",
+      "en_example": "Actually, I’m coming along."
+    }
+  ],
+
+
+
+"Lektion 8": [
+  
+    {
+      "german": "die Wohnung",
+      "english": "apartment",
+      "nepali": "अपार्टमेन्ट / घर",
+      "de_example": "Ich wohne in einer großen Wohnung.",
+      "np_example": "म ठूलो अपार्टमेन्टमा बस्छु।",
+      "en_example": "I live in a big apartment."
+    },
+    {
+      "german": "das Wohnzimmer",
+      "english": "living room",
+      "nepali": "बस्ने कोठा",
+      "de_example": "Im Wohnzimmer steht ein Sofa.",
+      "np_example": "बस्ने कोठामा सोफा छ।",
+      "en_example": "There is a sofa in the living room."
+    },
+    {
+      "german": "die Küche",
+      "english": "kitchen",
+      "nepali": "भान्सा",
+      "de_example": "Die Küche ist modern.",
+      "np_example": "भान्सा आधुनिक छ।",
+      "en_example": "The kitchen is modern."
+    },
+    {
+      "german": "das Schlafzimmer",
+      "english": "bedroom",
+      "nepali": "सुत्ने कोठा",
+      "de_example": "Mein Schlafzimmer ist blau.",
+      "np_example": "मेरो सुत्ने कोठा नीलो छ।",
+      "en_example": "My bedroom is blue."
+    },
+    {
+      "german": "das Badezimmer / das Bad",
+      "english": "bathroom",
+      "nepali": "बाथरूम",
+      "de_example": "Im Bad ist eine Dusche.",
+      "np_example": "बाथरूममा शावर छ।",
+      "en_example": "There is a shower in the bathroom."
+    },
+    {
+      "german": "der Flur",
+      "english": "hallway",
+      "nepali": "डरल",
+      "de_example": "Der Flur ist lang.",
+      "np_example": "डरल लामो छ।",
+      "en_example": "The hallway is long."
+    },
+    {
+      "german": "das Arbeitszimmer",
+      "english": "study / office room",
+      "nepali": "कार्य कक्ष",
+      "de_example": "Im Arbeitszimmer steht ein Schreibtisch.",
+      "np_example": "कार्य कक्षमा एउटा डेस्क छ।",
+      "en_example": "There’s a desk in the study."
+    },
+    {
+      "german": "der Balkon",
+      "english": "balcony",
+      "nepali": "बाल्कनी",
+      "de_example": "Wir sitzen oft auf dem Balkon.",
+      "np_example": "हाम्रो घरमा हामी प्रायः बाल्कनीमा बस्छौँ।",
+      "en_example": "We often sit on the balcony."
+    },
+    {
+      "german": "der Stuhl",
+      "english": "chair",
+      "nepali": "कुर्सी",
+      "de_example": "Bitte setz dich auf den Stuhl.",
+      "np_example": "कृपया कुर्सीमा बस्नुहोस्।",
+      "en_example": "Please sit on the chair."
+    },
+    {
+      "german": "das Regal",
+      "english": "shelf / shelving unit",
+      "nepali": "शेल्भ / अल्मारी",
+      "de_example": "Das Regal ist voll mit Büchern.",
+      "np_example": "शेल्भ किताबले भरिएको छ।",
+      "en_example": "The shelf is full of books."
+    },
+    {
+      "german": "der Schrank",
+      "english": "wardrobe / cupboard",
+      "nepali": "अल्मारी",
+      "de_example": "Im Schrank sind meine Kleider.",
+      "np_example": "अल्मारीमा मेरा कपडा छन्।",
+      "en_example": "My clothes are in the wardrobe."
+    },
+    {
+      "german": "das Sofa",
+      "english": "sofa / couch",
+      "nepali": "सोफा",
+      "de_example": "Wir sitzen auf dem Sofa.",
+      "np_example": "हामी सोफामा बस्छौँ।",
+      "en_example": "We are sitting on the sofa."
+    },
+    {
+      "german": "der Teppich",
+      "english": "carpet / rug",
+      "nepali": "कार्पेट",
+      "de_example": "Der Teppich ist sehr weich.",
+      "np_example": "कार्पेट धेरै नर्म छ।",
+      "en_example": "The carpet is very soft."
+    },
+    {
+      "german": "der Fernseher",
+      "english": "television",
+      "nepali": "टेलिभिजन",
+      "de_example": "Der Fernseher steht im Wohnzimmer.",
+      "np_example": "टेलिभिजन बस्ने कोठामा छ।",
+      "en_example": "The TV is in the living room."
+    },
+    {
+      "german": "die Lampe",
+      "english": "lamp / light",
+      "nepali": "बत्ती / लगाम्प",
+      "de_example": "Die Lampe ist hell.",
+      "np_example": "लाम्प उज्यालो छ।",
+      "en_example": "The lamp is bright."
+    },
+    {
+      "german": "die Spülmaschine",
+      "english": "dishwasher",
+      "nepali": "डिशवाशर",
+      "de_example": "Die Spülmaschine ist neu.",
+      "np_example": "डिशवाशर नयाँ छ।",
+      "en_example": "The dishwasher is new."
+    },
+    {
+      "german": "der Herd",
+      "english": "stove",
+      "nepali": "चुलो",
+      "de_example": "Der Herd ist heiß.",
+      "np_example": "चुलो तातो छ।",
+      "en_example": "The stove is hot."  
+    },
+    {
+      "german": "der Kühlschrank",
+      "english": "refrigerator",
+      "nepali": "फ्रिज / रेफ्रिजरेटर",
+      "de_example": "Im Kühlschrank ist Essen.",
+      "np_example": "फ्रिजमा खाना छ।",
+      "en_example": "There is food in the fridge."
+    },
+    {
+      "german": "die Waschmaschine",
+      "english": "washing machine",
+      "nepali": "धुनेको मेशिन",
+      "de_example": "Die Waschmaschine ist im Bad.",
+      "np_example": "धुनेको मेशिन बाथरूममा छ।",
+      "en_example": "The washing machine is in the bathroom."
+    },
+    {
+      "german": "das Bett",
+      "english": "bed",
+      "nepali": "ओछ्यान",
+      "de_example": "Ich lege mich ins Bett.",
+      "np_example": "म ओछ्यानमा सुतेँ।",
+      "en_example": "I’m lying down in the bed."
+    },
+    {
+      "german": "der Tisch",
+      "english": "table",
+      "nepali": "टेबल",
+      "de_example": "Der Tisch ist groß.",
+      "np_example": "टेबल ठूलो छ।",
+      "en_example": "The table is big."
+    },
+    {
+      "german": "das Regal",
+      "english": "shelf",
+      "nepali": "शेल्फ",
+      "de_example": "Auf dem Regal stehen Bücher.",
+      "np_example": "शेल्फमा किताबहरू छन्।",
+      "en_example": "Books are on the shelf."
+    },
+    {
+      "german": "der Kopf",
+      "english": "head",
+      "nepali": "टाउको",
+      "de_example": "Mein Kopf tut weh.",
+      "np_example": "मेरो टाउको दुख्यो।",
+      "en_example": "My head hurts."
+    },
+    {
+      "german": "die Nase",
+      "english": "nose",
+      "nepali": "नाक",
+      "de_example": "Die Nase ist klein.",
+      "np_example": "नाक सानो छ।",
+      "en_example": "The nose is small."
+    },
+    {
+      "german": "der Mund",
+      "english": "mouth",
+      "nepali": "मुख",
+      "de_example": "Bitte den Mund aufmachen.",
+      "np_example": "कृपया मुख खोल्नुहोस्।",
+      "en_example": "Please open your mouth."
+    },
+    {
+      "german": "das Auge",
+      "english": "eye",
+      "nepali": "आँखा",
+      "de_example": "Das Auge ist blau.",
+      "np_example": "आँखा नीलो छ।",
+      "en_example": "The eye is blue."
+    },
+    {
+      "german": "das Ohr",
+      "english": "ear",
+      "nepali": "कान",
+      "de_example": "Ich höre mit dem Ohr.",
+      "np_example": "म कानले सुन्छु।",
+      "en_example": "I hear with the ear."
+    },
+    {
+      "german": "der Zahn",
+      "english": "tooth",
+      "nepali": "दाँत",
+      "de_example": "Der Zahn tut weh.",
+      "np_example": "दाँत दुख्यो।",
+      "en_example": "The tooth hurts."
+    },
+    {
+      "german": "die Wohnung",
+      "english": "apartment",
+      "nepali": "अपार्टमेन्ट / घर",
+      "de_example": "Ich wohne in einer großen Wohnung.",
+      "np_example": "म ठूलो अपार्टमेन्टमा बस्छु।",
+      "en_example": "I live in a big apartment."
+    },
+    {
+      "german": "das Wohnzimmer",
+      "english": "living room",
+      "nepali": "बस्ने कोठा",
+      "de_example": "Im Wohnzimmer steht ein Sofa.",
+      "np_example": "बस्ने कोठामा सोफा छ।",
+      "en_example": "There is a sofa in the living room."
+    },
+    {
+      "german": "die Küche",
+      "english": "kitchen",
+      "nepali": "भान्सा",
+      "de_example": "Die Küche ist modern.",
+      "np_example": "भान्सा आधुनिक छ।",
+      "en_example": "The kitchen is modern."
+    },
+    {
+      "german": "das Schlafzimmer",
+      "english": "bedroom",
+      "nepali": "सुत्ने कोठा",
+      "de_example": "Mein Schlafzimmer ist blau.",
+      "np_example": "मेरो सुत्ने कोठा नीलो छ।",
+      "en_example": "My bedroom is blue."
+    },
+    {
+      "german": "das Badezimmer",
+      "english": "bathroom",
+      "nepali": "बाथरूम",
+      "de_example": "Im Bad ist eine Dusche.",
+      "np_example": "बाथरूममा शावर छ।",
+      "en_example": "There is a shower in the bathroom."
+    },
+    {
+      "german": "der Flur",
+      "english": "hallway",
+      "nepali": "डरल",
+      "de_example": "Der Flur ist lang.",
+      "np_example": "डरल लामो छ।",
+      "en_example": "The hallway is long."
+    },
+    {
+      "german": "der Balkon",
+      "english": "balcony",
+      "nepali": "बाल्कनी",
+      "de_example": "Wir sitzen oft auf dem Balkon.",
+      "np_example": "हाम्रो घरमा हामी प्रायः बाल्कनीमा बस्छौँ।",
+      "en_example": "We often sit on the balcony."
+    },
+    {
+      "german": "der Garten",
+      "english": "garden",
+      "nepali": "बगैँचा",
+      "de_example": "Im Garten sind Blumen.",
+      "np_example": "बगैँचामा फूलहरू छन्।",
+      "en_example": "There are flowers in the garden."
+    },
+    {
+      "german": "die Möbel",
+      "english": "furniture",
+      "nepali": "फर्निचर",
+      "de_example": "Die Möbel sind neu.",
+      "np_example": "फर्निचर नयाँ छ।",
+      "en_example": "The furniture is new."
+    },
+    {
+      "german": "der Tisch",
+      "english": "table",
+      "nepali": "टेबल",
+      "de_example": "Der Tisch ist groß.",
+      "np_example": "टेबल ठूलो छ।",
+      "en_example": "The table is big."
+    },
+    {
+      "german": "der Stuhl",
+      "english": "chair",
+      "nepali": "कुर्सी",
+      "de_example": "Bitte setz dich auf den Stuhl.",
+      "np_example": "कृपया कुर्सीमा बस्नुहोस्।",
+      "en_example": "Please sit on the chair."
+    },
+    {
+      "german": "das Bett",
+      "english": "bed",
+      "nepali": "ओछ्यान",
+      "de_example": "Ich lege mich ins Bett.",
+      "np_example": "म ओछ्यानमा सुतेँ।",
+      "en_example": "I lie down in the bed."
+    },
+    {
+      "german": "der Schrank",
+      "english": "wardrobe",
+      "nepali": "अल्मारी",
+      "de_example": "Im Schrank sind meine Kleider.",
+      "np_example": "अल्मारीमा मेरा कपडा छन्।",
+      "en_example": "My clothes are in the wardrobe."
+    },
+    {
+      "german": "die Lampe",
+      "english": "lamp",
+      "nepali": "बत्ती / लगाम्प",
+      "de_example": "Die Lampe ist hell.",
+      "np_example": "बत्ती उज्यालो छ।",
+      "en_example": "The lamp is bright."
+    },
+    {
+      "german": "der Fernseher",
+      "english": "television",
+      "nepali": "टेलिभिजन",
+      "de_example": "Der Fernseher steht im Wohnzimmer.",
+      "np_example": "टेलिभिजन बस्ने कोठामा छ।",
+      "en_example": "The TV is in the living room."
+    },
+    {
+      "german": "die Spülmaschine",
+      "english": "dishwasher",
+      "nepali": "डिशवाशर",
+      "de_example": "Die Spülmaschine ist neu.",
+      "np_example": "डिशवाशर नयाँ छ।",
+      "en_example": "The dishwasher is new."
+    },
+    {
+      "german": "der Herd",
+      "english": "stove",
+      "nepali": "चुलो",
+      "de_example": "Der Herd ist heiß.",
+      "np_example": "चुलो तातो छ।",
+      "en_example": "The stove is hot."
+    },
+    {
+      "german": "der Kühlschrank",
+      "english": "refrigerator",
+      "nepali": "फ्रिज / रेफ्रिजरेटर",
+      "de_example": "Im Kühlschrank ist Essen.",
+      "np_example": "फ्रिजमा खाना छ।",
+      "en_example": "There is food in the fridge."
+    },
+    {
+      "german": "die Waschmaschine",
+      "english": "washing machine",
+      "nepali": "धुनेको मेशिन",
+      "de_example": "Die Waschmaschine ist im Bad.",
+      "np_example": "धुनेको मेशिन बाथरूममा छ।",
+      "en_example": "The washing machine is in the bathroom."
+    },
+    {
+      "german": "aufräumen",
+      "english": "to tidy up / clean up",
+      "nepali": "सफा गर्नु / मिलाउनु",
+      "de_example": "Ich räume das Wohnzimmer auf.",
+      "np_example": "म बस्ने कोठा सफा गर्छु।",
+      "en_example": "I tidy up the living room."
+    },
+    {
+      "german": "putzen",
+      "english": "to clean",
+      "nepali": "सफा गर्नु",
+      "de_example": "Ich putze das Badezimmer.",
+      "np_example": "म बाथरूम सफा गर्छु।",
+      "en_example": "I clean the bathroom."
+    },
+    {
+      "german": "kochen",
+      "english": "to cook",
+      "nepali": "भान्सा गर्नु / खाना पकाउनु",
+      "de_example": "Ich koche das Abendessen.",
+      "np_example": "म साँझको खाना पकाउँछु।",
+      "en_example": "I cook dinner."
+    },
+    {
+      "german": "wohnen",
+      "english": "to live / reside",
+      "nepali": "बस्नु / बसोबास गर्नु",
+      "de_example": "Ich wohne in Berlin.",
+      "np_example": "म बर्लिनमा बस्छु।",
+      "en_example": "I live in Berlin."
+    },
+    {
+      "german": "der Kopf",
+      "english": "head",
+      "nepali": "टाउको",
+      "de_example": "Mein Kopf tut weh.",
+      "np_example": "मेरो टाउको दुख्यो।",
+      "en_example": "My head hurts."
+    },
+    {
+      "german": "die Hand",
+      "english": "hand",
+      "nepali": "हात",
+      "de_example": "Meine Hand ist kalt.",
+      "np_example": "मेरो हात चिसो छ।",
+      "en_example": "My hand is cold."
+    },
+    {
+      "german": "der Fuß",
+      "english": "foot",
+      "nepali": "खुट्टा",
+      "de_example": "Mein Fuß tut weh.",
+      "np_example": "मेरो खुट्टा दुख्यो।",
+      "en_example": "My foot hurts."
+    },
+    {
+      "german": "der Arm",
+      "english": "arm",
+      "nepali": "हात / बाँह",
+      "de_example": "Mein Arm ist lang.",
+      "np_example": "मेरो हात लामो छ।",
+      "en_example": "My arm is long."
+    },
+    {
+      "german": "der Bauch",
+      "english": "stomach",
+      "nepali": "पेट",
+      "de_example": "Mein Bauch tut weh.",
+      "np_example": "मेरो पेट दुख्यो।",
+      "en_example": "My stomach hurts."
+    }
+  ],
+
+
+
+"Lektion 9":  [
+    {
+      "german": "die Wohnung",
+      "english": "apartment / flat",
+      "nepali": "अपार्टमेन्ट / फ्ल्याट",
+      "de_example": "Ich suche eine neue Wohnung.",
+      "np_example": "म नयाँ अपार्टमेन्ट खोज्दैछु।",
+      "en_example": "I am looking for a new apartment."
+    },
+    {
+      "german": "das Hochhaus",
+      "english": "high‑rise building",
+      "nepali": "उच्च भवन",
+      "de_example": "Das Hochhaus hat viele Wohnungen.",
+      "np_example": "उच्च भवनमा धेरै फ्ल्याट छन्।",
+      "en_example": "The high‑rise building has many apartments."
+    },
+    {
+      "german": "die WG (Wohngemeinschaft)",
+      "english": "shared flat / flatshare",
+      "nepali": "साझा अपार्टमेन्ट",
+      "de_example": "Ich wohne in einer WG mit Freunden.",
+      "np_example": "म साथीहरूसँग साझा अपार्टमेन्टमा बस्छु।",
+      "en_example": "I live in a shared flat with friends."
+    },
+    {
+      "german": "das Reihenhaus",
+      "english": "terraced house / row house",
+      "nepali": "पङ्तिभवन / टाउनहाउस",
+      "de_example": "Unser Reihenhaus hat einen Garten.",
+      "np_example": "हाम्रो पङ्तिभवनसँग बगैँचा छ।",
+      "en_example": "Our row house has a garden."
+    },
+    {
+      "german": "der Raum",
+      "english": "room",
+      "nepali": "कोठा",
+      "de_example": "In der Wohnung gibt es viele Räume.",
+      "np_example": "फ्ल्याटमा धेरै कोठाहरू छन्।",
+      "en_example": "There are many rooms in the apartment."
+    },
+    {
+      "german": "die Dusche",
+      "english": "shower",
+      "nepali": "शावर",
+      "de_example": "Im Bad ist eine Dusche.",
+      "np_example": "बाथरूममा शावर छ।",
+      "en_example": "There is a shower in the bathroom."
+    },
+    {
+      "german": "die Terrasse",
+      "english": "terrace",
+      "nepali": "टेरेस / छाना",
+      "de_example": "Wir sitzen auf der Terrasse.",
+      "np_example": "हामी टेरेसमा बस्छौँ।",
+      "en_example": "We are sitting on the terrace."
+    },
+    {
+      "german": "die Treppe",
+      "english": "stairs",
+      "nepali": "ढोढी / खम्बा",
+      "de_example": "Die Treppe ist steil.",
+      "np_example": "ढोढी उकालो छ।",
+      "en_example": "The stairs are steep."
+    },
+    {
+      "german": "die Tür",
+      "english": "door",
+      "nepali": "ढोका",
+      "de_example": "Bitte die Tür schließen.",
+      "np_example": "कृपया ढोका बन्द गर्नुहोस्।",
+      "en_example": "Please close the door."  
+    },
+    {
+      "german": "die Decke",
+      "english": "ceiling / blanket",
+      "nepali": "छत / कम्बल",
+      "de_example": "Die Decke im Zimmer ist hoch.",
+      "np_example": "कोठाको छत अग्लो छ।",
+      "en_example": "The ceiling in the room is high."
+    },
+    {
+      "german": "das Erdgeschoss",
+      "english": "ground floor",
+      "nepali": "भुईँ तल्ला",
+      "de_example": "Wir wohnen im Erdgeschoss.",
+      "np_example": "हामी भुईँ तल्लामा बस्छौँ।",
+      "en_example": "We live on the ground floor."
+    },
+    {
+      "german": "das Zentrum",
+      "english": "center (of town)",
+      "nepali": "क Visiting=center",
+      "de_example": "Die Wohnung ist im Zentrum.",
+      "np_example": "फ्ल्याट सहरको केन्द्रमा छ।",
+      "en_example": "The apartment is in the center."  
+    },
+    {
+      "german": "die Miete",
+      "english": "rent",
+      "nepali": "भाडा",
+      "de_example": "Die Miete ist zu teuer.",
+      "np_example": "भाडा धेरै महँगो छ।",
+      "en_example": "The rent is too expensive."
+    },
+    {
+      "german": "der Wunsch",
+      "english": "wish / desire",
+      "nepali": "इच्छा",
+      "de_example": "Mein Wunsch ist eine große Terrasse.",
+      "np_example": "मेरो इच्छा ठूलो टेरेस पाउनु हो।",
+      "en_example": "My wish is to have a big terrace."
+    },
+    {
+      "german": "billig",
+      "english": "cheap",
+      "nepali": "सस्तो",
+      "de_example": "Die Wohnung ist billig.",
+      "np_example": "फ्ल्याट सस्तो छ।",
+      "en_example": "The apartment is cheap."
+    },
+    {
+      "german": "gemütlich",
+      "english": "cozy / comfortable",
+      "nepali": "आरामदायक",
+      "de_example": "Das Wohnzimmer ist gemütlich.",
+      "np_example": "बस्ने कोठा आरामदायक छ।",
+      "en_example": "The living room is cozy."
+    },
+    {
+      "german": "hell",
+      "english": "bright / light",
+      "nepali": "उज्यालो",
+      "de_example": "Die Küche ist hell.",
+      "np_example": "भान्सा उज्यालो छ।",
+      "en_example": "The kitchen is bright."
+    },
+    {
+      "german": "dunkel",
+      "english": "dark",
+      "nepali": "अँध्यारो",
+      "de_example": "Im Flur ist es dunkel.",
+      "np_example": "डरलमा अँध्यारो छ।",
+      "en_example": "It is dark in the hallway."
+    },
+    {
+      "german": "zwischen",
+      "english": "between / among",
+      "nepali": "बीचमा",
+      "de_example": "Der Tisch steht zwischen Stuhl und Sofa.",
+      "np_example": "टेबल कुर्सी र सोफाबीचमा छ।",
+      "en_example": "The table is between the chair and the sofa."
+    },
+    {
+      "german": "packen",
+      "english": "to pack",
+      "nepali": "प्याक गर्नु",
+      "de_example": "Wir packen die Kisten.",
+      "np_example": "हामी बक्सहरू प्याक गर्छौँ।",
+      "en_example": "We pack the boxes."
+    },
+    {
+      "german": "umziehen",
+      "english": "to move house",
+      "nepali": "स्थानान्तरण गर्नु / सरुवा हुनु",
+      "de_example": "Nächste Woche ziehen wir um.",
+      "np_example": "हामी अर्को हप्ता सर्नु हुनेछ।",
+      "en_example": "Next week we are moving."
+    },
+    {
+      "german": "unterschreiben",
+      "english": "to sign (a contract)",
+      "nepali": "हस्ताक्षर गर्नु",
+      "de_example": "Bitte den Vertrag unterschreiben.",
+      "np_example": "कृपया सम्झौतामा हस्ताक्षर गर्नुहोस्।",
+      "en_example": "Please sign the contract."
+    }, {
+      "german": "das Schlafzimmer",
+      "english": "bedroom",
+      "nepali": "सुत्ने कोठा",
+      "de_example": "Im Schlafzimmer steht ein Bett.",
+      "np_example": "सुत्ने कोठामा ओछ्यान छ।",
+      "en_example": "There is a bed in the bedroom."
+    },
+    {
+      "german": "das Kinderzimmer",
+      "english": "children's room",
+      "nepali": "बच्चाको कोठा",
+      "de_example": "Das Kinderzimmer ist bunt.",
+      "np_example": "बच्चाको कोठा रंगीन छ।",
+      "en_example": "The children’s room is colorful."
+    },
+    {
+      "german": "das Gästezimmer",
+      "english": "guest room",
+      "nepali": "अतिथि कोठा",
+      "de_example": "Wir haben ein Gästezimmer.",
+      "np_example": "हामीसँग अतिथि कोठा छ।",
+      "en_example": "We have a guest room."
+    },
+    {
+      "german": "die Kaffeemaschine",
+      "english": "coffee machine",
+      "nepali": "कफी मेसिन",
+      "de_example": "Die Kaffeemaschine steht in der Küche.",
+      "np_example": "कफी मेसिन भान्सामा छ।",
+      "en_example": "The coffee machine is in the kitchen."
+    },
+    {
+      "german": "der Sessel",
+      "english": "armchair",
+      "nepali": "आरामदायी कुर्सी",
+      "de_example": "Der Sessel ist bequem.",
+      "np_example": "आरामदायी कुर्सी आरामदायक छ।",
+      "en_example": "The armchair is comfortable."
+    },
+    {
+      "german": "die Kommode",
+      "english": "chest of drawers",
+      "nepali": "ड्रेसर",
+      "de_example": "In der Kommode sind meine Kleider.",
+      "np_example": "ड्रेसरमा मेरा कपडा छन्।",
+      "en_example": "My clothes are in the chest of drawers."
+    },
+    {
+      "german": "neben",
+      "english": "next to / beside",
+      "nepali": "छेउमा / पर्खालमा",
+      "de_example": "Der Tisch steht neben dem Sofa.",
+      "np_example": "टेबल सोफाको छेउमा छ।",
+      "en_example": "The table is next to the sofa."
+    },
+    {
+      "german": "unter",
+      "english": "under / beneath",
+      "nepali": "मुनि / तल",
+      "de_example": "Die Schuhe sind unter dem Bett.",
+      "np_example": "जूता ओछ्यानको मुनि छन्।",
+      "en_example": "The shoes are under the bed."
+    },
+    {
+      "german": "über",
+      "english": "over / above",
+      "nepali": "माथि / उपर",
+      "de_example": "Die Lampe hängt über dem Tisch.",
+      "np_example": "लाम्प टेबलको माथि झुकेको छ।",
+      "en_example": "The lamp hangs above the table."
+    },
+    {
+      "german": "zwischen",
+      "english": "between",
+      "nepali": "बीचमा",
+      "de_example": "Das Sofa steht zwischen zwei Fenstern.",
+      "np_example": "सोफा दुई झ्यालको बीचमा छ।",
+      "en_example": "The sofa is between two windows."
+    },
+    {
+      "german": "vor",
+      "english": "in front of",
+      "nepali": "अगाडि / सामु",
+      "de_example": "Der Stuhl steht vor dem Tisch.",
+      "np_example": "कुर्सी टेबलको अगाडि छ।",
+      "en_example": "The chair is in front of the table."
+    },
+    {
+      "german": "hinter",
+      "english": "behind",
+      "nepali": "पछाडि / पछाडिको",
+      "de_example": "Der Schrank steht hinter der Tür.",
+      "np_example": "अल्मारी ढोकाको पछाडि छ।",
+      "en_example": "The wardrobe is behind the door."
+    },
+    {
+      "german": "zwischen",
+      "english": "between",
+      "nepali": "बीचमा",
+      "de_example": "Der Teppich liegt zwischen den Sesseln.",
+      "np_example": "कार्पेट आरामदायी कुर्सीहरूको बीचमा छ।",
+      "en_example": "The carpet is between the armchairs."
+    },
+    {
+      "german": "einrichten",
+      "english": "to furnish / set up",
+      "nepali": "सजाउनु / साजसज्जा गर्नु",
+      "de_example": "Wir richten das neue Wohnzimmer ein.",
+      "np_example": "हामी नयाँ बस्ने कोठा सजाउँछौँ।",
+      "en_example": "We are furnishing the new living room."
+    },
+    {
+      "german": "mieten",
+      "english": "to rent",
+      "nepali": "भाडामा लिनु",
+      "de_example": "Wir mieten eine Wohnung in der Stadt.",
+      "np_example": "हामी शहरमा फ्ल्याट भाडामा लिन्छौँ।",
+      "en_example": "We rent an apartment in the city."
+    },
+    {
+      "german": "vermieten",
+      "english": "to rent out",
+      "nepali": "भाडामा दिनु",
+      "de_example": "Er vermietet seine Wohnung.",
+      "np_example": "उ आफ्नो फ्ल्याट भाडामा दिन्छ।",
+      "en_example": "He rents out his apartment."
+    },
+    {
+      "german": "umziehen",
+      "english": "to move house",
+      "nepali": "स्थानान्तरण गर्नु / सर्नु",
+      "de_example": "Nächste Woche ziehen wir um.",
+      "np_example": "हामी अर्को हप्ता सर्छौँ।",
+      "en_example": "Next week we move house."
+    },
+    {
+      "german": "die Kaution",
+      "english": "deposit / security",
+      "nepali": "जमानत / सुरक्षित रकम",
+      "de_example": "Die Kaution beträgt 500 Euro.",
+      "np_example": "जमानत ५०० यूरो छ।",
+      "en_example": "The deposit is 500 euros."
+    },
+    {
+      "german": "die Nebenkosten",
+      "english": "additional costs / utilities",
+      "nepali": "अतिरिक्त खर्च / युटिलिटी",
+      "de_example": "Die Nebenkosten sind hoch.",
+      "np_example": "अतिरिक्त खर्च धेरै छ।",
+      "en_example": "The additional costs are high."
+    },
+    {
+      "german": "der Vermieter",
+      "english": "landlord",
+      "nepali": "मालिक / घरधनी",
+      "de_example": "Der Vermieter ist nett.",
+      "np_example": "मालिक राम्रो छ।",
+      "en_example": "The landlord is nice."
+    },
+    {
+      "german": "die Vermieterin",
+      "english": "landlady",
+      "nepali": "महिला मालिक / घरधनी",
+      "de_example": "Die Vermieterin wohnt nebenan.",
+      "np_example": "महिला मालिक छेउमा बस्छिन्।",
+      "en_example": "The landlady lives next door."
+    }
+  ],
+
+
+
+"Lektion 10": [
+    {
+      "german": "die Kleidung",
+      "english": "clothing",
+      "nepali": "लुगाफाटा",
+      "de_example": "Im Geschäft gibt es viele Arten von Kleidung.",
+      "np_example": "दुकानमा धेरै प्रकारका लुगाफाटा छन्।",
+      "en_example": "There are many types of clothing in the shop."
+    },
+    {
+      "german": "die Mode",
+      "english": "fashion",
+      "nepali": "फेशन",
+      "de_example": "Mode ändert sich jedes Jahr.",
+      "np_example": "फेशन प्रत्येक वर्ष बदलिन्छ।",
+      "en_example": "Fashion changes every year."
+    },
+    {
+      "german": "der Anzug",
+      "english": "suit",
+      "nepali": "सल्ट / सूट",
+      "de_example": "Er trägt einen schwarzen Anzug.",
+      "np_example": "ऊ कालो सल्ट लगाएको छ।",
+      "en_example": "He is wearing a black suit."
+    },
+    {
+      "german": "das Hemd",
+      "english": "shirt",
+      "nepali": "शर्ट",
+      "de_example": "Das Hemd ist sauber.",
+      "np_example": "शर्ट सफा छ।",
+      "en_example": "The shirt is clean."
+    },
+    {
+      "german": "das Kleid",
+      "english": "dress",
+      "nepali": "ड्रेस",
+      "de_example": "Das Kleid gefällt mir sehr.",
+      "np_example": "मलाई त्यो ड्रेस धेरै मन पर्छ।",
+      "en_example": "I really like that dress."
+    },
+    {
+      "german": "die Jeans",
+      "english": "jeans",
+      "nepali": "जीन्स",
+      "de_example": "Ich trage gern Jeans.",
+      "np_example": "म जीन्स लगाउन मन पर्छ।",
+      "en_example": "I like wearing jeans."
+    },
+    {
+      "german": "die Jacke",
+      "english": "jacket",
+      "nepali": "ज्याकेट",
+      "de_example": "Im Herbst brauche ich eine Jacke.",
+      "np_example": "शरद ऋतुमा मलाई ज्याकेटको आवश्यक पर्छ।",
+      "en_example": "In autumn I need a jacket."
+    },
+    {
+      "german": "der Mantel",
+      "english": "coat",
+      "nepali": "कोट",
+      "de_example": "Der Mantel ist warm.",
+      "np_example": "कोट तातो छ।",
+      "en_example": "The coat is warm."
+    },
+    {
+      "german": "der Pullover",
+      "english": "sweater",
+      "nepali": "स्वेटर",
+      "de_example": "Im Winter trage ich einen Pullover.",
+      "np_example": "जाडोमा म स्वेटर लगाउँछु।",
+      "en_example": "In winter I wear a sweater."
+    },
+    {
+      "german": "der Rock",
+      "english": "skirt",
+      "nepali": "स्कर्ट",
+      "de_example": "Der Rock ist zu kurz.",
+      "np_example": "स्कर्ट धेरै छोटो छ।",
+      "en_example": "The skirt is too short."
+    },
+    {
+      "german": "die Bluse",
+      "english": "blouse",
+      "nepali": "ब्लाउज",
+      "de_example": "Die Bluse passt gut zu der Hose.",
+      "np_example": "ब्लाउज पाइन्टसँग राम्रो मिल्छ।",
+      "en_example": "The blouse goes well with the pants."
+    },
+    {
+      "german": "das Sweatshirt",
+      "english": "sweatshirt",
+      "nepali": "स्वेटशर्ट",
+      "de_example": "Das Sweatshirt ist bequem.",
+      "np_example": "स्वेटशर्ट आरामदायक छ।",
+      "en_example": "The sweatshirt is comfortable."
+    },
+    {
+      "german": "das T-Shirt",
+      "english": "T‑shirt",
+      "nepali": "टी‑शर्ट",
+      "de_example": "Mein T‑Shirt ist weiß.",
+      "np_example": "मेरो टी‑शर्ट सेतो छ।",
+      "en_example": "My T‑shirt is white."
+    },
+    {
+      "german": "die Socke",
+      "english": "sock",
+      "nepali": "मोज़ा",
+      "de_example": "Ich habe neue Socken gekauft.",
+      "np_example": "मैले नयाँ मोज़ा किनें।",
+      "en_example": "I bought new socks."
+    },
+    {
+      "german": "der Schuh",
+      "english": "shoe",
+      "nepali": "जुत्ता",
+      "de_example": "Mein Schuh ist kaputt.",
+      "np_example": "मेरो जुत्ता फुटेको छ।",
+      "en_example": "My shoe is broken."
+    },
+    {
+      "german": "der Stiefel",
+      "english": "boot",
+      "nepali": "बुट",
+      "de_example": "Im Winter trage ich Stiefel.",
+      "np_example": "जाडोमा म बुट लगाउँछु।",
+      "en_example": "In winter I wear boots."
+    },
+    {
+      "german": "der Gürtel",
+      "english": "belt",
+      "nepali": "पट्टियो",
+      "de_example": "Der Gürtel ist aus Leder.",
+      "np_example": "पट्टियो छाला बाट बनेको छ।",
+      "en_example": "The belt is made of leather."
+    },
+    {
+      "german": "die Mütze",
+      "english": "cap / beanie",
+      "nepali": "टोपी",
+      "de_example": "Im Winter trage ich eine Mütze.",
+      "np_example": "जाडोमा म टोपी लगाउँछु।",
+      "en_example": "In winter I wear a cap."
+    },
+    {
+      "german": "die Strümpfe",
+      "english": "stockings / long socks",
+      "nepali": "लामो मोज़ा",
+      "de_example": "Sie trägt bunte Strümpfe.",
+      "np_example": "उनले रंगीन लामो मोज़ा लगाएकी छिन्।",
+      "en_example": "She is wearing colorful long socks."
+    },
+    {
+      "german": "der Katalog",
+      "english": "catalog",
+      "nepali": "क्याटलग",
+      "de_example": "Im Katalog sehe ich die neuen Modelle.",
+      "np_example": "क्याटलगमा नयाँ मोडेलहरू देख्छु।",
+      "en_example": "I see the new models in the catalog."
+    },
+    {
+      "german": "das Kaufhaus",
+      "english": "department store",
+      "nepali": "डिपार्टमेन्ट स्टोर",
+      "de_example": "Wir gehen ins Kaufhaus zum Einkaufen.",
+      "np_example": "हामी किनमेलका लागि डिपार्टमेन्ट स्टोर जान्छौँ।",
+      "en_example": "We go to the department store to shop."
+    },
+    {
+      "german": "das Kleidungsstück",
+      "english": "article of clothing",
+      "nepali": "लुगाफाटाको सामान",
+      "de_example": "Welches Kleidungsstück magst du?",
+      "np_example": "तिमी कस्तो लुगाफाटाको सामान मन पर्छ?",
+      "en_example": "Which article of clothing do you like?"
+    },
+    {
+      "german": "anziehen",
+      "english": "to put on (clothes)",
+      "nepali": "लगाउनु",
+      "de_example": "Ich ziehe das Hemd an.",
+      "np_example": "म शर्ट लगाउँदैछु।",
+      "en_example": "I am putting on the shirt."
+    },
+    {
+      "german": "ausziehen",
+      "english": "to take off (clothes)",
+      "nepali": "फाल्नु / खोल्नु",
+      "de_example": "Bitte zieh die Jacke aus.",
+      "np_example": "कृपया ज्याकेट खोल्नुहोस्।",
+      "en_example": "Please take off the jacket."
+    },
+    {
+      "german": "passen",
+      "english": "to fit",
+      "nepali": "फिट हुनु / मिल्नु",
+      "de_example": "Die Hose passt gut.",
+      "np_example": "पाइन्ट राम्रो सँग मिल्छ।",
+      "en_example": "The pants fit well."
+    },
+    {
+      "german": "probieren",
+      "english": "to try on",
+      "nepali": "ट्राइ गर्नु",
+      "de_example": "Ich probiere den Pullover an.",
+      "np_example": "म स्वेटर ट्राइ गर्दैछु।",
+      "en_example": "I am trying on the sweater."
+    },
+    {
+      "german": "zu teuer",
+      "english": "too expensive",
+      "nepali": "धेरै महँगो",
+      "de_example": "Das T‑Shirt ist zu teuer.",
+      "np_example": "टी‑शर्ट धेरै महँगो छ।",
+      "en_example": "The T‑shirt is too expensive."
+    },
+    {
+      "german": "schön",
+      "english": "beautiful / nice",
+      "nepali": "सुन्दर / राम्रो",
+      "de_example": "Dein Kleid sieht schön aus.",
+      "np_example": "तिम्रो ड्रेस सुन्दर देखिन्छ।",
+      "en_example": "Your dress looks beautiful."
+    }, {
+      "german": "die Kleidung",
+      "english": "clothing",
+      "nepali": "लुगाफाटा",
+      "de_example": "Im Geschäft gibt es viele Arten von Kleidung.",
+      "np_example": "दुकानमा धेरै प्रकारका लुगाफाटा छन्।",
+      "en_example": "There are many types of clothing in the shop."
+    },
+    {
+      "german": "das T-Shirt",
+      "english": "T‑shirt",
+      "nepali": "टी‑शर्ट",
+      "de_example": "Mein T‑Shirt ist weiß.",
+      "np_example": "मेरो टी‑शर्ट सेतो छ।",
+      "en_example": "My T‑shirt is white."
+    },
+    {
+      "german": "die Hose",
+      "english": "pants / trousers",
+      "nepali": "पाइन्ट",
+      "de_example": "Die Hose ist zu lang.",
+      "np_example": "पाइन्ट धेरै लामो छ।",
+      "en_example": "The pants are too long."
+    },
+    {
+      "german": "die Jeans",
+      "english": "jeans",
+      "nepali": "जीन्स",
+      "de_example": "Ich trage gern Jeans.",
+      "np_example": "म जीन्स लगाउन मन पर्छ।",
+      "en_example": "I like wearing jeans."
+    },
+    {
+      "german": "das Kleid",
+      "english": "dress",
+      "nepali": "ड्रेस",
+      "de_example": "Das Kleid gefällt mir sehr.",
+      "np_example": "मलाई त्यो ड्रेस धेरै मन पर्छ।",
+      "en_example": "I really like that dress."
+    },
+    {
+      "german": "der Rock",
+      "english": "skirt",
+      "nepali": "स्कर्ट",
+      "de_example": "Der Rock ist zu kurz.",
+      "np_example": "स्कर्ट धेरै छोटो छ।",
+      "en_example": "The skirt is too short."
+    },
+    {
+      "german": "die Bluse",
+      "english": "blouse",
+      "nepali": "ब्लाउज",
+      "de_example": "Die Bluse passt gut zu der Hose.",
+      "np_example": "ब्लाउज पाइन्टसँग राम्रो मिल्छ।",
+      "en_example": "The blouse goes well with the pants."
+    },
+    {
+      "german": "der Pullover",
+      "english": "sweater",
+      "nepali": "स्वेटर",
+      "de_example": "Im Winter trage ich einen Pullover.",
+      "np_example": "जाडोमा म स्वेटर लगाउँछु।",
+      "en_example": "In winter I wear a sweater."
+    },
+    {
+      "german": "das Sweatshirt",
+      "english": "sweatshirt",
+      "nepali": "स्वेटशर्ट",
+      "de_example": "Das Sweatshirt ist bequem.",
+      "np_example": "स्वेटशर्ट आरामदायक छ।",
+      "en_example": "The sweatshirt is comfortable."
+    },
+    {
+      "german": "die Jacke",
+      "english": "jacket",
+      "nepali": "ज्याकेट",
+      "de_example": "Im Herbst brauche ich eine Jacke.",
+      "np_example": "शरद ऋतुमा मलाई ज्याकेटको आवश्यक पर्छ।",
+      "en_example": "In autumn I need a jacket."
+    },
+    {
+      "german": "der Mantel",
+      "english": "coat",
+      "nepali": "कोट",
+      "de_example": "Der Mantel ist warm.",
+      "np_example": "कोट तातो छ।",
+      "en_example": "The coat is warm."
+    },
+    {
+      "german": "der Anzug",
+      "english": "suit",
+      "nepali": "सल्ट / सूट",
+      "de_example": "Er trägt einen schwarzen Anzug.",
+      "np_example": "ऊ कालो सल्ट लगाएको छ।",
+      "en_example": "He is wearing a black suit."
+    },
+    {
+      "german": "die Schuhe",
+      "english": "shoes",
+      "nepali": "जुत्ता",
+      "de_example": "Ich habe neue Schuhe gekauft.",
+      "np_example": "मैले नयाँ जुत्ता किनें।",
+      "en_example": "I bought new shoes."
+    },
+    {
+      "german": "der Stiefel",
+      "english": "boot",
+      "nepali": "बुट",
+      "de_example": "Im Winter trage ich Stiefel.",
+      "np_example": "जाडोमा म बुट लगाउँछु।",
+      "en_example": "In winter I wear boots."
+    },
+    {
+      "german": "die Socke",
+      "english": "sock",
+      "nepali": "मोज़ा",
+      "de_example": "Ich habe neue Socken gekauft.",
+      "np_example": "मैले नयाँ मोज़ा किनें।",
+      "en_example": "I bought new socks."
+    },
+    {
+      "german": "die Strümpfe",
+      "english": "stockings / long socks",
+      "nepali": "लामो मोज़ा",
+      "de_example": "Sie trägt bunte Strümpfe.",
+      "np_example": "उनले रंगीन लामो मोज़ा लगाएकी छिन्।",
+      "en_example": "She is wearing colorful long socks."
+    },
+    {
+      "german": "die Mütze",
+      "english": "cap / beanie",
+      "nepali": "टोपी",
+      "de_example": "Im Winter trage ich eine Mütze.",
+      "np_example": "जाडोमा म टोपी लगाउँछु।",
+      "en_example": "In winter I wear a cap."
+    },
+    {
+      "german": "der Schal",
+      "english": "scarf",
+      "nepali": "स्कार्फ / रुमाल",
+      "de_example": "Der Schal ist rot.",
+      "np_example": "स्कार्फ रातो छ।",
+      "en_example": "The scarf is red."
+    },
+    {
+      "german": "der Handschuh",
+      "english": "glove",
+      "nepali": "पन्जा",
+      "de_example": "Die Handschuhe sind warm.",
+      "np_example": "पन्जा तातो छन्।",
+      "en_example": "The gloves are warm."
+    },
+    {
+      "german": "der Gürtel",
+      "english": "belt",
+      "nepali": "पट्टियो",
+      "de_example": "Der Gürtel ist aus Leder.",
+      "np_example": "पट्टियो छाला बाट बनेको छ।",
+      "en_example": "The belt is made of leather."
+    },
+    {
+      "german": "die Tasche",
+      "english": "bag / purse",
+      "nepali": "झोला / ब्याग",
+      "de_example": "Ich habe eine neue Tasche gekauft.",
+      "np_example": "मैले नयाँ झोला किनें।",
+      "en_example": "I bought a new bag."
+    },
+    {
+      "german": "die Brille",
+      "english": "glasses",
+      "nepali": "चस्मा",
+      "de_example": "Die Brille ist teuer.",
+      "np_example": "चस्मा महँगो छ।",
+      "en_example": "The glasses are expensive."
+    },
+    {
+      "german": "die Kette",
+      "english": "necklace",
+      "nepali": "हार",
+      "de_example": "Die Kette ist schön.",
+      "np_example": "हार सुन्दर छ।",
+      "en_example": "The necklace is beautiful."
+    },
+    {
+      "german": "der Ring",
+      "english": "ring",
+      "nepali": "औंठी",
+      "de_example": "Der Ring ist aus Gold.",
+      "np_example": "औंठी सुनबाट बनेको छ।",
+      "en_example": "The ring is made of gold."
+    },
+    {
+      "german": "anziehen",
+      "english": "to put on (clothes)",
+      "nepali": "लगाउनु",
+      "de_example": "Ich ziehe das Hemd an.",
+      "np_example": "म शर्ट लगाउँदैछु।",
+      "en_example": "I am putting on the shirt."
+    },
+    {
+      "german": "ausziehen",
+      "english": "to take off (clothes)",
+      "nepali": "फाल्नु / खोल्नु",
+      "de_example": "Bitte zieh die Jacke aus.",
+      "np_example": "कृपया ज्याकेट खोल्नुहोस्।",
+      "en_example": "Please take off the jacket."
+    },
+    {
+      "german": "probieren",
+      "english": "to try on",
+      "nepali": "ट्राइ गर्नु",
+      "de_example": "Ich probiere den Pullover an.",
+      "np_example": "म स्वेटर ट्राइ गर्दैछु।",
+      "en_example": "I am trying on the sweater."
+    },
+    {
+      "german": "passen",
+      "english": "to fit",
+      "nepali": "फिट हुनु / मिल्नु",
+      "de_example": "Die Hose passt gut.",
+      "np_example": "पाइन्ट राम्रो सँग मिल्छ।",
+      "en_example": "The pants fit well."
+    },
+    {
+      "german": "zu groß",
+      "english": "too big",
+      "nepali": "धेरै ठूलो",
+      "de_example": "Das T-Shirt ist zu groß.",
+      "np_example": "टी‑शर्ट धेरै ठूलो छ।",
+      "en_example": "The T‑shirt is too big."
+    },
+    {
+      "german": "zu klein",
+      "english": "too small",
+      "nepali": "धेरै सानो",
+      "de_example": "Der Pullover ist zu klein.",
+      "np_example": "स्वेटर धेरै सानो छ।",
+      "en_example": "The sweater is too small."
+    },
+    {
+      "german": "kurz",
+      "english": "short",
+      "nepali": "छोटो",
+      "de_example": "Der Rock ist kurz.",
+      "np_example": "स्कर्ट छोटो छ।",
+      "en_example": "The skirt is short."
+    },
+    {
+      "german": "lang",
+      "english": "long",
+      "nepali": "लामो",
+      "de_example": "Die Hose ist lang.",
+      "np_example": "पाइन्ट लामो छ।",
+      "en_example": "The pants are long."
+    },
+    {
+      "german": "teuer",
+      "english": "expensive",
+      "nepali": "महँगो",
+      "de_example": "Die Jacke ist teuer.",
+      "np_example": "ज्याकेट महँगो छ।",
+      "en_example": "The jacket is expensive."
+    },
+    {
+      "german": "billig",
+      "english": "cheap",
+      "nepali": "सस्तो",
+      "de_example": "Die Socken sind billig.",
+      "np_example": "मोज़ा सस्तो छ।",
+      "en_example": "The socks are cheap."
+    },
+    {
+      "german": "aus Baumwolle",
+      "english": "made of cotton",
+      "nepali": "कपास बाट बनेको",
+      "de_example": "Das T-Shirt ist aus Baumwolle.",
+      "np_example": "टी‑शर्ट कपास बाट बनेको छ।",
+      "en_example": "The T‑shirt is made of cotton."
+    },
+    {
+      "german": "aus Leder",
+      "english": "made of leather",
+      "nepali": "छाला बाट बनेको",
+      "de_example": "Der Gürtel ist aus Leder.",
+      "np_example": "पट्टियो छाला बाट बनेको छ।",
+      "en_example": "The belt is made of leather."
+    },
+    {
+      "german": "mit Muster",
+      "english": "with a pattern / printed",
+      "nepali": "प्याटर्न / डिजाइन भएको",
+      "de_example": "Die Bluse ist mit Muster.",
+      "np_example": "ब्लाउज डिजाइन भएको छ।",
+      "en_example": "The blouse has a pattern."
+    },
+    {
+      "german": "einfarbig",
+      "english": "plain / one color",
+      "nepali": "एकरंगी / साधारण रंगको",
+      "de_example": "Die Hose ist einfarbig.",
+      "np_example": "पाइन्ट एकरंगी छ।",
+      "en_example": "The pants are plain."
+    }
+  ],
+
+
+
+"Lektion 11": 
+  [
+    {
+      "german": "die Kleidung",
+      "english": "clothing",
+      "nepali": "लुगाफाटा",
+      "de_example": "Ich brauche neue Kleidung.",
+      "np_example": "मलाई नयाँ लुगाफाटा चाहिन्छ।",
+      "en_example": "I need new clothing."
+    },
+    {
+      "german": "die Klamotten",
+      "english": "clothes (informal)",
+      "nepali": "लुगाफाटा (अनौपचारिक)",
+      "de_example": "Ich finde deine Klamotten cool.",
+      "np_example": "म तिम्रा लुगाफाटा कूल लाग्छ।",
+      "en_example": "I think your clothes are cool."
+    },
+    {
+      "german": "die Hose",
+      "english": "pants / trousers",
+      "nepali": "पाइन्ट",
+      "de_example": "Die Hose steht dir gut.",
+      "np_example": "पाइन्ट तिमीलाई राम्रो लाग्छ।",
+      "en_example": "The pants suit you well."
+    },
+    {
+      "german": "die Jeans",
+      "english": "jeans",
+      "nepali": "जीन्स",
+      "de_example": "Ich trage gern Jeans.",
+      "np_example": "म जीन्स लगाउन मन पर्छ।",
+      "en_example": "I like wearing jeans."
+    },
+    {
+      "german": "das T‑Shirt",
+      "english": "T‑shirt",
+      "nepali": "टी‑शर्ट",
+      "de_example": "Das T-Shirt ist zu eng.",
+      "np_example": "टी‑शर्ट धेरै टाइट छ।",
+      "en_example": "The T‑shirt is too tight."
+    },
+    {
+      "german": "das Hemd",
+      "english": "shirt",
+      "nepali": "शर्ट",
+      "de_example": "Das Hemd ist sauber.",
+      "np_example": "शर्ट सफा छ।",
+      "en_example": "The shirt is clean."
+    },
+    {
+      "german": "der Pullover",
+      "english": "sweater",
+      "nepali": "स्वेटर",
+      "de_example": "Im Winter trage ich einen Pullover.",
+      "np_example": "जाडोमा म स्वेटर लगाउँछु।",
+      "en_example": "In winter I wear a sweater."
+    },
+    {
+      "german": "der Pulli",
+      "english": "light sweater / jumper",
+      "nepali": "हल्का स्वेटर",
+      "de_example": "Der Pulli ist bequem.",
+      "np_example": "हल्का स्वेटर आरामदायक छ।",
+      "en_example": "The jumper is comfortable."
+    },
+    {
+      "german": "das Sweatshirt",
+      "english": "sweatshirt",
+      "nepali": "स्वेटशर्ट",
+      "de_example": "Das Sweatshirt ist cool.",
+      "np_example": "स्वेटशर्ट कूल छ।",
+      "en_example": "The sweatshirt is cool."
+    },
+    {
+      "german": "der Rock",
+      "english": "skirt",
+      "nepali": "स्कर्ट",
+      "de_example": "Der Rock ist zu kurz.",
+      "np_example": "स्कर्ट धेरै छोटो छ।",
+      "en_example": "The skirt is too short."
+    },
+    {
+      "german": "das Kleid",
+      "english": "dress",
+      "nepali": "ड्रेस",
+      "de_example": "Das Kleid gefällt mir.",
+      "np_example": "मलाई ड्रेस मन पर्छ।",
+      "en_example": "I like the dress."
+    },
+    {
+      "german": "der Anzug",
+      "english": "suit",
+      "nepali": "सल्ट / सूट",
+      "de_example": "Ein Anzug ist für die Party perfekt.",
+      "np_example": "पार्टीको लागि सल्ट उत्तम छ।",
+      "en_example": "A suit is perfect for the party."
+    },
+    {
+      "german": "die Krawatte",
+      "english": "tie",
+      "nepali": "क्य्रबेट",
+      "de_example": "Die Krawatte ist elegant.",
+      "np_example": "क्य्रबेट सुरुचिपूर्ण छ।",
+      "en_example": "The tie is elegant."
+    },
+    {
+      "german": "der Mantel",
+      "english": "coat",
+      "nepali": "कोट",
+      "de_example": "Der Mantel hält warm.",
+      "np_example": "कोटले तातो राख्छ।",
+      "en_example": "The coat keeps warm."
+    },
+    {
+      "german": "die Jacke",
+      "english": "jacket",
+      "nepali": "ज्याकेट",
+      "de_example": "Die Jacke gefällt mir.",
+      "np_example": "मलाई ज्याकेट मन पर्छ।",
+      "en_example": "I like the jacket."  
+    },
+    {
+      "german": "der Schuh",
+      "english": "shoe",
+      "nepali": "जुत्ता",
+      "de_example": "Die Schuhe sind neu.",
+      "np_example": "जुत्ता नयाँ छन्।",
+      "en_example": "The shoes are new."
+    },
+    {
+      "german": "der Stiefel",
+      "english": "boot",
+      "nepali": "बुट",
+      "de_example": "Im Winter trage ich Stiefel.",
+      "np_example": "जाडोमा म बुट लगाउँछु।",
+      "en_example": "In winter I wear boots."
+    },
+    {
+      "german": "die Mütze",
+      "english": "hat / beanie",
+      "nepali": "टोपी",
+      "de_example": "Die Mütze ist warm.",
+      "np_example": "टोपी तातो छ।",
+      "en_example": "The cap is warm."
+    },
+    {
+      "german": "der Schal",
+      "english": "scarf",
+      "nepali": "स्कार्फ",
+      "de_example": "Der Schal ist rot.",
+      "np_example": "स्कार्फ रातो छ।",
+      "en_example": "The scarf is red."
+    },
+    {
+      "german": "das Tuch",
+      "english": "cloth / scarf",
+      "nepali": "तुढ / रुमाल",
+      "de_example": "Das Tuch ist elegant.",
+      "np_example": "तुढ सुरुचिपूर्ण छ।",
+      "en_example": "The cloth is elegant."
+    },
+    {
+      "german": "die Tasche",
+      "english": "bag",
+      "nepali": "झोला",
+      "de_example": "Ich nehme meine Tasche.",
+      "np_example": "म मेरो झोला लिन्छु।",
+      "en_example": "I take my bag."
+    },
+    {
+      "german": "die Mode",
+      "english": "fashion",
+      "nepali": "फेशन",
+      "de_example": "Mode ändert sich oft.",
+      "np_example": "फेशन प्राय बदलिन्छ।",
+      "en_example": "Fashion changes often."
+    },
+    {
+      "german": "bequem",
+      "english": "comfortable",
+      "nepali": "आरामदायक",
+      "de_example": "Die Schuhe sind bequem.",
+      "np_example": "जुत्ता आरामदायक छन्।",
+      "en_example": "The shoes are comfortable."
+    },
+    {
+      "german": "kaputt",
+      "english": "broken",
+      "nepali": "फुटेको / खराब",
+      "de_example": "Der Reißverschluss ist kaputt.",
+      "np_example": "रिभर खराब छ।",
+      "en_example": "The zipper is broken."
+    },
+    {
+      "german": "doof",
+      "english": "stupid / silly",
+      "nepali": "बेवकूफ / अजीब",
+      "de_example": "Das ist eine doofe Idee.",
+      "np_example": "यो बेवकूफ विचार हो।",
+      "en_example": "That is a silly idea."
+    },
+    {
+      "german": "eng",
+      "english": "tight / narrow",
+      "nepali": "टाइट / सङ्घर्ष",
+      "de_example": "Die Hose ist zu eng.",
+      "np_example": "पाइन्ट धेरै टाइट छ।",
+      "en_example": "The pants are too tight."
+    },
+    {
+      "german": "weit",
+      "english": "loose / wide",
+      "nepali": "फैलीएको / ठूलो",
+      "de_example": "Das T-Shirt ist zu weit.",
+      "np_example": "टी‑शर्ट धेरै ठूलो छ।",
+      "en_example": "The T‑shirt is too loose."
+    },
+    {
+      "german": "fallen (gefallen)",
+      "english": "to please / to suit",
+      "nepali": "मन पर्नु / उपयुक्त हुनु",
+      "de_example": "Die Jacke gefällt mir sehr.",
+      "np_example": "ज्याकेट मलाई धेरै मन पर्छ।",
+      "en_example": "I really like the jacket."
+    },
+    {
+      "german": "passen",
+      "english": "to fit",
+      "nepali": "फिट हुनु / मिल्नु",
+      "de_example": "Die Schuhe passen mir gut.",
+      "np_example": "जुत्ता मलाई राम्रो फिट हुन्छ।",
+      "en_example": "The shoes fit me well."
+    },
+    {
+      "german": "ausziehen",
+      "english": "to take off (clothes)",
+      "nepali": "खोल्नु / हटाउनु",
+      "de_example": "Ich ziehe die Jacke aus.",
+      "np_example": "म ज्याकेट खोल्छु।",
+      "en_example": "I take off the jacket."
+    },
+    {
+      "german": "anziehen",
+      "english": "to put on (clothes)",
+      "nepali": "लगाउनु",
+      "de_example": "Ich ziehe den Pullover an.",
+      "np_example": "म स्वेटर लगाउँछु।",
+      "en_example": "I put on the sweater."
+    },
+    {
+      "german": "anprobieren",
+      "english": "to try on",
+      "nepali": "ट्राइ गर्नु",
+      "de_example": "Ich probiere die Hose an.",
+      "np_example": "म पाइन्ट ट्राइ गर्दैछु।",
+      "en_example": "I am trying on the pants."
+    },
+    {
+      "german": "shoppen",
+      "english": "to shop",
+      "nepali": "किनमेल गर्नु",
+      "de_example": "Wir gehen shoppen.",
+      "np_example": "हामी किनमेल गर्न जाँदैछौँ।",
+      "en_example": "We are going shopping."
+    },
+    {
+      "german": "empfehlen",
+      "english": "to recommend",
+      "nepali": "सिफारिस गर्नु",
+      "de_example": "Kannst du mir etwas empfehlen?",
+      "np_example": "के तिमी मलाई केही सिफारिस गर्न सक्छौ?",
+      "en_example": "Can you recommend something to me?"
+    },
+    {
+      "german": "zurückschicken",
+      "english": "to send back",
+      "nepali": "फिर्ता पठाउनु",
+      "de_example": "Ich schicke das zurück.",
+      "np_example": "म यसलाई फिर्ता पठाउँदैछु।",
+      "en_example": "I am sending this back."
+    },
+    {
+      "german": "bestellen",
+      "english": "to order",
+      "nepali": "अर्डर गर्नु",
+      "de_example": "Ich bestelle online.",
+      "np_example": "म अनलाइन अर्डर गर्छु।",
+      "en_example": "I order online."
+    },
+    {
+      "german": "erzählen",
+      "english": "to tell / narrate",
+      "nepali": "कथन गर्नु / बताउनु",
+      "de_example": "Erzähle mir die Geschichte.",
+      "np_example": "कथा मलाई भन्नुहोस्।",
+      "en_example": "Tell me the story."
+    },
+    {
+      "german": "der Laden",
+      "english": "store / shop",
+      "nepali": "दुकान",
+      "de_example": "Der Laden hat viele Kleidungsstücke.",
+      "np_example": "दुकानमा धेरै लुगाफाटा छन्।",
+      "en_example": "The store has many clothes."
+    },
+    {
+      "german": "das Kleidergeschäft",
+      "english": "clothes shop",
+      "nepali": "लुगाफाटा पसल",
+      "de_example": "Ich gehe ins Kleidergeschäft.",
+      "np_example": "म लुगाफाटा पसलमा जाँदैछु।",
+      "en_example": "I’m going to the clothes shop."
+    },
+    {
+      "german": "der Secondhand‑Laden",
+      "english": "secondhand shop",
+      "nepali": "सेकेन्डह्यान्ड पसल",
+      "de_example": "Im Secondhand‑Laden sind günstige Sachen.",
+      "np_example": "सेकेन्डह्यान्ड पसलमा सस्तो सामान छ।",
+      "en_example": "There are cheap items in the secondhand shop."
+    },
+    {
+      "german": "der Shop",
+      "english": "shop",
+      "nepali": "शप / पसल",
+      "de_example": "Der Shop hat zwei Etagen.",
+      "np_example": "शपमा दुई तल्ला छन्।",
+      "en_example": "The shop has two floors."
+    },
+    {
+      "german": "das Kaufhaus",
+      "english": "department store",
+      "nepali": "डिपार्टमेन्ट स्टोर",
+      "de_example": "Wir treffen uns im Kaufhaus.",
+      "np_example": "हामी डिपार्टमेन्ट स्टोरमा भेट्छौँ।",
+      "en_example": "We’ll meet at the department store."
+    }, {
+      "german": "rot",
+      "english": "red",
+      "nepali": "रातो",
+      "de_example": "Die Jacke ist rot.",
+      "np_example": "ज्याकेट रातो छ।",
+      "en_example": "The jacket is red."
+    },
+    {
+      "german": "blau",
+      "english": "blue",
+      "nepali": "नीलो",
+      "de_example": "Die Hose ist blau.",
+      "np_example": "पाइन्ट नीलो छ।",
+      "en_example": "The pants are blue."
+    },
+    {
+      "german": "schwarz",
+      "english": "black",
+      "nepali": "कालो",
+      "de_example": "Der Mantel ist schwarz.",
+      "np_example": "कोट कालो छ।",
+      "en_example": "The coat is black."
+    },
+    {
+      "german": "weiß",
+      "english": "white",
+      "nepali": "सेतो",
+      "de_example": "Das Hemd ist weiß.",
+      "np_example": "शर्ट सेतो छ।",
+      "en_example": "The shirt is white."
+    },
+    {
+      "german": "gelb",
+      "english": "yellow",
+      "nepali": "पहेंलो",
+      "de_example": "Die Bluse ist gelb.",
+      "np_example": "ब्लाउज पहेंलो छ।",
+      "en_example": "The blouse is yellow."
+    },
+    {
+      "german": "grün",
+      "english": "green",
+      "nepali": "हरियो",
+      "de_example": "Die Schuhe sind grün.",
+      "np_example": "जुत्ता हरियो छन्।",
+      "en_example": "The shoes are green."
+    },
+    {
+      "german": "aus Baumwolle",
+      "english": "made of cotton",
+      "nepali": "कपास बाट बनेको",
+      "de_example": "Das T-Shirt ist aus Baumwolle.",
+      "np_example": "टी‑शर्ट कपास बाट बनेको छ।",
+      "en_example": "The T‑shirt is made of cotton."
+    },
+    {
+      "german": "aus Leder",
+      "english": "made of leather",
+      "nepali": "छाला बाट बनेको",
+      "de_example": "Der Gürtel ist aus Leder.",
+      "np_example": "पट्टियो छाला बाट बनेको छ।",
+      "en_example": "The belt is made of leather."
+    },
+    {
+      "german": "aus Wolle",
+      "english": "made of wool",
+      "nepali": "ऊनबाट बनेको",
+      "de_example": "Der Pullover ist aus Wolle.",
+      "np_example": "स्वेटर ऊनबाट बनेको छ।",
+      "en_example": "The sweater is made of wool."
+    },
+    {
+      "german": "gemustert",
+      "english": "patterned",
+      "nepali": "डिजाइन भएको / प्याटर्न भएको",
+      "de_example": "Das Hemd ist gemustert.",
+      "np_example": "शर्ट डिजाइन भएको छ।",
+      "en_example": "The shirt is patterned."
+    },
+    {
+      "german": "einfarbig",
+      "english": "plain / one color",
+      "nepali": "एकरंगी / साधारण रंगको",
+      "de_example": "Die Hose ist einfarbig.",
+      "np_example": "पाइन्ट एकरंगी छ।",
+      "en_example": "The pants are plain."
+    },
+    {
+      "german": "zu groß",
+      "english": "too big",
+      "nepali": "धेरै ठूलो",
+      "de_example": "Die Schuhe sind zu groß.",
+      "np_example": "जुत्ता धेरै ठूलो छन्।",
+      "en_example": "The shoes are too big."
+    },
+    {
+      "german": "zu klein",
+      "english": "too small",
+      "nepali": "धेरै सानो",
+      "de_example": "Das T-Shirt ist zu klein.",
+      "np_example": "टी‑शर्ट धेरै सानो छ।",
+      "en_example": "The T‑shirt is too small."
+    },
+    {
+      "german": "eng",
+      "english": "tight",
+      "nepali": "टाइट / चिप्लो",
+      "de_example": "Die Hose ist zu eng.",
+      "np_example": "पाइन्ट धेरै टाइट छ।",
+      "en_example": "The pants are too tight."
+    },
+    {
+      "german": "weit",
+      "english": "loose / wide",
+      "nepali": "फैलीएको / ठूलो",
+      "de_example": "Das Kleid ist zu weit.",
+      "np_example": "ड्रेस धेरै ठूलो छ।",
+      "en_example": "The dress is too loose."
+    },
+    {
+      "german": "modern",
+      "english": "modern",
+      "nepali": "आधुनिक",
+      "de_example": "Die Jacke sieht modern aus.",
+      "np_example": "ज्याकेट आधुनिक देखिन्छ।",
+      "en_example": "The jacket looks modern."
+    },
+    {
+      "german": "altmodisch",
+      "english": "old-fashioned",
+      "nepali": "पुरानो शैलीको",
+      "de_example": "Dieser Mantel ist altmodisch.",
+      "np_example": "यो कोट पुरानो शैलीको छ।",
+      "en_example": "This coat is old-fashioned."
+    },
+    {
+      "german": "schick",
+      "english": "smart / stylish",
+      "nepali": "सुघर / स्टाइलिश",
+      "de_example": "Das Kleid ist schick.",
+      "np_example": "ड्रेस स्टाइलिश छ।",
+      "en_example": "The dress is stylish."
+    },
+    {
+      "german": "billig",
+      "english": "cheap",
+      "nepali": "सस्तो",
+      "de_example": "Die Schuhe sind billig.",
+      "np_example": "जुत्ता सस्तो छन्।",
+      "en_example": "The shoes are cheap."
+    },
+    {
+      "german": "teuer",
+      "english": "expensive",
+      "nepali": "महँगो",
+      "de_example": "Die Jacke ist teuer.",
+      "np_example": "ज्याकेट महँगो छ।",
+      "en_example": "The jacket is expensive."
+    },
+    {
+      "german": "probieren",
+      "english": "to try on",
+      "nepali": "ट्राइ गर्नु / लगाएर हेर्नु",
+      "de_example": "Ich probiere den Pullover an.",
+      "np_example": "म स्वेटर ट्राइ गर्दैछु।",
+      "en_example": "I am trying on the sweater."
+    },
+    {
+      "german": "anziehen",
+      "english": "to put on",
+      "nepali": "लगाउनु",
+      "de_example": "Ich ziehe die Jacke an.",
+      "np_example": "म ज्याकेट लगाउँछु।",
+      "en_example": "I put on the jacket."
+    },
+    {
+      "german": "ausziehen",
+      "english": "to take off",
+      "nepali": "खोल्नु / हटाउनु",
+      "de_example": "Zieh die Schuhe aus.",
+      "np_example": "जूता खोल्नुहोस्।",
+      "en_example": "Take off the shoes."
+    },
+    {
+      "german": "passen",
+      "english": "to fit",
+      "nepali": "फिट हुनु / मिल्नु",
+      "de_example": "Die Schuhe passen mir gut.",
+      "np_example": "जुत्ता मलाई राम्रो फिट हुन्छ।",
+      "en_example": "The shoes fit me well."
+    },
+    {
+      "german": "gefallen",
+      "english": "to please / like",
+      "nepali": "मन पर्नु / रुचाउनु",
+      "de_example": "Die Jacke gefällt mir.",
+      "np_example": "मलाई ज्याकेट मन पर्छ।",
+      "en_example": "I like the jacket."
+    },
+    {
+      "german": "empfehlen",
+      "english": "to recommend",
+      "nepali": "सिफारिस गर्नु",
+      "de_example": "Kannst du mir ein Kleid empfehlen?",
+      "np_example": "के तिमी मलाई ड्रेस सिफारिस गर्न सक्छौ?",
+      "en_example": "Can you recommend a dress to me?"
+    },
+    {
+      "german": "zurückschicken",
+      "english": "to send back",
+      "nepali": "फिर्ता पठाउनु",
+      "de_example": "Ich schicke das Hemd zurück.",
+      "np_example": "म शर्ट फिर्ता पठाउँदैछु।",
+      "en_example": "I am sending back the shirt."
+    },
+    {
+      "german": "bestellen",
+      "english": "to order",
+      "nepali": "अर्डर गर्नु",
+      "de_example": "Ich bestelle eine neue Jacke online.",
+      "np_example": "म अनलाइन नयाँ ज्याकेट अर्डर गर्छु।",
+      "en_example": "I order a new jacket online."
+    },
+    {
+      "german": "shoppen",
+      "english": "to shop",
+      "nepali": "किनमेल गर्नु",
+      "de_example": "Wir gehen am Samstag shoppen.",
+      "np_example": "हामी शनिबार किनमेल गर्न जाँदैछौँ।",
+      "en_example": "We are going shopping on Saturday."
+    }
+  ], 
+
+
+
+"Lektion 12": 
+   [
+    {
+      "german": "der Urlaub",
+      "english": "vacation / holiday",
+      "nepali": "बिदा / छुट्टी",
+      "de_example": "Wir machen im Sommer Urlaub.",
+      "np_example": "हामी गर्मीमा बिदा मनाउँछौँ।",
+      "en_example": "We are going on vacation in summer."
+    },
+    {
+      "german": "der Badeurlaub",
+      "english": "beach holiday",
+      "nepali": "सागर किनाराको बिदा",
+      "de_example": "Ein Badeurlaub am Meer ist toll.",
+      "np_example": "समुद्रको किनारमा बिदा राम्रो हुन्छ।",
+      "en_example": "A beach holiday by the sea is great."
+    },
+    {
+      "german": "der Campingurlaub",
+      "english": "camping holiday",
+      "nepali": "क्याम्पिङ बिदा",
+      "de_example": "Beim Campingurlaub schlafen wir im Zelt.",
+      "np_example": "क्याम्पिङ बिदामा हामी क्याम्पमा सुत्छौँ।",
+      "en_example": "On the camping holiday we sleep in a tent."
+    },
+    {
+      "german": "der Ski‑Urlaub",
+      "english": "skiing holiday",
+      "nepali": "स्की बिदा",
+      "de_example": "Im Winter machen wir Ski‑Urlaub.",
+      "np_example": "हामी जाडोमा स्की बिदा मनाउँछौँ।",
+      "en_example": "We go on a skiing holiday in winter."
+    },
+    {
+      "german": "der Snowboard‑Urlaub",
+      "english": "snowboarding holiday",
+      "nepali": "स्नोबोर्ड बिदा",
+      "de_example": "Der Snowboard‑Urlaub macht Spaß.",
+      "np_example": "स्नोबोर्ड बिदा रमाइलो हुन्छ।",
+      "en_example": "The snowboarding holiday is fun."
+    },
+    {
+      "german": "der Stadturlaub",
+      "english": "city trip / city holiday",
+      "nepali": "सहर घुम्ने बिदा",
+      "de_example": "Wir planen einen Stadturlaub in Basel.",
+      "np_example": "हामी बासेलमा सहर बिदा योजना गर्छौँ।",
+      "en_example": "We plan a city holiday in Basel."
+    },
+    {
+      "german": "der Badeanzug",
+      "english": "swimsuit",
+      "nepali": "स्विम सुट",
+      "de_example": "Ich packe meinen Badeanzug ein.",
+      "np_example": "म आफ्नो स्विम सुट प्याक गर्छु।",
+      "en_example": "I pack my swimsuit."
+    },
+    {
+      "german": "die Badehose",
+      "english": "swimming trunks",
+      "nepali": "स्नान पाइन्ट",
+      "de_example": "Er trägt die Badehose am Strand.",
+      "np_example": "उ समुद्रको किनारमा स्नान पाइन्ट लगाएको छ।",
+      "en_example": "He’s wearing swimming trunks at the beach."
+    },
+    {
+      "german": "der Bikini",
+      "english": "bikini",
+      "nepali": "बिकिनी",
+      "de_example": "Der Bikini ist bunt.",
+      "np_example": "बिकिनी रंगीन छ।",
+      "en_example": "The bikini is colorful."
+    },
+    {
+      "german": "die Sonnencreme",
+      "english": "sunscreen",
+      "nepali": "सनस्क्रिम",
+      "de_example": "Vergiss nicht die Sonnencreme!",
+      "np_example": "सनस्क्रिम नबिर्सनुहोस्!",
+      "en_example": "Don’t forget the sunscreen!"
+    },
+    {
+      "german": "der Schlafsack",
+      "english": "sleeping bag",
+      "nepali": "सुत्ने झोला / स्लीपिङ् ब्याग",
+      "de_example": "Der Schlafsack ist warm.",
+      "np_example": "स्लीपिङ् ब्याग तातो छ।",
+      "en_example": "The sleeping bag is warm."
+    },
+    {
+      "german": "das Zelt",
+      "english": "tent",
+      "nepali": "टेन्ट",
+      "de_example": "Wir stellen das Zelt im Wald auf.",
+      "np_example": "हामी जंगलमा टेन्ट राख्छौँ।",
+      "en_example": "We set up the tent in the forest."
+    },
+    {
+      "german": "der Regenschirm",
+      "english": "umbrella",
+      "nepali": "छाता",
+      "de_example": "Bei Regen nehme ich den Regenschirm mit.",
+      "np_example": "पानी परेमा म छाता लिएर जान्छु।",
+      "en_example": "I take the umbrella when it rains."
+    },
+    {
+      "german": "die Handtasche",
+      "english": "handbag",
+      "nepali": "हातको झोला",
+      "de_example": "Sie nimmt ihre Handtasche.",
+      "np_example": "उ आफ्नो हातको झोला लिन्छ।",
+      "en_example": "She takes her handbag."
+    },
+    {
+      "german": "der Reiseführer",
+      "english": "travel guide (book)",
+      "nepali": "यात्रा मार्गदर्शक पुस्तक",
+      "de_example": "Ich lese den Reiseführer über Basel.",
+      "np_example": "म बासेलको यात्रा मार्गदर्शक पढ्छु।",
+      "en_example": "I’m reading the travel guide about Basel."
+    },
+    {
+      "german": "die Reisetasche",
+      "english": "travel bag / holdall",
+      "nepali": "यात्रा झोला",
+      "de_example": "Die Reisetasche ist schwer.",
+      "np_example": "यात्रा झोला भारी छ।",
+      "en_example": "The travel bag is heavy."
+    },
+    {
+      "german": "das Gepäck",
+      "english": "luggage",
+      "nepali": "सामान / लगेज",
+      "de_example": "Wir packen das Gepäck.",
+      "np_example": "हामी सामान प्याक गर्छौँ।",
+      "en_example": "We pack the luggage."
+    },
+    {
+      "german": "die Sonnenbrille",
+      "english": "sunglasses",
+      "nepali": "सुर्य चश्मा",
+      "de_example": "Die Sonnenbrille schützt die Augen.",
+      "np_example": "सुर्य चश्माले आँखा बचाउँछ।",
+      "en_example": "The sunglasses protect the eyes."
+    },
+    {
+      "german": "einpacken",
+      "english": "to pack up",
+      "nepali": "प्याक गर्नु",
+      "de_example": "Wir müssen alles einpacken.",
+      "np_example": "हामीले सबै सामान प्याक गर्नु पर्छ।",
+      "en_example": "We have to pack everything."
+    },
+    {
+      "german": "mitnehmen",
+      "english": "to take along",
+      "nepali": "संगै लैजानु",
+      "de_example": "Ich nehme den Rucksack mit.",
+      "np_example": "म र्याकस्याक सँगै लैजान्छु।",
+      "en_example": "I take the backpack with me."
+    },
+    {
+      "german": "der Rucksack",
+      "english": "backpack",
+      "nepali": "पाछाडिको झोला",
+      "de_example": "Der Rucksack ist voll.",
+      "np_example": "पाछाडिको झोला भरिएको छ।",
+      "en_example": "The backpack is full."
+    },
+    {
+      "german": "der Helm",
+      "english": "helmet",
+      "nepali": "हेल्मेट",
+      "de_example": "Beim Ski‑Urlaub trage ich den Helm.",
+      "np_example": "स्की बिदामा म हेल्मेट लगाउँछु।",
+      "en_example": "I wear the helmet on the ski holiday."
+    },
+    {
+      "german": "das Wetter",
+      "english": "weather",
+      "nepali": "मौसम",
+      "de_example": "Das Wetter ist heute schön.",
+      "np_example": "आज मौसम राम्रो छ।",
+      "en_example": "The weather is nice today."
+    },
+    {
+      "german": "der Stadtplan",
+      "english": "city map",
+      "nepali": "सहर नक्शा",
+      "de_example": "Ich habe einen Stadtplan gekauft.",
+      "np_example": "मैले सहर नक्शा किनें।",
+      "en_example": "I bought a city map."
+    },
+    {
+      "german": "besichtigen",
+      "english": "to sightsee / visit (places)",
+      "nepali": "दर्शन गर्नु / भ्रमण गर्नु",
+      "de_example": "Wir wollen das Museum besichtigen.",
+      "np_example": "हामी सङ्ग्रहालय भ्रमण गर्न चाहन्छौँ।",
+      "en_example": "We want to visit the museum."
+    },
+ 
+    {
+      "german": "die Ferien",
+      "english": "holidays / vacation",
+      "nepali": "बिदा / छुट्टी",
+      "de_example": "In den Ferien fahre ich nach Italien.",
+      "np_example": "बिदामा म इटाली जाँदैछु।",
+      "en_example": "During the holidays, I am going to Italy."
+    },
+    {
+      "german": "reisen",
+      "english": "to travel",
+      "nepali": "यात्रा गर्नु",
+      "de_example": "Wir reisen gern im Sommer.",
+      "np_example": "हामी गर्मीमा यात्रा गर्न मन पर्छ।",
+      "en_example": "We like to travel in summer."
+    },
+    {
+      "german": "der Flug",
+      "english": "flight",
+      "nepali": "उडान / फ्लाइट",
+      "de_example": "Mein Flug geht um 10 Uhr.",
+      "np_example": "मेरो फ्लाइट १० बजे छ।",
+      "en_example": "My flight is at 10 o'clock."
+    },
+    {
+      "german": "fliegen",
+      "english": "to fly",
+      "nepali": "उड्नु",
+      "de_example": "Ich fliege nach Spanien.",
+      "np_example": "म स्पेन उड्दैछु।",
+      "en_example": "I am flying to Spain."
+    },
+    {
+      "german": "der Bahnhof",
+      "english": "train station",
+      "nepali": "रेल्वे स्टेशन",
+      "de_example": "Wir treffen uns am Bahnhof.",
+      "np_example": "हामी रेल्वे स्टेशनमा भेट्छौँ।",
+      "en_example": "We meet at the train station."
+    },
+    {
+      "german": "der Zug",
+      "english": "train",
+      "nepali": "रेल / ट्रेन",
+      "de_example": "Der Zug fährt pünktlich ab.",
+      "np_example": "रेल समयमै छुट्छ।",
+      "en_example": "The train departs on time."
+    },
+    {
+      "german": "das Hotel",
+      "english": "hotel",
+      "nepali": "होटल",
+      "de_example": "Wir übernachten im Hotel.",
+      "np_example": "हामी होटलमा बस्छौँ।",
+      "en_example": "We stay at the hotel."
+    },
+    {
+      "german": "die Jugendherberge",
+      "english": "youth hostel",
+      "nepali": "जुथ होस्टेल / युवा होस्टेल",
+      "de_example": "Die Jugendherberge ist günstig.",
+      "np_example": "जुथ होस्टेल सस्तो छ।",
+      "en_example": "The youth hostel is cheap."
+    },
+    {
+      "german": "die Pension",
+      "english": "guesthouse / small hotel",
+      "nepali": "पेंशन / सानो होटल",
+      "de_example": "Wir wohnen in einer Pension.",
+      "np_example": "हामी पेंशनमा बस्छौँ।",
+      "en_example": "We stay in a guesthouse."
+    },
+    {
+      "german": "die Reise",
+      "english": "trip / journey",
+      "nepali": "यात्रा",
+      "de_example": "Die Reise nach Berlin dauert 3 Stunden.",
+      "np_example": "बर्लिन यात्रा ३ घण्टा लाग्छ।",
+      "en_example": "The trip to Berlin takes 3 hours."
+    },
+    {
+      "german": "die Buchung",
+      "english": "booking / reservation",
+      "nepali": "बुकिंग / आरक्षण",
+      "de_example": "Ich habe die Buchung online gemacht.",
+      "np_example": "मैले बुकिंग अनलाइन गरे।",
+      "en_example": "I made the booking online."
+    },
+    {
+      "german": "buchen",
+      "english": "to book / reserve",
+      "nepali": "बुक गर्नु / आरक्षण गर्नु",
+      "de_example": "Wir buchen ein Hotelzimmer.",
+      "np_example": "हामी होटलको कोठा बुक गर्छौँ।",
+      "en_example": "We book a hotel room."
+    },
+    {
+      "german": "stornieren",
+      "english": "to cancel",
+      "nepali": "रद्द गर्नु",
+      "de_example": "Ich muss die Reise stornieren.",
+      "np_example": "म यात्रा रद्द गर्नुपर्छ।",
+      "en_example": "I have to cancel the trip."
+    },
+    {
+      "german": "die Sehenswürdigkeit",
+      "english": "sight / tourist attraction",
+      "nepali": "पर्यटन स्थल / दर्शनीय स्थल",
+      "de_example": "Wir besichtigen die Sehenswürdigkeiten.",
+      "np_example": "हामी दर्शनीय स्थलहरू भ्रमण गर्छौँ।",
+      "en_example": "We visit the tourist attractions."
+    },
+    {
+      "german": "besichtigen",
+      "english": "to sightsee / visit",
+      "nepali": "दर्शन गर्नु / भ्रमण गर्नु",
+      "de_example": "Wir besichtigen ein Museum.",
+      "np_example": "हामी सङ्ग्रहालय भ्रमण गर्छौँ।",
+      "en_example": "We visit a museum."
+    },
+    {
+      "german": "die Führung",
+      "english": "guided tour",
+      "nepali": "निर्देशित भ्रमण",
+      "de_example": "Die Führung dauert zwei Stunden.",
+      "np_example": "निर्देशित भ्रमण दुई घण्टा चल्छ।",
+      "en_example": "The guided tour lasts two hours."
+    },
+    {
+      "german": "der Reiseführer",
+      "english": "travel guide (book / person)",
+      "nepali": "यात्रा मार्गदर्शक",
+      "de_example": "Der Reiseführer erklärt alles.",
+      "np_example": "यात्रा मार्गदर्शक सबै कुरा बुझाउँछ।",
+      "en_example": "The travel guide explains everything."
+    },
+    {
+      "german": "packen",
+      "english": "to pack",
+      "nepali": "सामान प्याक गर्नु",
+      "de_example": "Ich packe meinen Koffer.",
+      "np_example": "म आफ्नो झोला प्याक गर्दैछु।",
+      "en_example": "I am packing my suitcase."
+    },
+    {
+      "german": "die Unterkunft",
+      "english": "accommodation",
+      "nepali": "बसोबास / आवास",
+      "de_example": "Wir suchen eine gute Unterkunft.",
+      "np_example": "हामी राम्रो आवास खोज्दैछौँ।",
+      "en_example": "We are looking for good accommodation."
+    },
+    {
+      "german": "der Reisepass",
+      "english": "passport",
+      "nepali": "पासपोर्ट",
+      "de_example": "Bitte zeig deinen Reisepass.",
+      "np_example": "कृपया आफ्नो पासपोर्ट देखाउनुहोस्।",
+      "en_example": "Please show your passport."
+    },
+    {
+      "german": "die Fahrkarte",
+      "english": "ticket (train / bus)",
+      "nepali": "टिकट",
+      "de_example": "Ich kaufe eine Fahrkarte nach Berlin.",
+      "np_example": "म बर्लिनको टिकट किन्दैछु।",
+      "en_example": "I buy a ticket to Berlin."
+    },
+    {
+      "german": "der Plan",
+      "english": "plan",
+      "nepali": "योजना / नक्सा",
+      "de_example": "Hast du einen Plan für den Urlaub?",
+      "np_example": "के तिमीले बिदाको लागि योजना बनायौ?",
+      "en_example": "Do you have a plan for the vacation?"
+    },
+    {
+      "german": "die Reiseversicherung",
+      "english": "travel insurance",
+      "nepali": "यात्रा बीमा",
+      "de_example": "Eine Reiseversicherung ist wichtig.",
+      "np_example": "यात्रा बीमा आवश्यक छ।",
+      "en_example": "Travel insurance is important."
+    },
+    {
+      "german": "der Notfall",
+      "english": "emergency",
+      "nepali": "आपतकालीन अवस्था",
+      "de_example": "Im Notfall rufen Sie bitte diese Nummer an.",
+      "np_example": "आपतकालीन अवस्थामा कृपया यो नम्बरमा कल गर्नुहोस्।",
+      "en_example": "In case of emergency, please call this number."
+    },
+    {
+      "german": "der Stadtplan",
+      "english": "city map",
+      "nepali": "सहर नक्शा",
+      "de_example": "Wir brauchen einen Stadtplan.",
+      "np_example": "हामीलाई सहर नक्शा चाहिन्छ।",
+      "en_example": "We need a city map."
+    } 
+  ]
+}
+
+
+
+
+
+  
