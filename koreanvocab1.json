@@ -1,5 +1,5 @@
 {
-  "Beginner (33 words)": [
+  "초급 수준": [
     {
       "korean": "안녕하세요",
       "english": "Hello",
@@ -258,7 +258,7 @@
     }
   ],
 
-  "Intermediate (33 words)": [
+  "중급 수준": [
     {
       "korean": "시간",
       "english": "Time",
@@ -501,7 +501,7 @@
     }
   ],
 
-  "Advanced (33 words)": [
+  "고급 수준": [
     {
       "korean": "경험",
       "english": "Experience",
