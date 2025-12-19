@@ -1,0 +1,217 @@
+{
+  "questions": [
+    /* -------- Fill in the Blank (15 questions) -------- */
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "sentence": "비___ 와요.",
+      "options": ["가", "를", "에", "와"],
+      "answer": "가"
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "sentence": "지하철___ 빨라요.",
+      "options": ["이", "를", "에", "와"],
+      "answer": "이"
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "sentence": "시장___ 물건을 사요.",
+      "options": ["에", "에서", "로", "와"],
+      "answer": "에서"
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "sentence": "이 음식___ 맛있어요.",
+      "options": ["을", "이", "에", "와"],
+      "answer": "이"
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "sentence": "한국어가 조금___ 어려워요.",
+      "options": ["은", "를", "에", "와"],
+      "answer": "은"
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "sentence": "친구___ 자주 만나요.",
+      "options": ["와", "를", "가", "에"],
+      "answer": "를"
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "sentence": "수업이 ___ 시작해요.",
+      "options": ["지금", "어제", "항상", "가끔"],
+      "answer": "지금"
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "sentence": "버스___ 학교에 가요.",
+      "options": ["를", "로", "에서", "와"],
+      "answer": "로"
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "sentence": "시험이 ___ 끝나요.",
+      "options": ["항상", "가끔", "곧", "자주"],
+      "answer": "곧"
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "sentence": "혼자___ 공부해요.",
+      "options": ["에", "는", "로", "를"],
+      "answer": "는"
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "sentence": "날씨가 ___ 더워요.",
+      "options": ["아주", "가끔", "같이", "천천히"],
+      "answer": "아주"
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "sentence": "한국 음식을 ___ 먹어요.",
+      "options": ["자주", "혼자", "천천히", "항상"],
+      "answer": "자주"
+    },
+    {
+      "id": 13,
+      "type": "fill_in_blank",
+      "sentence": "시간이 ___ 없어요.",
+      "options": ["정말", "같이", "조금", "천천히"],
+      "answer": "정말"
+    },
+    {
+      "id": 14,
+      "type": "fill_in_blank",
+      "sentence": "영화가 ___ 재미있어요.",
+      "options": ["아주", "가끔", "같이", "혼자"],
+      "answer": "아주"
+    },
+    {
+      "id": 15,
+      "type": "fill_in_blank",
+      "sentence": "내일 친구와 ___ 만나요.",
+      "options": ["다시", "빨리", "항상", "혼자"],
+      "answer": "다시"
+    },
+
+    /* -------- Meaning (15 questions) -------- */
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "「날씨」 means:",
+      "options": ["Time", "Season", "Weather", "Day"],
+      "answer": "Weather"
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "What does 「지하철」 mean?",
+      "options": ["Bus", "Taxi", "Subway", "Train"],
+      "answer": "Subway"
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "「시장」 means:",
+      "options": ["Store", "Market", "Office", "Station"],
+      "answer": "Market"
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "What is the meaning of 「맛있다」?",
+      "options": ["Cheap", "Delicious", "Sweet", "Hot"],
+      "answer": "Delicious"
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "「어렵다」 means:",
+      "options": ["Easy", "Interesting", "Difficult", "Fast"],
+      "answer": "Difficult"
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "What does 「쉽다」 mean?",
+      "options": ["Hard", "Easy", "Slow", "Far"],
+      "answer": "Easy"
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "「필요하다」 means:",
+      "options": ["To want", "To need", "To like", "To use"],
+      "answer": "To need"
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "What is the meaning of 「사용하다」?",
+      "options": ["To buy", "To make", "To use", "To fix"],
+      "answer": "To use"
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "「시작하다」 means:",
+      "options": ["To finish", "To stop", "To start", "To wait"],
+      "answer": "To start"
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "What does 「끝나다」 mean?",
+      "options": ["To begin", "To end", "To change", "To continue"],
+      "answer": "To end"
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "「같이」 means:",
+      "options": ["Alone", "Together", "Often", "Slowly"],
+      "answer": "Together"
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "What is the meaning of 「혼자」?",
+      "options": ["Together", "Alone", "Quickly", "Always"],
+      "answer": "Alone"
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "「가끔」 means:",
+      "options": ["Always", "Often", "Sometimes", "Never"],
+      "answer": "Sometimes"
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "What does 「항상」 mean?",
+      "options": ["Sometimes", "Often", "Always", "Never"],
+      "answer": "Always"
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "「빨리」 means:",
+      "options": ["Slowly", "Carefully", "Fast", "Together"],
+      "answer": "Fast"
+    }
+  ]
+}
