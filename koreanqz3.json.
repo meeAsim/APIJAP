@@ -1,0 +1,217 @@
+{
+  "questions": [
+    /* -------- Fill in the Blank (15 questions | Advanced / TOPIK II – Level 3) -------- */
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "sentence": "이 문제는 생각보다 ___ 어려웠어요.",
+      "options": ["아주", "더", "별로", "조금"],
+      "answer": "더"
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "sentence": "시간이 없어서 계획을 ___ 바꿨어요.",
+      "options": ["갑자기", "항상", "자주", "같이"],
+      "answer": "갑자기"
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "sentence": "건강을 ___ 운동을 시작했어요.",
+      "options": ["위해", "부터", "까지", "처럼"],
+      "answer": "위해"
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "sentence": "비가 와서 길이 ___ 미끄러워요.",
+      "options": ["너무", "별로", "조금", "같이"],
+      "answer": "너무"
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "sentence": "노력한 ___ 좋은 결과가 나왔어요.",
+      "options": ["덕분에", "때문에", "하지만", "그래서"],
+      "answer": "덕분에"
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "sentence": "회의가 길어져서 일이 ___ 끝났어요.",
+      "options": ["늦게", "빨리", "이미", "자주"],
+      "answer": "늦게"
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "sentence": "이 일은 혼자 ___ 어렵습니다.",
+      "options": ["하기에는", "하는데", "하면서", "하려고"],
+      "answer": "하기에는"
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "sentence": "경험이 많을수록 선택이 ___ 쉬워져요.",
+      "options": ["더", "아주", "별로", "가끔"],
+      "answer": "더"
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "sentence": "결과가 좋을 ___ 나쁠 수도 있어요.",
+      "options": ["수도", "때문에", "위해서", "덕분에"],
+      "answer": "수도"
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "sentence": "그 사람은 책임감을 ___ 행동해요.",
+      "options": ["가지고", "가지면", "가진", "가지게"],
+      "answer": "가지고"
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "sentence": "환경을 ___ 노력해야 해요.",
+      "options": ["보호하려고", "보호하면", "보호해서", "보호하지만"],
+      "answer": "보호하려고"
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "sentence": "미래를 ___ 지금 열심히 공부해요.",
+      "options": ["위해서", "대해서", "처럼", "보다"],
+      "answer": "위해서"
+    },
+    {
+      "id": 13,
+      "type": "fill_in_blank",
+      "sentence": "생각해 ___ 결정하세요.",
+      "options": ["보고", "보면", "봐서", "볼까"],
+      "answer": "보고"
+    },
+    {
+      "id": 14,
+      "type": "fill_in_blank",
+      "sentence": "문제를 해결하지 ___ 안 돼요.",
+      "options": ["않으면", "않아서", "않지만", "않아도"],
+      "answer": "않으면"
+    },
+    {
+      "id": 15,
+      "type": "fill_in_blank",
+      "sentence": "그 계획은 현실적이지 ___.",
+      "options": ["않아요", "못해요", "없어요", "틀려요"],
+      "answer": "않아요"
+    },
+
+    /* -------- Meaning (15 questions | Advanced) -------- */
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "「경험」 means:",
+      "options": ["Plan", "Experience", "Result", "Reason"],
+      "answer": "Experience"
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "What does 「기회」 mean?",
+      "options": ["Problem", "Chance", "Effort", "Change"],
+      "answer": "Chance"
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "「노력」 means:",
+      "options": ["Success", "Failure", "Effort", "Habit"],
+      "answer": "Effort"
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "What is the meaning of 「결과」?",
+      "options": ["Reason", "Plan", "Result", "Process"],
+      "answer": "Result"
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "「책임」 means:",
+      "options": ["Freedom", "Choice", "Responsibility", "Method"],
+      "answer": "Responsibility"
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "What does 「계획하다」 mean?",
+      "options": ["To decide", "To plan", "To change", "To try"],
+      "answer": "To plan"
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "「성공하다」 means:",
+      "options": ["To fail", "To succeed", "To choose", "To improve"],
+      "answer": "To succeed"
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "What is the meaning of 「변화」?",
+      "options": ["Habit", "Change", "Culture", "Society"],
+      "answer": "Change"
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "「문화」 means:",
+      "options": ["Education", "Society", "Culture", "Environment"],
+      "answer": "Culture"
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "What does 「환경」 mean?",
+      "options": ["Future", "Nature", "Environment", "Health"],
+      "answer": "Environment"
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "「목표」 means:",
+      "options": ["Result", "Reason", "Goal", "Method"],
+      "answer": "Goal"
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "What is the meaning of 「습관」?",
+      "options": ["Plan", "Habit", "Experience", "Effort"],
+      "answer": "Habit"
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "「지식」 means:",
+      "options": ["Education", "Information", "Knowledge", "Culture"],
+      "answer": "Knowledge"
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "What does 「자유」 mean?",
+      "options": ["Peace", "Choice", "Freedom", "Responsibility"],
+      "answer": "Freedom"
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "「평화」 means:",
+      "options": ["Success", "Future", "Peace", "Society"],
+      "answer": "Peace"
+    }
+  ]
+}
