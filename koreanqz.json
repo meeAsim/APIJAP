@@ -1,0 +1,214 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "「안녕하세요」 means what in English?",
+      "options": ["Goodbye", "Hello", "Thank you", "Sorry"],
+      "answer": "Hello"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "What does 「감사합니다」 mean?",
+      "options": ["Sorry", "Hello", "Thank you", "Please"],
+      "answer": "Thank you"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "「학생」 means:",
+      "options": ["Teacher", "Student", "Friend", "Person"],
+      "answer": "Student"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "What is the meaning of 「학교」?",
+      "options": ["House", "School", "Market", "Hospital"],
+      "answer": "School"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Which word means \"water\"?",
+      "options": ["밥", "물", "차", "우유"],
+      "answer": "물"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "「밥을 먹어요」 means:",
+      "options": ["I drink water", "I eat rice", "I go home", "I study"],
+      "answer": "I eat rice"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "What does 「친구」 mean?",
+      "options": ["Family", "Friend", "Teacher", "Student"],
+      "answer": "Friend"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Which verb means \"to go\"?",
+      "options": ["오다", "보다", "가다", "먹다"],
+      "answer": "가다"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "「오늘」 means:",
+      "options": ["Yesterday", "Today", "Tomorrow", "Now"],
+      "answer": "Today"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "What does 「집」 mean?",
+      "options": ["School", "House", "Room", "Office"],
+      "answer": "House"
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "question": "Fill in the blank: 물을 ___요. (to drink)",
+      "options": ["먹", "마시", "보", "가"],
+      "answer": "마시"
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "question": "Fill in the blank: 학교에 ___요. (to go)",
+      "options": ["가", "와", "봐", "자"],
+      "answer": "가"
+    },
+    {
+      "id": 13,
+      "type": "fill_in_blank",
+      "question": "Fill in the blank: 저는 ___입니다. (student)",
+      "options": ["선생님", "학생", "친구", "사람"],
+      "answer": "학생"
+    },
+    {
+      "id": 14,
+      "type": "fill_in_blank",
+      "question": "Fill in the blank: ___ 날씨가 좋아요. (today)",
+      "options": ["내일", "어제", "오늘", "항상"],
+      "answer": "오늘"
+    },
+    {
+      "id": 15,
+      "type": "fill_in_blank",
+      "question": "Fill in the blank: 밥을 ___요. (to eat)",
+      "options": ["마시", "먹", "보", "자"],
+      "answer": "먹"
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "What does 「좋아요」 mean?",
+      "options": ["Bad", "Good", "Big", "Small"],
+      "answer": "Good"
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Which word means \"teacher\"?",
+      "options": ["학생", "사람", "선생님", "친구"],
+      "answer": "선생님"
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "「내일」 means:",
+      "options": ["Today", "Yesterday", "Tomorrow", "Morning"],
+      "answer": "Tomorrow"
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Which word means \"food\"?",
+      "options": ["음식", "물", "집", "길"],
+      "answer": "음식"
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "What does 「자다」 mean?",
+      "options": ["To eat", "To sleep", "To go", "To study"],
+      "answer": "To sleep"
+    },
+    {
+      "id": 21,
+      "type": "fill_in_blank",
+      "question": "Fill in the blank: 저는 집에 ___요. (to be)",
+      "options": ["있", "없", "가", "보"],
+      "answer": "있"
+    },
+    {
+      "id": 22,
+      "type": "fill_in_blank",
+      "question": "Fill in the blank: 친구를 ___요. (to meet)",
+      "options": ["만나", "가", "먹", "자"],
+      "answer": "만나"
+    },
+    {
+      "id": 23,
+      "type": "fill_in_blank",
+      "question": "Fill in the blank: 한국어를 ___요. (to study)",
+      "options": ["공부하", "먹", "보", "자"],
+      "answer": "공부하"
+    },
+    {
+      "id": 24,
+      "type": "fill_in_blank",
+      "question": "Fill in the blank: 방이 ___어요. (small)",
+      "options": ["커", "작", "좋", "많"],
+      "answer": "작"
+    },
+    {
+      "id": 25,
+      "type": "fill_in_blank",
+      "question": "Fill in the blank: 사람이 ___아요. (many)",
+      "options": ["적", "많", "좋", "작"],
+      "answer": "많"
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "Which alphabet is silent at the beginning of a word?",
+      "options": ["ㄱ", "ㄴ", "ㅇ", "ㅁ"],
+      "answer": "ㅇ"
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "Which vowel is used in 「이름」?",
+      "options": ["ㅏ", "ㅓ", "ㅣ", "ㅗ"],
+      "answer": "ㅣ"
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "What is the meaning of 「사람」?",
+      "options": ["Child", "Friend", "Person", "Teacher"],
+      "answer": "Person"
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "「커피」 is:",
+      "options": ["Tea", "Milk", "Coffee", "Water"],
+      "answer": "Coffee"
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "Which word means \"together\"?",
+      "options": ["혼자", "같이", "항상", "가끔"],
+      "answer": "같이"
+    }
+  ]
+}
