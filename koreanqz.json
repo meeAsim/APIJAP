@@ -1,6 +1,6 @@
 {
   "questions": [
-    /* -------- Fill in the Blank (30 questions) -------- */
+
     {
       "id": 1,
       "type": "fill_in_blank",
@@ -212,7 +212,6 @@
       "answer": "는"
     },
 
-    /* -------- Meaning (20 questions) -------- */
     {
       "id": 31,
       "type": "multiple_choice",
