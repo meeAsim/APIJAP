@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "type": "text",
+      "question": "こんにちは means?",
+      "options": ["Goodbye", "Hello", "Thank you"],
+      "answer": 1
+    },
+    {
+      "type": "audio",
+      "question": "https://example.com/audio/arigatou.mp3",
+      "options": ["Sorry", "Thank you", "Excuse me"],
+      "answer": 1
+    }
+  ]
+}
