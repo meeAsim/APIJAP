@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "type": "text",
+      "question": "Danke means?",
+      "options": ["Please", "Sorry", "Thank you"],
+      "answer": 2
+    },
+    {
+      "type": "audio",
+      "question": "https://example.com/audio/hallo.mp3",
+      "options": ["Hello", "Bye", "Yes"],
+      "answer": 0
+    }
+  ]
+}
