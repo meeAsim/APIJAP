@@ -1,22 +1,15 @@
 {
-  "language": "German",
   "questions": [
     {
       "type": "text",
-      "question": "Hello means?",
-      "options": ["Bye", "Hi", "Thanks"],
+      "question": "Synonym of Happy?",
+      "options": ["Sad", "Joyful", "Angry"],
       "answer": 1
     },
     {
       "type": "image",
-      "question": "assets/images/apple.png",
+      "question": "https://example.com/images/apple.png",
       "options": ["Apple", "Banana", "Orange"],
-      "answer": 0
-    },
-    {
-      "type": "audio",
-      "question": "https://example.com/audio/hello.mp3",
-      "options": ["Hello", "Bye", "Thanks"],
       "answer": 0
     }
   ]
