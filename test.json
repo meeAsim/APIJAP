@@ -1,0 +1,23 @@
+{
+  "language": "English",
+  "questions": [
+    {
+      "type": "text",
+      "question": "Hello means?",
+      "options": ["Bye", "Hi", "Thanks"],
+      "answer": 1
+    },
+    {
+      "type": "image",
+      "question": "assets/images/apple.png",
+      "options": ["Apple", "Banana", "Orange"],
+      "answer": 0
+    },
+    {
+      "type": "audio",
+      "question": "https://example.com/audio/hello.mp3",
+      "options": ["Hello", "Bye", "Thanks"],
+      "answer": 0
+    }
+  ]
+}
