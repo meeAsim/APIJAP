@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "type": "text",
+      "question": "안녕하세요 means?",
+      "options": ["Hello", "Bye", "Good night"],
+      "answer": 0
+    },
+    {
+      "type": "image",
+      "question": "https://example.com/images/rice.png",
+      "options": ["Bread", "Rice", "Noodles"],
+      "answer": 1
+    }
+  ]
+}
