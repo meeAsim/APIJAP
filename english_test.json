@@ -1,16 +1,111 @@
 {
+  "test_id": "english_a1_grammar_test",
+  "version": 1,
   "questions": [
     {
+      "id": "q1",
       "type": "text",
-      "question": "Synonym of Happy?",
-      "options": ["Sad", "Joyful", "Angry"],
+      "question": "Choose the correct sentence:",
+      "options": ["She go to school every day.", "She goes to school every day.", "She going to school."],
       "answer": 1
     },
     {
-      "type": "image",
-      "question": "https://example.com/images/apple.png",
-      "options": ["Apple", "Banana", "Orange"],
+      "id": "q2",
+      "type": "text",
+      "question": "Which is correct?",
+      "options": ["I am play football.", "I playing football.", "I am playing football."],
+      "answer": 2
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Select the correct question:",
+      "options": ["You like pizza?", "Do you like pizza?", "Like you pizza?"],
+      "answer": 1
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Choose the correct form:",
+      "options": ["He have a car.", "He has a car.", "He haves a car."],
+      "answer": 1
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Fill in the blank: I ___ to the park yesterday.",
+      "options": ["go", "went", "gone"],
+      "answer": 1
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Select the correct negative form:",
+      "options": ["She not like apples.", "She doesn't likes apples.", "She doesn't like apples."],
+      "answer": 2
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Choose the correct word: There ___ many students in the class.",
+      "options": ["is", "are", "am"],
+      "answer": 1
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Which sentence is correct?",
+      "options": ["I have two brother.", "I have two brothers.", "I has two brothers."],
+      "answer": 1
+    },
+    {
+      "id": "q9",
+      "type": "audio",
+      "question": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "options": ["I am happy.", "I happy am.", "Am I happy?"],
       "answer": 0
+    },
+    {
+      "id": "q10",
+      "type": "audio",
+      "question": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "options": ["She is running.", "Running she is.", "She running is."],
+      "answer": 0
+    },
+    {
+      "id": "q11",
+      "type": "image",
+      "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Grammar_books.jpg/320px-Grammar_books.jpg",
+      "options": ["Books", "Pencils", "Chair"],
+      "answer": 0
+    },
+    {
+      "id": "q12",
+      "type": "image",
+      "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/English_Lesson.jpg/320px-English_Lesson.jpg",
+      "options": ["Lesson", "Playground", "Canteen"],
+      "answer": 0
+    },
+    {
+      "id": "q13",
+      "type": "text",
+      "question": "Choose the correct past form: He ___ a letter yesterday.",
+      "options": ["write", "wrote", "written"],
+      "answer": 1
+    },
+    {
+      "id": "q14",
+      "type": "text",
+      "question": "Which sentence is correct?",
+      "options": ["I am going to the market now.", "I going to the market now.", "I go to market now."],
+      "answer": 0
+    },
+    {
+      "id": "q15",
+      "type": "text",
+      "question": "Choose the correct form: They ___ not at home.",
+      "options": ["is", "are", "am"],
+      "answer": 1
     }
   ]
 }
