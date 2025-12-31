@@ -1,16 +1,111 @@
 {
+  "test_id": "korean_a1_test",
+  "version": 1,
   "questions": [
     {
+      "id": "q1",
       "type": "text",
       "question": "안녕하세요 means?",
-      "options": ["Hello", "Bye", "Good night"],
+      "options": ["Goodbye", "Hello", "Thank you"],
+      "answer": 1
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Which one is 'Thank you' in Korean?",
+      "options": ["감사합니다", "안녕하세요", "죄송합니다"],
       "answer": 0
     },
     {
-      "type": "image",
-      "question": "https://example.com/images/rice.png",
-      "options": ["Bread", "Rice", "Noodles"],
+      "id": "q3",
+      "type": "text",
+      "question": "Which one is 'Sorry' in Korean?",
+      "options": ["안녕", "죄송합니다", "감사합니다"],
       "answer": 1
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Which is the number 3 in Korean?",
+      "options": ["셋", "둘", "하나"],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "What does '학교' mean?",
+      "options": ["School", "Hospital", "Home"],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Which one is 'I' in Korean?",
+      "options": ["나", "너", "우리"],
+      "answer": 0
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "Which one is 'You' in Korean?",
+      "options": ["너", "그", "나"],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "text",
+      "question": "Which one means 'Friend' in Korean?",
+      "options": ["친구", "사람", "집"],
+      "answer": 0
+    },
+    {
+      "id": "q9",
+      "type": "audio",
+      "question": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "options": ["Hello", "Goodbye", "Thank you"],
+      "answer": 0
+    },
+    {
+      "id": "q10",
+      "type": "audio",
+      "question": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "options": ["I love you", "Yes", "No"],
+      "answer": 1
+    },
+    {
+      "id": "q11",
+      "type": "image",
+      "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_South_Korea.svg/320px-Flag_of_South_Korea.svg.png",
+      "options": ["South Korea Flag", "Japan Flag", "China Flag"],
+      "answer": 0
+    },
+    {
+      "id": "q12",
+      "type": "image",
+      "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Korean_food-bibimbap-01.jpg/320px-Korean_food-bibimbap-01.jpg",
+      "options": ["Bibimbap", "Sushi", "Kimchi"],
+      "answer": 0
+    },
+    {
+      "id": "q13",
+      "type": "text",
+      "question": "What is '물' in English?",
+      "options": ["Water", "Tea", "Milk"],
+      "answer": 0
+    },
+    {
+      "id": "q14",
+      "type": "text",
+      "question": "What does '집' mean?",
+      "options": ["House", "School", "Car"],
+      "answer": 0
+    },
+    {
+      "id": "q15",
+      "type": "text",
+      "question": "Which one means 'Good night' in Korean?",
+      "options": ["안녕히 주무세요", "안녕하세요", "감사합니다"],
+      "answer": 0
     }
   ]
 }
