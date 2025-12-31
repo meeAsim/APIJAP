@@ -12,7 +12,7 @@
     {
       "id": "q2",
       "type": "audio",
-      "question": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Ja-konnichiwa.ogg",
+      "question": "https://d38nvwmjovqyq6.cloudfront.net/va90web25003/companions/ws_smith/4%20Speaking%20With%20Line.mp3",
       "options": ["Good night", "Hello", "Thank you", "Goodbye"],
       "answer": 1
     },
