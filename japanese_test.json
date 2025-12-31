@@ -1,16 +1,166 @@
 {
+  "test_id": "japanese_n5",
+  "version": 3,
   "questions": [
     {
+      "id": "q1",
       "type": "text",
-      "question": "こんにちは means?",
-      "options": ["Goodbye", "Hello", "Thank you"],
+      "question": "What does 「こんにちは」 mean?",
+      "options": ["Good morning", "Good evening", "Hello", "Goodbye"],
+      "answer": 2
+    },
+    {
+      "id": "q2",
+      "type": "audio",
+      "question": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Ja-konnichiwa.ogg",
+      "options": ["Good night", "Hello", "Thank you", "Goodbye"],
       "answer": 1
     },
     {
-      "type": "audio",
-      "question": "https://example.com/audio/arigatou.mp3",
-      "options": ["Sorry", "Thank you", "Excuse me"],
+      "id": "q3",
+      "type": "text",
+      "question": "What does 「ありがとう」 mean?",
+      "options": ["Sorry", "Thank you", "Please", "Excuse me"],
       "answer": 1
+    },
+    {
+      "id": "q4",
+      "type": "audio",
+      "question": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Ja-arigatou.ogg",
+      "options": ["Sorry", "Thank you", "Goodbye", "Please"],
+      "answer": 1
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Choose the correct reading for 「日本」",
+      "options": ["にほん", "にっぽん", "Both A and B", "にほんご"],
+      "answer": 2
+    },
+    {
+      "id": "q6",
+      "type": "image",
+      "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Glass_of_water.jpg/320px-Glass_of_water.jpg",
+      "options": ["火", "水", "木", "金"],
+      "answer": 1
+    },
+    {
+      "id": "q7",
+      "type": "text",
+      "question": "What does 「学生」 mean?",
+      "options": ["Teacher", "Student", "School", "Person"],
+      "answer": 1
+    },
+    {
+      "id": "q8",
+      "type": "image",
+      "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/320px-Red_Apple.jpg",
+      "options": ["りんご", "みかん", "ばなな", "ぶどう"],
+      "answer": 0
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "Which sentence means 'I am a student'?",
+      "options": [
+        "わたしは がくせい です。",
+        "わたしは せんせい です。",
+        "あなたは がくせい です。",
+        "がくせい は わたし です。"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q10",
+      "type": "audio",
+      "question": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ja-watashi_wa_gakusei_desu.ogg",
+      "options": [
+        "I am a teacher",
+        "I am a student",
+        "You are a student",
+        "I like students"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q11",
+      "type": "text",
+      "question": "Which particle marks the topic?",
+      "options": ["を", "が", "は", "に"],
+      "answer": 2
+    },
+    {
+      "id": "q12",
+      "type": "text",
+      "question": "Which verb means 'to go'?",
+      "options": ["くる", "いく", "たべる", "みる"],
+      "answer": 1
+    },
+    {
+      "id": "q13",
+      "type": "audio",
+      "question": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Ja-iku.ogg",
+      "options": ["To eat", "To go", "To see", "To come"],
+      "answer": 1
+    },
+    {
+      "id": "q14",
+      "type": "image",
+      "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Japanese_school.jpg/320px-Japanese_school.jpg",
+      "options": ["がっこう", "いえ", "えき", "みせ"],
+      "answer": 0
+    },
+    {
+      "id": "q15",
+      "type": "text",
+      "question": "What does 「せんせい」 mean?",
+      "options": ["Student", "Doctor", "Teacher", "Friend"],
+      "answer": 2
+    },
+    {
+      "id": "q16",
+      "type": "text",
+      "question": "How do you say 'Where' in Japanese?",
+      "options": ["いつ", "だれ", "どこ", "なに"],
+      "answer": 2
+    },
+    {
+      "id": "q17",
+      "type": "audio",
+      "question": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Ja-doko.ogg",
+      "options": ["When", "Who", "Where", "What"],
+      "answer": 2
+    },
+    {
+      "id": "q18",
+      "type": "text",
+      "question": "What does 「いくらですか」 mean?",
+      "options": [
+        "Where is it?",
+        "How much is it?",
+        "What is this?",
+        "Who is it?"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q19",
+      "type": "image",
+      "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Analog_clock_face.jpg/320px-Analog_clock_face.jpg",
+      "options": ["きのう", "きょう", "あした", "まいにち"],
+      "answer": 1
+    },
+    {
+      "id": "q20",
+      "type": "text",
+      "question": "Choose the correct translation: 「わたしは にほんじん です」",
+      "options": [
+        "I am Japanese",
+        "I speak Japanese",
+        "I like Japan",
+        "I go to Japan"
+      ],
+      "answer": 0
     }
   ]
 }
