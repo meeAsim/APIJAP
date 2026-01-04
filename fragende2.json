@@ -23,8 +23,8 @@
       "id": 3,
       "type": "fill_in_blank",
       "sentence": "Wir gehen ___ Kino.",
-      "options": ["in den", "im", "auf das", "bei dem"],
-      "answer": "in den"
+      "options": ["ins", "im", "auf das", "bei dem"],
+      "answer": "ins"
     },
     {
       "id": 4,
